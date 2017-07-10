@@ -880,7 +880,7 @@
 
                         <section class="lotto-news">
 
-                            <h3>Lotto News</h3>
+                            <h3 style="font-weight:bold">Lotto News</h3>
 
                             <hr>
 
@@ -1543,6 +1543,9 @@
                 });
 
         </script>
-    
+        
+        <!-- 80f601e453811a3a139a5120d2f103bf -->
+
+
     </body>
 </html>
