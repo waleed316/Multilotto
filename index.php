@@ -888,47 +888,200 @@
 
                                 <div class="col-md-12">
 
-                                    <div class="row">
+                                    <a href="" class="news-letter">
 
-                                        <div class="col-md-12">
+                                        <div class="row">
 
-                                            <h4 class="heading">Occasional lotto player left in shock after a $4.750.000 victory</h4>
+                                            <div class="col-md-12">
 
+                                                <h4 class="heading">Occasional lotto player left in shock after a $4.750.000 victory</h4>
+
+                                            </div>
+                                        
                                         </div>
                                     
-                                    </div>
-                                
 
-                                    <div class="row">
+                                        <div class="row">
 
-                                        <div class="col-md-3 image-padding">
+                                            <div class="col-md-3 image-padding">
 
-                                            <img src="images/5963164cacd89-thumb.jpg" class="img-responsive">
+                                                <img src="images/5963164cacd89-thumb.jpg" class="img-responsive">
 
+                                            </div>
+
+
+                                            <div class="col-md-9">
+
+                                                <p class="paragraph">Discovery of a giant jackpot always comes as a surprise, no matter how often you buy the tickets, but it’s even more unexpected for those people who play the lottery only a couple of times...</p>
+
+                                            </div>
+
+                                    </a>
                                         </div>
 
+                                        <a href=""><i class="fa fa-facebook icon-border" aria-hidden="true"></i></a>
 
-                                        <div class="col-md-9">
+                                        <a href=""><i class="fa fa-twitter icon-border" aria-hidden="true"></i></a>
 
-                                            <p class="paragraph">Discovery of a giant jackpot always comes as a surprise, no matter how often you buy the tickets, but it’s even more unexpected for those people who play the lottery only a couple of times...</p>
+                                        <a href=""><i class="fa fa-link icon-border" aria-hidden="true"></i></a>
 
+
+                                        <p style="display:inline;color:#ccc;margin-left:7%">2017-07-10</p>
+                                </div>
+
+                            </div>
+
+                            <hr>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+
+                                    <a href="" class="news-letter">
+
+                                        <div class="row">
+
+                                            <div class="col-md-12">
+
+                                                <h4 class="heading">$4.200.000 winner plans to finish college and go shopping in New York</h4>
+
+                                            </div>
+                                        
+                                        </div>
+                                    
+
+                                        <div class="row">
+
+                                            <div class="col-md-3 image-padding">
+
+                                                <img src="images/5961ed943d102-thumb.jpg" class="img-responsive">
+
+                                            </div>
+
+
+                                            <div class="col-md-9">
+
+                                                <p class="paragraph">Becoming $4.200.000 richer often means you won’t have to work for the rest of your life, but Myra Bourgeois has different plans in mind. Despite becoming a lotto millionaire, this lucky...</p>
+
+                                            </div>
+
+                                    </a>
                                         </div>
 
-                                   
-                                    </div>
+                                        <a href=""><i class="fa fa-facebook icon-border" aria-hidden="true"></i></a>
 
-                                    <a><i class="fa fa-facebook icon-border" aria-hidden="true"></i></a>
+                                        <a href=""><i class="fa fa-twitter icon-border" aria-hidden="true"></i></a>
 
-                                    <i class="fa fa-twitter icon-border" aria-hidden="true"></i>
+                                        <a href=""><i class="fa fa-link icon-border" aria-hidden="true"></i></a>
 
-                                    <i class="fa fa-link icon-border" aria-hidden="true"></i>
 
+                                        <p style="display:inline;color:#ccc;margin-left:7%">2017-07-10</p>
+                                </div>
+
+                            </div>
+
+                            <hr>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+
+                                    <a href="" class="news-letter">
+
+                                        <div class="row">
+
+                                            <div class="col-md-12">
+
+                                                <h4 class="heading">Euromillions and Eurojackpot both produce jackpot winners on the same night</h4>
+
+                                            </div>
+                                        
+                                        </div>
+                                    
+
+                                        <div class="row">
+
+                                            <div class="col-md-3 image-padding">
+
+                                                <img src="images/596089926313b-thumb.jpg" class="img-responsive">
+
+                                            </div>
+
+
+                                            <div class="col-md-9">
+
+                                                <p class="paragraph">Friday is always an exciting night for lotto enthusiasts in Europe because that’s the day when they can watch not one, but two lottery draws with the most ground-breaking jackpots on the...
+
+                                                </p>
+
+                                            </div>
+
+                                    </a>
+                                        </div>
+
+                                        <a href=""><i class="fa fa-facebook icon-border" aria-hidden="true"></i></a>
+
+                                        <a href=""><i class="fa fa-twitter icon-border" aria-hidden="true"></i></a>
+
+                                        <a href=""><i class="fa fa-link icon-border" aria-hidden="true"></i></a>
+
+
+                                        <p style="display:inline;color:#ccc;margin-left:7%">2017-07-10</p>
                                 </div>
 
                             </div>
 
 
+                            <hr>
 
+                            <div class="row">
+
+                                <div class="col-md-12">
+
+                                    <a href="" class="news-letter">
+
+                                        <div class="row">
+
+                                            <div class="col-md-12">
+
+                                                <h4 class="heading">Mega Millions is offering the hottest jackpot of the summer worth €163.400.000</h4>
+
+                                            </div>
+                                        
+                                        </div>
+                                    
+
+                                        <div class="row">
+
+                                            <div class="col-md-3 image-padding">
+
+                                                <img src="images/595f21230970a-thumb.jpg" class="img-responsive">
+
+                                            </div>
+
+
+                                            <div class="col-md-9">
+
+                                                <p class="paragraph">There’s no better time to win millions than summertime, because it gives you an opportunity to start your life as a millionaire with an amazing holiday you’ve been waiting for all...
+
+                                                </p>
+
+                                            </div>
+
+                                    </a>
+                                        </div>
+
+                                        <a href=""><i class="fa fa-facebook icon-border" aria-hidden="true"></i></a>
+
+                                        <a href=""><i class="fa fa-twitter icon-border" aria-hidden="true"></i></a>
+
+                                        <a href=""><i class="fa fa-link icon-border" aria-hidden="true"></i></a>
+
+
+                                        <p style="display:inline;color:#ccc;margin-left:7%">2017-07-10</p>
+                                </div>
+
+                            </div>
 
 
                         </section>
@@ -1045,7 +1198,7 @@
                             </div>
                             
                             
-
+                            <!-- commit 
                             <div class="border-back">
 
                                 <div class="row">
@@ -1073,6 +1226,8 @@
 
 
                             </div>
+
+                            <!-- commit end here -->
 
 
                         </section>

@@ -492,12 +492,14 @@
     {
         font-weight:        bold;
         text-decoration:    none!important;
+        color:              black;
     }
 
 .paragraph
     {
         line-height:        1.5em;
         font-size:          16px;
+        color:              black;
     }
 
 .icon-border
@@ -508,10 +510,20 @@
         padding:            7px;
         background-color:   #2e7fbf!important;
         color:              white;
-        margin:             10px 0;
+        margin:             20px 0;
+    }
+
+.news-letter
+    {
+        text-decoration:   none;
     }
 
 
+
+.news-letter>.row>.col-md-12>h4:hover
+    {
+        color:              #2e7fbf!important;
+    }
 
 
 
