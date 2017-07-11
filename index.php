@@ -880,7 +880,7 @@
 
                         <section class="lotto-news">
 
-                            <h3 style="font-weight:bold">Lotto News</h3>
+                            <h3 style="font-weight:bold;color:black">Lotto News</h3>
 
                             <hr>
 
@@ -1084,8 +1084,180 @@
                             </div>
 
 
+                            <a href="" class="more-article pull-right">More articles</a>
+
                         </section>
 
+
+
+                        <section class="Lotto-results">
+
+                            <h3 style="font-weight:bold;color:black">Lotto Results</h3>
+
+
+                            <hr>
+
+                            <a href="">
+                                
+                                <div class="row">
+
+                                    <div class="col-md-2 col-sm-4 col-xs-3">
+
+                                        <img src="images/bonoloto (1).png" class="img-responsive" style="display:inline;margin-top:3px">
+
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-4 col-xs-3">
+
+                                        <h4 class="lottery-name">Bonaloto</h4>
+                                        <h6 class="lottery-date">Monday, 10 July</h6>
+
+                                    </div>
+                                    
+
+                                    <div class="col-md-7 col-sm-4 col-xs-6 text-right">
+
+                                    <a href=""><span class="badge bid-no">5</span></a>
+                                    <a href=""><span class="badge bid-no">8</span></a>
+                                    <a href=""><span class="badge bid-no">30</span></a>
+                                    <a href=""><span class="badge bid-no">69</span></a>
+                                    <a href=""><span class="badge bid-no">4</span></a>
+                                    <a href=""><span class="badge bid-no">10</span></a>
+                                    <a href=""><span class="badge bid-no golden">41</span></a>
+
+                                    </div>
+                                    
+                                    <a href="" class="pull-right check-payout">Check Payout</a>
+    
+
+                                </div>
+
+                            </a>
+
+                            <hr>
+
+                            <a href="">
+                                
+                                <div class="row">
+
+                                    <div class="col-md-2 col-sm-4 col-xs-3">
+
+                                        <img src="images/el-gordo (1).png" class="img-responsive" style="display:inline;margin-top:3px">
+
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-4 col-xs-3">
+
+                                        <h4 class="lottery-name">El Gordo</h4>
+                                        <h6 class="lottery-date">Sunday, 9 July</h6>
+
+                                    </div>
+                                    
+
+                                    <div class="col-md-7 col-sm-4 col-xs-6 text-right">
+
+                                    <a href=""><span class="badge bid-no">7</span></a>
+                                    <a href=""><span class="badge bid-no">29</span></a>
+                                    <a href=""><span class="badge bid-no">40</span></a>
+                                    <a href=""><span class="badge bid-no">41</span></a>
+                                    <a href=""><span class="badge bid-no">46</span></a>
+                                    <a href=""><span class="badge bid-no golden">41</span></a>
+
+                                    </div>
+                                    
+                                    <a href="" class="pull-right check-payout">Check Payout</a>
+    
+
+                                </div>
+
+                            </a>
+
+                            
+                            <hr>
+
+                            <a href="">
+                                
+                                <div class="row">
+
+                                    <div class="col-md-2 col-sm-4 col-xs-3">
+
+                                        <img src="images/usa-powerball (1).png" class="img-responsive" style="display:inline;margin-top:3px">
+
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-4 col-xs-3">
+
+                                        <h4 class="lottery-name">PowerBall</h4>
+                                        <h6 class="lottery-date">Saturday, 8 July</h6>
+
+                                    </div>
+                                    
+
+                                    <div class="col-md-7 col-sm-4 col-xs-6 text-right">
+
+                                    <a href=""><span class="badge bid-no">8</span></a>
+                                    <a href=""><span class="badge bid-no">10</span></a>
+                                    <a href=""><span class="badge bid-no">29</span></a>
+                                    <a href=""><span class="badge bid-no">40</span></a>
+                                    <a href=""><span class="badge bid-no">59</span></a>
+                                    <a href=""><span class="badge bid-no golden">26</span></a>
+
+                                    </div>
+                                    
+                                    <a href="" class="pull-right check-payout">Check Payout</a>
+    
+
+                                </div>
+
+                            </a>
+
+                            
+
+                            <hr>
+
+                            <a href="">
+                                
+                                <div class="row">
+
+                                    <div class="col-md-2 col-sm-4 col-xs-3">
+
+                                        <img src="images/new-york-lotto.png" class="img-responsive" style="display:inline;margin-top:3px">
+
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-4 col-xs-3">
+
+                                        <h4 class="lottery-name">New York Lotto</h4>
+                                        <h6 class="lottery-date">Saturday, 8 July</h6>
+
+                                    </div>
+                                    
+
+                                    <div class="col-md-7 col-sm-4 col-xs-6 text-right">
+
+                                    <a href=""><span class="badge bid-no">7</span></a>
+                                    <a href=""><span class="badge bid-no">21</span></a>
+                                    <a href=""><span class="badge bid-no">24</span></a>
+                                    <a href=""><span class="badge bid-no">33</span></a>
+                                    <a href=""><span class="badge bid-no">41</span></a>
+                                    <a href=""><span class="badge bid-no">45</span></a>
+                                    <a href=""><span class="badge bid-no golden">3</span></a>
+
+                                    </div>
+                                    
+                                    <a href="" class="pull-right check-payout">Check Payout</a>
+    
+
+                                </div>
+
+                            </a>
+
+                            <hr>
+
+                            <a href="" class="more-article pull-right">More Lotteries</a>
+
+
+                        </section>
 
 
                     </div>
@@ -1142,8 +1314,8 @@
                                     </div>
 
                                     <div class="col-md-9 down-margin">
-                                        <h6 class="pull-right margin-zero">THE BIGGEST JACKPOT ON</h6>
-                                        <h3 class="pull-right margin-zero">POWERBALL</h3>
+                                        <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
+                                        <h3 class="pull-right margin-zero ipad-setting no-margin">POWERBALL</h3>
                                     </div>
                                 </a>
                 
@@ -1158,8 +1330,8 @@
                                     </div>
 
                                     <div class="col-md-9 down-margin">
-                                        <h6 class="pull-right margin-zero">THE BIGGEST JACKPOT ON</h6>
-                                        <h3 class="pull-right margin-zero full-text">MEGAMILLIONS</h3>
+                                        <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
+                                        <h3 class="pull-right margin-zero full-text no-margin">MEGAMILLIONS</h3>
                                     </div>
                                 </a>
 
@@ -1174,8 +1346,8 @@
                                     </div>
 
                                     <div class="col-md-9 down-margin">
-                                        <h6 class="pull-right margin-zero">THE BIGGEST JACKPOT ON</h6>
-                                        <h3 class="pull-right margin-zero full-text">EUROMILLIONS</h3>
+                                        <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
+                                        <h3 class="pull-right margin-zero full-text no-margin">EUROMILLIONS</h3>
                                     </div>
                                 </a>
                             </div>
@@ -1190,8 +1362,8 @@
                                     </div>
 
                                     <div class="col-md-9 down-margin">
-                                        <h6 class="pull-right margin-zero">THE BIGGEST JACKPOT ON</h6>
-                                        <h3 class="pull-right margin-zero full-text">SUPERNALOTO</h3>
+                                        <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
+                                        <h3 class="pull-right margin-zero full-text no-margin">SUPERNALOTO</h3>
                                     </div>
                                 </a>
 
