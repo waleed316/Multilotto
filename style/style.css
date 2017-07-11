@@ -695,11 +695,13 @@
 .margin-less
     {
         width:              1%!important;
+        padding:            0!important
     }
 
 .margin-increase
     {
-        width:              19%!important;
+        width:              18.5%!important;
+        padding:            4px!important;
     }
 
 .table-borderless,.upper-border>td
@@ -794,7 +796,10 @@
 
 
 
-
+#bonus-display-in-mobile
+    {
+        display:            none!important;
+    }
 
 
 
@@ -1117,7 +1122,7 @@ and (max-device-width : 480px)
         display:            block!important;
         font-weight:        bold;
         color:              #999;
-        margin:             8px;
+        margin:             8px 5.5%;
     }
 
 
@@ -1150,6 +1155,7 @@ and (max-device-width : 480px)
         display:            block!important;
         background-color:   white!important;
         color:              #5191c4!important;
+        margin-right:       30%!important;
     }
 
 .close-icon
@@ -1159,12 +1165,37 @@ and (max-device-width : 480px)
         color:              white!important;
     }
 
-
+#bonus-display-in-mobile
+    {
+        display:            inline-table!important;
+    }
 
 
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
