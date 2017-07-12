@@ -1644,6 +1644,13 @@ and (max-device-width : 1199px)
         width:              30%!important;
     }
 
-
+.quickpick-btn
+    {
+        background-color:   #5191c4!important;
+        border-color:       transparent!important;
+        font-weight:        bold!important; 
+        margin-top:         8%;
+        margin-right:       8%;
+    }
 
 }
