@@ -188,7 +188,7 @@
 
                                         <div class="col-md-12">
 
-                                            <img src="images/54a6b12e4c9fa.jpg" class="img-responsive">
+                                            <img src="images/54a6b12e4c9fa.jpg" class="img-responsive" style="width:100%">
 
                                         </div>
                                         
@@ -223,7 +223,7 @@
 
                                         <div class="row">
 
-                                            <div class="container">
+                                            <div class="container ipad-width">
 
                                                 <div class="col-md-1 margin-less"></div>
 
@@ -2115,137 +2115,1098 @@
 
                             <div id="menu1" class="tab-pane fade">
                                 
-                              
+                                <section>
+
+                                    <div class="row">
+
+                                        <div class="col-md-12">
+
+                                            <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
+
+                                        </div>
+                                        
+                                    </div>
+
+
+
+                                    <section class="background-clr">
+                                    
+                                        <div class="row mobile-hide">
+
+                                            <div class="container">
+                                                
+                                                <div class="col-md-12">
+
+                                                    <h2 class="pick-heading">Pick 5 or more Number</h2>
+
+                                                </div>
+                                            
+                                            </div>
+
+                                        </div>
+
+
+                                        <div class="row">
+
+                                            <div class="container ipad-width" style="padding:0">
+
+                                                <div class="col-md-1 margin-less"></div>
+
+
+                                                <div class="col-md-3 margin-increase2">
+
+                                                    <div class="panel panel-default no-border">
+                                                        <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                        <div class="panel-body checkbox-body">
+
+                                                            <div class="table-responsive table-borderless">
+
+                                                                <table class="table">
+
+                                                                    <tbody>
+                                                                        
+                                                                        <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a href="" class="extra-padding">27</a></td>
+                                                                            <td><a href="" class="extra-padding">28</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">29</a></td>
+                                                                            <td><a href="" class="extra-padding">30</a></td>
+                                                                            <td><a href="" class="extra-padding">31</a></td>
+                                                                            <td><a href="" class="extra-padding">32</a></td>
+                                                                            <td><a href="" class="extra-padding">33</a></td>
+                                                                            <td><a href="" class="extra-padding">34</a></td>
+                                                                            <td><a href="" class="extra-padding">35</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">36</a></td>
+                                                                            <td><a href="" class="extra-padding">37</a></td>
+                                                                            <td><a href="" class="extra-padding">38</a></td>
+                                                                            <td><a href="" class="extra-padding">39</a></td>
+                                                                            <td><a href="" class="extra-padding">40</a></td>
+                                                                            <td><a href="" class="extra-padding">41</a></td>
+                                                                            <td><a href="" class="extra-padding">42</a></td>
+                                                                            
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">43</a></td>
+                                                                            <td><a href="" class="extra-padding">44</a></td>
+                                                                            <td><a href="" class="extra-padding">45</a></td>
+                                                                            <td><a href="" class="extra-padding">46</a></td>
+                                                                            <td><a href="" class="extra-padding">47</a></td>
+                                                                            <td><a href="" class="extra-padding">48</a></td>
+                                                                            <td><a href="" class="extra-padding">49</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+                                                                           
+                                                                            <td><a href="" class="extra-padding">50</a></td>
+                                                                            <td><a href="" class="extra-padding">51</a></td>
+                                                                            <td><a href="" class="extra-padding">52</a></td>
+                                                                            <td><a href="" class="extra-padding">53</a></td>
+                                                                            <td><a href="" class="extra-padding">54</a></td>
+                                                                            <td><a href="" class="extra-padding">55</a></td>
+                                                                            <td><a href="" class="extra-padding">56</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">57</a></td>
+                                                                            <td><a href="" class="extra-padding">58</a></td>
+                                                                            <td><a href="" class="extra-padding">59</a></td>
+                                                                            <td><a href="" class="extra-padding">60</a></td>
+                                                                            <td><a href="" class="extra-padding">61</a></td>
+                                                                            <td><a href="" class="extra-padding">62</a></td>
+                                                                            <td><a href="" class="extra-padding">63</a></td>
+                                                                            
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">64</a></td>
+                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a href="" class="extra-padding">66</a></td>
+                                                                            <td><a href="" class="extra-padding">67</a></td>
+                                                                            <td><a href="" class="extra-padding">68</a></td>
+                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            
+
+                                                                        </tr>
+
+
+                                                                    </tbody>
+
+                                                                </table>
+
+                                                               
+                                                               
+
+                                                                <h4 class="mobile-display-heading" style="font-size:13px;">...And Pick 1 or more bonus number</h4>
+
+                                                                <table class="table" id="bonus-display-in-mobile">
+
+                                                                    <tbody>
+                                                                        
+                                                                   
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                    </tbody>
+
+                                                                </table>
+
+
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                                </div>
+
+
+                                                <div class="col-md-5 white-backgroun-system-game">
+
+                                                    <ul class="system-game-random">
+
+                                                        <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                    
+                                                
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+
+
+                                        <!-- Bonus Section -->
+
+
+                                        <div class="row mobile-hide">
+
+                                            <div class="container">
+                                                
+                                                <div class="col-md-12">
+
+                                                    <h2 class="pick-heading">...And Pick 1 or more bonus number</h2>
+
+                                                </div>
+                                            
+                                            </div>
+
+                                        </div>
+
+
+                                         <div class="row mobile-hide">
+
+                                            <div class="container" style="padding:0">
+
+                                                <div class="col-md-1 margin-less"></div>
+
+
+                                                <div class="col-md-3 margin-increase2">
+
+                                                    <div class="panel panel-default no-border">
+                                                        
+                                                        <div class="panel-body checkbox-body">
+
+                                                           <div class="table-responsive table-borderless">
+
+                                                                <table class="table">
+
+                                                                    <tbody>
+                                                                        
+                                                                   
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+
+                                                                        </tr>
+                                                         
+                                                                    </tbody>
+
+                                                                </table>
+
+                                                               
+
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                                </div>
+
+
+                                                <div class="col-md-5 white-backgroun-system-game2">
+
+                                                    <ul class="system-game-random">
+
+                                                        <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <!-- Bonus Section end here -->
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                  
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary Section Start here -->
+
+                                        <section class="summary-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h4 class="draw-heading">Choose draws</h4>
+
+                                                    <ul class="draw-order-list">
+
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">1 draw</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2">€3.50</h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
+
+
+                                                    </ul>
+
+                                                    <hr style="border-color:#6dc731;">
+                                                    
+                                                    <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary section end here -->
+
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>    
+
+
+                                        <!-- pay and good luck section -->
+                                        <section class="pay-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h3 class="draw-heading1">Pay and good luck!<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
+                                                    
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+                                        <!-- pay and good luck section end Here -->
+
+
+                                    </section>
+
+                                    
+
+
+                                </section>
 
                             </div>
 
 
                             <div id="menu2" class="tab-pane fade">
                                  
-                                 <div class="row">
+                                <section>
 
-                                    <section>
+                                    <div class="row">
 
                                         <div class="col-md-12">
 
-                                            <div class="table-responsive">
+                                            <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
 
-                                                <table class="table table-hover">
-
-                                                    <thead>
-
-                                                        <tr class="upper-table">
-                                                            <th>&nbsp;</th>
-                                                            <th>LOTTERY</th>
-                                                            <th>JACKPOT</th>
-                                                            <th>TIME LEFT</th>
-                                                            <th>&nbsp;</th>
-                                                        </tr>
-
-                                                    </thead>
+                                        </div>
+                                        
+                                    </div>
 
 
-                                                    <tbody class="lower-table">
 
-                                                        <tr> 
-                                                            <td><img src="images/0f0cc939fcf3d51972ce857525d319b5.jpg" style="height:18px;"></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-                                                        
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">2</span></td>
-                                                            <td><img src="images/images.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
+                                    <section class="background-clr">
+                                    
+                                        <div class="row mobile-hide">
 
-                                                        <tr> 
-                                                            <td><span class="badge">3</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
+                                            <div class="container">
+                                                
+                                                <div class="col-md-12">
 
+                                                    <h2 class="pick-heading">Pick 5 or more Number</h2>
 
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">4</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">5</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">6</span></td>
-                                                            <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">7</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">8</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">9</span></td>
-                                                            <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">10</span></td>
-                                                            <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-                                                    
-
-
-                                                    </tbody>
-
-                                                </table>
+                                                </div>
                                             
                                             </div>
 
                                         </div>
-                                    
+
+
+                                        <div class="row">
+
+                                            <div class="container ipad-width" style="padding:0">
+
+                                                <div class="col-md-1 margin-less"></div>
+
+
+                                                <div class="col-md-3 margin-increase2">
+
+                                                    <div class="panel panel-default no-border">
+                                                        <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                        <div class="panel-body checkbox-body">
+
+                                                            <div class="table-responsive table-borderless">
+
+                                                                <table class="table">
+
+                                                                    <tbody>
+                                                                        
+                                                                        <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a href="" class="extra-padding">27</a></td>
+                                                                            <td><a href="" class="extra-padding">28</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">29</a></td>
+                                                                            <td><a href="" class="extra-padding">30</a></td>
+                                                                            <td><a href="" class="extra-padding">31</a></td>
+                                                                            <td><a href="" class="extra-padding">32</a></td>
+                                                                            <td><a href="" class="extra-padding">33</a></td>
+                                                                            <td><a href="" class="extra-padding">34</a></td>
+                                                                            <td><a href="" class="extra-padding">35</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">36</a></td>
+                                                                            <td><a href="" class="extra-padding">37</a></td>
+                                                                            <td><a href="" class="extra-padding">38</a></td>
+                                                                            <td><a href="" class="extra-padding">39</a></td>
+                                                                            <td><a href="" class="extra-padding">40</a></td>
+                                                                            <td><a href="" class="extra-padding">41</a></td>
+                                                                            <td><a href="" class="extra-padding">42</a></td>
+                                                                            
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">43</a></td>
+                                                                            <td><a href="" class="extra-padding">44</a></td>
+                                                                            <td><a href="" class="extra-padding">45</a></td>
+                                                                            <td><a href="" class="extra-padding">46</a></td>
+                                                                            <td><a href="" class="extra-padding">47</a></td>
+                                                                            <td><a href="" class="extra-padding">48</a></td>
+                                                                            <td><a href="" class="extra-padding">49</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+                                                                           
+                                                                            <td><a href="" class="extra-padding">50</a></td>
+                                                                            <td><a href="" class="extra-padding">51</a></td>
+                                                                            <td><a href="" class="extra-padding">52</a></td>
+                                                                            <td><a href="" class="extra-padding">53</a></td>
+                                                                            <td><a href="" class="extra-padding">54</a></td>
+                                                                            <td><a href="" class="extra-padding">55</a></td>
+                                                                            <td><a href="" class="extra-padding">56</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">57</a></td>
+                                                                            <td><a href="" class="extra-padding">58</a></td>
+                                                                            <td><a href="" class="extra-padding">59</a></td>
+                                                                            <td><a href="" class="extra-padding">60</a></td>
+                                                                            <td><a href="" class="extra-padding">61</a></td>
+                                                                            <td><a href="" class="extra-padding">62</a></td>
+                                                                            <td><a href="" class="extra-padding">63</a></td>
+                                                                            
+                                                                            
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">64</a></td>
+                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a href="" class="extra-padding">66</a></td>
+                                                                            <td><a href="" class="extra-padding">67</a></td>
+                                                                            <td><a href="" class="extra-padding">68</a></td>
+                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            
+
+                                                                        </tr>
+
+
+                                                                    </tbody>
+
+                                                                </table>
+
+                                                               
+                                                               
+
+                                                                <h4 class="mobile-display-heading" style="font-size:13px;">...And Pick 1 or more bonus number</h4>
+
+                                                                <table class="table" id="bonus-display-in-mobile">
+
+                                                                    <tbody>
+                                                                        
+                                                                   
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            
+
+                                                                        </tr>
+
+                                                                    </tbody>
+
+                                                                </table>
+
+
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                                </div>
+
+
+                                                <div class="col-md-5 white-backgroun-system-game">
+
+                                                    <ul class="system-game-random">
+
+                                                        <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                    
+                                                
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+
+
+                                        <!-- Bonus Section -->
+
+
+                                        <div class="row mobile-hide">
+
+                                            <div class="container">
+                                                
+                                                <div class="col-md-12">
+
+                                                    <h2 class="pick-heading">...And Pick 1 or more bonus number</h2>
+
+                                                </div>
+                                            
+                                            </div>
+
+                                        </div>
+
+
+                                         <div class="row mobile-hide">
+
+                                            <div class="container" style="padding:0">
+
+                                                <div class="col-md-1 margin-less"></div>
+
+
+                                                <div class="col-md-3 margin-increase2">
+
+                                                    <div class="panel panel-default no-border">
+                                                        
+                                                        <div class="panel-body checkbox-body">
+
+                                                           <div class="table-responsive table-borderless">
+
+                                                                <table class="table">
+
+                                                                    <tbody>
+                                                                        
+                                                                   
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="">1</a></td>
+                                                                            <td><a href="">2</a></td>
+                                                                            <td><a href="">3</a></td>
+                                                                            <td><a href="">4</a></td>
+                                                                            <td><a href="">5</a></td>
+                                                                            <td><a href="">6</a></td>
+                                                                            <td><a href="">7</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="">8</a></td>
+                                                                            <td><a href="">9</a></td>
+                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a href="" class="extra-padding">11</a></td>
+                                                                            <td><a href="" class="extra-padding">12</a></td>
+                                                                            <td><a href="" class="extra-padding">13</a></td>
+                                                                            <td><a href="" class="extra-padding">14</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            
+                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a href="" class="extra-padding">16</a></td>
+                                                                            <td><a href="" class="extra-padding">17</a></td>
+                                                                            <td><a href="" class="extra-padding">18</a></td>
+                                                                            <td><a href="" class="extra-padding">19</a></td>
+                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a href="" class="extra-padding">21</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a href="" class="extra-padding">22</a></td>
+                                                                            <td><a href="" class="extra-padding">23</a></td>
+                                                                            <td><a href="" class="extra-padding">24</a></td>
+                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a href="" class="extra-padding">26</a></td>
+
+                                                                        </tr>
+                                                         
+                                                                    </tbody>
+
+                                                                </table>
+
+                                                               
+
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                                </div>
+
+
+                                                <div class="col-md-5 white-backgroun-system-game2">
+
+                                                    <ul class="system-game-random">
+
+                                                        <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                        <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <!-- Bonus Section end here -->
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                  
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary Section Start here -->
+
+                                        <section class="summary-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h4 class="draw-heading">Choose draws</h4>
+
+                                                    <ul class="draw-order-list">
+
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">1 draw</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2">€3.50</h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
+
+
+                                                    </ul>
+
+                                                    <hr style="border-color:#6dc731;">
+                                                    
+                                                    <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary section end here -->
+
+
+
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>    
+
+
+                                        <!-- playes/shares section -->
+                                        <section class="pay-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h3 class="draw-heading1">Choose amount of players/shares<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
+                                                    
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+                                        <!--  playes/shares section end here -->
+
+
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>    
+
+
+                                        <!-- playes name section -->
+                                        <section class="pay-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h3 class="draw-heading1">Choose a name for your game<input type="text" class="pull-right player-name" id="player-name" name="player-name"></h3>
+                                                    
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+                                        <!--  playes name section end here -->
+
+
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>    
+
+
+                                        <!-- pay and good luck section -->
+                                        <section class="pay-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h3 class="draw-heading1">Pay and good luck!<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
+                                                    
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+                                        <!-- pay and good luck section end Here -->
+
+
+
+
+
                                     </section>
 
-                                </div>
+                                    
+
+
+                                </section>
+
 
                             </div>
                         
@@ -2766,13 +3727,13 @@
             });    
         </script>
 
-        <!--<script>    
+        <script>    
 
             (function()
                 {
                     var v1 = document.getElementById('s_fac').value;
 
-                    if(document.getElementById("s-fac").checked == true )
+                    if(document.getElementById("s_fac").checked == true )
                         {
                             document.getElementById('draw-no').innerHTML = v1
                         }
@@ -2781,7 +3742,7 @@
             ()
             
            
-        </script>-->
+        </script>
 
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->

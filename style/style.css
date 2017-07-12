@@ -905,12 +905,65 @@
     }
 
 
+.mobile-display1
+    {
+        display:            none!important;
+    }
+
+.system-game-random
+    {
+        list-style:         none;
+    }
+
+
+.system-game-random>li
+    {
+        margin:             10px 0;
+    }
+
+
+.system-game-random>li>h5, .system-game-random>li>h6, .system-game-random>li>button
+    {
+        display:            inline;
+        margin-right:       15px;
+        font-weight:        bold;
+
+    }
+
+
+.system-game-random>li>button
+    {
+        padding:            3px 5px!important;
+        font-size:          11px!important;
+        float:              right;
+    }
+
+.system-game-random>li>h6
+    {
+        font-size:          12px!important;
+        font-weight:        normal!important;
+    }
 
 
 
 
+.white-backgroun-system-game
+    {
+        background-color:   white;
+        padding:            25px;
+        border-radius:      4px;
+        margin-top:         3.8%;
+    }
 
 
+
+.white-backgroun-system-game2
+    {
+        background-color:   white;
+        padding:            20px 25px;
+        border-radius:      4px;
+
+    }
 
 
 
@@ -1119,17 +1172,107 @@ header nav ul li .fa-angle-down {
 }
 
 
+    @media only screen
+and (min-device-width : 736px)
+and (max-device-width : 900px) 
+{
 
 
 
+.mobile-hide
+    {
+            display:                none;
+    }
+
+
+.ipad-width
+    {
+            padding:                0 45px!important;              
+    }
+
+
+.background-clr
+        {
+            background-color:       transparent;
+            bottom:                 300px;
+            margin:                 0;   
+        }
+
+
+.mobile-display-heading
+    {
+        display:            block!important;
+        font-weight:        bold;
+        color:              #999;
+        margin:             8px 5.5%;
+    }
+
+    
+.checkbox-body
+    {
+        background-color:   #fdf2e7;
+    }
+
+
+.upper-border>td>a 
+    {
+        background-color:   white;
+    }
+
+.mobile-display
+    {
+        display:            block!important;
+        background-color:   white!important;
+        color:              #5191c4!important;
+        margin-right:       30%!important;
+    }
+
+.close-icon
+    {
+        display:            block!important;
+        background-color:   transparent!important;
+        color:              white!important;
+    }
+
+
+.random-btn
+    {
+        display:            none!important;
+    }
 
 
 
+#bonus-display-in-mobile
+    {
+        display:            inline-table!important;
+    }
+
+.add-lines
+    {
+        display:            none;
+    }
 
 
 
+.table-lower-icon
+    {
+        float:             right!important;
+        margin-right:      5%;         
+    }
+
+.white-backgroun-system-game2, .white-backgroun-system-game
+    {
+        display:        none!important;
+    }
+
+.player-name
+    {
+        width:          30%;
+    }
 
 
+
+}
 
 
 
@@ -1138,7 +1281,7 @@ header nav ul li .fa-angle-down {
 
     @media only screen
 and (min-device-width : 320px)
-and (max-device-width : 480px) 
+and (max-device-width : 736px) 
 {
 
 
@@ -1269,6 +1412,13 @@ and (max-device-width : 480px)
         margin-right:       30%!important;
     }
 
+.mobile-display1
+    {
+        display:            block!important;
+        background-color:   white!important;
+        color:              #5191c4!important;
+    }
+
 .close-icon
     {
         display:            block!important;
@@ -1332,6 +1482,19 @@ and (max-device-width : 480px)
         list-style:        none;
         text-align:         center;
     }
+
+
+.white-backgroun-system-game2, .white-backgroun-system-game
+    {
+        display:        none!important;
+    }
+
+
+
+
+
+
+
 
 
 
@@ -1458,7 +1621,10 @@ and (max-device-width : 1199px)
     }
 
 
-
+.margin-increase2
+    {
+        width:              30%!important;
+    }
 
 
 
