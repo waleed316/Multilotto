@@ -727,6 +727,7 @@
 .upper-border>td>a:hover
     {
         border-color:       #62b32c;
+        cursor:             pointer;
     }
 
 .upper-border>td>a:active
@@ -966,8 +967,17 @@
     }
 
 
+.background_color
+    {
+        background-color:   #62b32c;
+        color:              white!important;
+        border-color:       #62b32c!important;
+    }
 
-
+.background_color2
+    {
+        background-color:   white;
+    }
 
 
 

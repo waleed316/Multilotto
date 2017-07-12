@@ -7,7 +7,13 @@
     
 
     <body>
-        
+
+       
+            
+           
+
+
+
         <div class="container main-margin">
             
             <div class="row">
@@ -244,142 +250,142 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">56</a></td>
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
 
                                                                         </tr>
 
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
 
                                                                         </tr>
                                                                         
@@ -403,57 +409,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
 
@@ -488,142 +494,142 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">56</a></td>
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
 
                                                                         </tr>
 
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
 
                                                                         </tr>
                                                                         
@@ -634,7 +640,7 @@
 
                                                                 </table>
 
-                                                                
+                                                               
                                                                 <a href="" class="btn btn-primary random-btn">RANDOM</a>
 
                                                                 <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
@@ -647,57 +653,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
 
@@ -705,7 +711,8 @@
 
                                                                 </table>
 
-                                                                    <a href="" class="fa fa-trash table-lower-icon"></a>
+
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
 
 
                                                             </div>
@@ -722,7 +729,7 @@
                                                         <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                         <div class="panel-body checkbox-body">
 
-                                                           <div class="table-responsive table-borderless">
+                                                            <div class="table-responsive table-borderless">
 
                                                                 <table class="table">
 
@@ -732,142 +739,142 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">56</a></td>
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
 
                                                                         </tr>
 
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
 
                                                                         </tr>
                                                                         
@@ -878,14 +885,12 @@
 
                                                                 </table>
 
-                                                                
+                                                               
                                                                 <a href="" class="btn btn-primary random-btn">RANDOM</a>
 
                                                                 <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
-
-
-                                                                 <table class="table" id="bonus-display-in-mobile">
+                                                                <table class="table" id="bonus-display-in-mobile">
 
                                                                     <tbody>
                                                                         
@@ -893,57 +898,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
 
@@ -951,252 +956,8 @@
 
                                                                 </table>
 
-                                                                    <a href="" class="fa fa-trash table-lower-icon"></a>
 
-                                                            </div>
-                                                            
-                                                        </div>
-                                                    </div>
-                                                
-                                                </div>
-
-
-                                                <div class="col-md-2 margin-increase">
-
-                                                    <div class="panel panel-default no-border">
-                                                        <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
-                                                        <div class="panel-body checkbox-body">
-
-                                                           <div class="table-responsive table-borderless">
-
-                                                                <table class="table">
-
-                                                                    <tbody>
-                                                                        
-                                                                        <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">56</a></td>
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
-
-                                                                        </tr>
-                                                                        
-                                                                        
-
-
-                                                                    </tbody>
-
-                                                                </table>
-
-                                                                
-                                                                <a href="" class="btn btn-primary random-btn">RANDOM</a>
-
-                                                                <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
-
-
-
-                                                                 <table class="table" id="bonus-display-in-mobile">
-
-                                                                    <tbody>
-                                                                        
-                                                                   
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-
-                                                                        </tr>
-
-                                                                    </tbody>
-
-                                                                </table>
-
-                                                                    <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
 
 
                                                             </div>
@@ -1213,7 +974,7 @@
                                                         <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                         <div class="panel-body checkbox-body">
 
-                                                           <div class="table-responsive table-borderless">
+                                                            <div class="table-responsive table-borderless">
 
                                                                 <table class="table">
 
@@ -1223,142 +984,142 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-
-                                                                        </tr>
-
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">56</a></td>
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-
-                                                                        </tr>
-
-                                                                        <tr class="upper-border">
-
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
 
                                                                         </tr>
 
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
 
                                                                         </tr>
                                                                         
@@ -1369,14 +1130,12 @@
 
                                                                 </table>
 
-                                                                
+                                                               
                                                                 <a href="" class="btn btn-primary random-btn">RANDOM</a>
 
                                                                 <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
-
-
-                                                                 <table class="table" id="bonus-display-in-mobile">
+                                                                <table class="table" id="bonus-display-in-mobile">
 
                                                                     <tbody>
                                                                         
@@ -1384,67 +1143,313 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
 
                                                                     </tbody>
 
-                                                                    
+                                                                </table>
+
+
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
+                                                            </div>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                                </div>
+
+
+                                                <div class="col-md-2 margin-increase">
+
+                                                    <div class="panel panel-default no-border">
+                                                        <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                        <div class="panel-body checkbox-body">
+
+                                                            <div class="table-responsive table-borderless">
+
+                                                                <table class="table">
+
+                                                                    <tbody>
+                                                                        
+                                                                        <h4 class="mobile-display-heading">Pick 5 Number</h4>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+
+                                                                        </tr>
+
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
+
+                                                                        </tr>
+                                                                        
+                                                                        
+
+
+                                                                    </tbody>
 
                                                                 </table>
 
-                                                                    <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                               
+                                                                <a href="" class="btn btn-primary random-btn">RANDOM</a>
+
+                                                                <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
+
+                                                                <table class="table" id="bonus-display-in-mobile">
+
+                                                                    <tbody>
+                                                                        
+                                                                   
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+
+                                                                        </tr>
+
+                                                                        <tr class="upper-border">
+
+                                                                            <td><a  class="extra-padding">26</a></td>
+
+                                                                        </tr>
+
+                                                                    </tbody>
+
+                                                                </table>
+
+
+                                                                     <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
                                                             </div>
                                                             
                                                         </div>
@@ -1501,57 +1506,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                 
                                                                         </tr>
 
@@ -1572,7 +1577,7 @@
                                                 </div>
 
 
-                                                 <div class="col-md-2 margin-increase">
+                                                <div class="col-md-2 margin-increase">
 
                                                     <div class="panel panel-default no-border">
                                                         
@@ -1588,57 +1593,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                 
                                                                         </tr>
 
@@ -1660,7 +1665,7 @@
 
 
 
-                                                 <div class="col-md-2 margin-increase">
+                                                <div class="col-md-2 margin-increase">
 
                                                     <div class="panel panel-default no-border">
                                                         
@@ -1676,57 +1681,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                 
                                                                         </tr>
 
@@ -1747,7 +1752,7 @@
                                                 </div>
 
 
-                                                 <div class="col-md-2 margin-increase">
+                                                <div class="col-md-2 margin-increase">
 
                                                     <div class="panel panel-default no-border">
                                                         
@@ -1763,57 +1768,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                 
                                                                         </tr>
 
@@ -1849,57 +1854,57 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
-                                                                            <td><a href="" class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">21</a></td>
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                 
                                                                         </tr>
 
@@ -2169,77 +2174,77 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
                                                                             
 
                                                                         </tr>
@@ -2247,38 +2252,38 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
                                                                            
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-                                                                            <td><a href="" class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+                                                                            <td><a  class="extra-padding">56</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
                                                                             
                                                                             
 
@@ -2286,12 +2291,12 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
                                                                             
 
                                                                         </tr>
@@ -2314,49 +2319,49 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                             
 
                                                                         </tr>
@@ -2442,49 +2447,49 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
                                                          
@@ -2683,77 +2688,77 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
-                                                                            <td><a href="" class="extra-padding">27</a></td>
-                                                                            <td><a href="" class="extra-padding">28</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">27</a></td>
+                                                                            <td><a  class="extra-padding">28</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">29</a></td>
-                                                                            <td><a href="" class="extra-padding">30</a></td>
-                                                                            <td><a href="" class="extra-padding">31</a></td>
-                                                                            <td><a href="" class="extra-padding">32</a></td>
-                                                                            <td><a href="" class="extra-padding">33</a></td>
-                                                                            <td><a href="" class="extra-padding">34</a></td>
-                                                                            <td><a href="" class="extra-padding">35</a></td>
+                                                                            <td><a  class="extra-padding">29</a></td>
+                                                                            <td><a  class="extra-padding">30</a></td>
+                                                                            <td><a  class="extra-padding">31</a></td>
+                                                                            <td><a  class="extra-padding">32</a></td>
+                                                                            <td><a  class="extra-padding">33</a></td>
+                                                                            <td><a  class="extra-padding">34</a></td>
+                                                                            <td><a  class="extra-padding">35</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">36</a></td>
-                                                                            <td><a href="" class="extra-padding">37</a></td>
-                                                                            <td><a href="" class="extra-padding">38</a></td>
-                                                                            <td><a href="" class="extra-padding">39</a></td>
-                                                                            <td><a href="" class="extra-padding">40</a></td>
-                                                                            <td><a href="" class="extra-padding">41</a></td>
-                                                                            <td><a href="" class="extra-padding">42</a></td>
+                                                                            <td><a  class="extra-padding">36</a></td>
+                                                                            <td><a  class="extra-padding">37</a></td>
+                                                                            <td><a  class="extra-padding">38</a></td>
+                                                                            <td><a  class="extra-padding">39</a></td>
+                                                                            <td><a  class="extra-padding">40</a></td>
+                                                                            <td><a  class="extra-padding">41</a></td>
+                                                                            <td><a  class="extra-padding">42</a></td>
                                                                             
 
                                                                         </tr>
@@ -2761,38 +2766,38 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">43</a></td>
-                                                                            <td><a href="" class="extra-padding">44</a></td>
-                                                                            <td><a href="" class="extra-padding">45</a></td>
-                                                                            <td><a href="" class="extra-padding">46</a></td>
-                                                                            <td><a href="" class="extra-padding">47</a></td>
-                                                                            <td><a href="" class="extra-padding">48</a></td>
-                                                                            <td><a href="" class="extra-padding">49</a></td>
+                                                                            <td><a  class="extra-padding">43</a></td>
+                                                                            <td><a  class="extra-padding">44</a></td>
+                                                                            <td><a  class="extra-padding">45</a></td>
+                                                                            <td><a  class="extra-padding">46</a></td>
+                                                                            <td><a  class="extra-padding">47</a></td>
+                                                                            <td><a  class="extra-padding">48</a></td>
+                                                                            <td><a  class="extra-padding">49</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
                                                                            
-                                                                            <td><a href="" class="extra-padding">50</a></td>
-                                                                            <td><a href="" class="extra-padding">51</a></td>
-                                                                            <td><a href="" class="extra-padding">52</a></td>
-                                                                            <td><a href="" class="extra-padding">53</a></td>
-                                                                            <td><a href="" class="extra-padding">54</a></td>
-                                                                            <td><a href="" class="extra-padding">55</a></td>
-                                                                            <td><a href="" class="extra-padding">56</a></td>
+                                                                            <td><a  class="extra-padding">50</a></td>
+                                                                            <td><a  class="extra-padding">51</a></td>
+                                                                            <td><a  class="extra-padding">52</a></td>
+                                                                            <td><a  class="extra-padding">53</a></td>
+                                                                            <td><a  class="extra-padding">54</a></td>
+                                                                            <td><a  class="extra-padding">55</a></td>
+                                                                            <td><a  class="extra-padding">56</a></td>
                                                                             
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">57</a></td>
-                                                                            <td><a href="" class="extra-padding">58</a></td>
-                                                                            <td><a href="" class="extra-padding">59</a></td>
-                                                                            <td><a href="" class="extra-padding">60</a></td>
-                                                                            <td><a href="" class="extra-padding">61</a></td>
-                                                                            <td><a href="" class="extra-padding">62</a></td>
-                                                                            <td><a href="" class="extra-padding">63</a></td>
+                                                                            <td><a  class="extra-padding">57</a></td>
+                                                                            <td><a  class="extra-padding">58</a></td>
+                                                                            <td><a  class="extra-padding">59</a></td>
+                                                                            <td><a  class="extra-padding">60</a></td>
+                                                                            <td><a  class="extra-padding">61</a></td>
+                                                                            <td><a  class="extra-padding">62</a></td>
+                                                                            <td><a  class="extra-padding">63</a></td>
                                                                             
                                                                             
 
@@ -2800,12 +2805,12 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">64</a></td>
-                                                                            <td><a href="" class="extra-padding">65</a></td>
-                                                                            <td><a href="" class="extra-padding">66</a></td>
-                                                                            <td><a href="" class="extra-padding">67</a></td>
-                                                                            <td><a href="" class="extra-padding">68</a></td>
-                                                                            <td><a href="" class="extra-padding">69</a></td>
+                                                                            <td><a  class="extra-padding">64</a></td>
+                                                                            <td><a  class="extra-padding">65</a></td>
+                                                                            <td><a  class="extra-padding">66</a></td>
+                                                                            <td><a  class="extra-padding">67</a></td>
+                                                                            <td><a  class="extra-padding">68</a></td>
+                                                                            <td><a  class="extra-padding">69</a></td>
                                                                             
 
                                                                         </tr>
@@ -2828,49 +2833,49 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
                                                                             
 
                                                                         </tr>
@@ -2956,49 +2961,49 @@
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="">1</a></td>
-                                                                            <td><a href="">2</a></td>
-                                                                            <td><a href="">3</a></td>
-                                                                            <td><a href="">4</a></td>
-                                                                            <td><a href="">5</a></td>
-                                                                            <td><a href="">6</a></td>
-                                                                            <td><a href="">7</a></td>
+                                                                            <td><a >1</a></td>
+                                                                            <td><a >2</a></td>
+                                                                            <td><a >3</a></td>
+                                                                            <td><a >4</a></td>
+                                                                            <td><a >5</a></td>
+                                                                            <td><a >6</a></td>
+                                                                            <td><a >7</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="">8</a></td>
-                                                                            <td><a href="">9</a></td>
-                                                                            <td><a href="" class="extra-padding">10</a></td>
-                                                                            <td><a href="" class="extra-padding">11</a></td>
-                                                                            <td><a href="" class="extra-padding">12</a></td>
-                                                                            <td><a href="" class="extra-padding">13</a></td>
-                                                                            <td><a href="" class="extra-padding">14</a></td>
+                                                                            <td><a >8</a></td>
+                                                                            <td><a >9</a></td>
+                                                                            <td><a  class="extra-padding">10</a></td>
+                                                                            <td><a  class="extra-padding">11</a></td>
+                                                                            <td><a  class="extra-padding">12</a></td>
+                                                                            <td><a  class="extra-padding">13</a></td>
+                                                                            <td><a  class="extra-padding">14</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
                                                                             
-                                                                            <td><a href="" class="extra-padding">15</a></td>
-                                                                            <td><a href="" class="extra-padding">16</a></td>
-                                                                            <td><a href="" class="extra-padding">17</a></td>
-                                                                            <td><a href="" class="extra-padding">18</a></td>
-                                                                            <td><a href="" class="extra-padding">19</a></td>
-                                                                            <td><a href="" class="extra-padding">20</a></td>
-                                                                            <td><a href="" class="extra-padding">21</a></td>
+                                                                            <td><a  class="extra-padding">15</a></td>
+                                                                            <td><a  class="extra-padding">16</a></td>
+                                                                            <td><a  class="extra-padding">17</a></td>
+                                                                            <td><a  class="extra-padding">18</a></td>
+                                                                            <td><a  class="extra-padding">19</a></td>
+                                                                            <td><a  class="extra-padding">20</a></td>
+                                                                            <td><a  class="extra-padding">21</a></td>
 
                                                                         </tr>
 
                                                                         <tr class="upper-border">
 
-                                                                            <td><a href="" class="extra-padding">22</a></td>
-                                                                            <td><a href="" class="extra-padding">23</a></td>
-                                                                            <td><a href="" class="extra-padding">24</a></td>
-                                                                            <td><a href="" class="extra-padding">25</a></td>
-                                                                            <td><a href="" class="extra-padding">26</a></td>
+                                                                            <td><a  class="extra-padding">22</a></td>
+                                                                            <td><a  class="extra-padding">23</a></td>
+                                                                            <td><a  class="extra-padding">24</a></td>
+                                                                            <td><a  class="extra-padding">25</a></td>
+                                                                            <td><a  class="extra-padding">26</a></td>
 
                                                                         </tr>
                                                          
@@ -3100,72 +3105,6 @@
                                         <!-- Summary section end here -->
 
 
-
-
-                                        <section class="line-btn-background">
-
-                                            <div class="row">
-
-                                                <div class="col-md-12 text-right">
-
-                                                </div>    
-                                           
-                                            </div>
-
-                                        </section>    
-
-
-                                        <!-- playes/shares section -->
-                                        <section class="pay-section">
-
-                                            <div class="row clearfix">
-
-                                                <div class="col-md-12">
-
-                                                    <h3 class="draw-heading1">Choose amount of players/shares<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
-                                                    
-
-                                                </div>
-
-                                            </div>
-
-                                        </section>
-                                        <!--  playes/shares section end here -->
-
-
-
-                                        <section class="line-btn-background">
-
-                                            <div class="row">
-
-                                                <div class="col-md-12 text-right">
-
-                                                </div>    
-                                           
-                                            </div>
-
-                                        </section>    
-
-
-                                        <!-- playes name section -->
-                                        <section class="pay-section">
-
-                                            <div class="row clearfix">
-
-                                                <div class="col-md-12">
-
-                                                    <h3 class="draw-heading1">Choose a name for your game<input type="text" class="pull-right player-name" id="player-name" name="player-name"></h3>
-                                                    
-
-                                                </div>
-
-                                            </div>
-
-                                        </section>
-                                        <!--  playes name section end here -->
-
-
-
                                         <section class="line-btn-background">
 
                                             <div class="row">
@@ -3195,9 +3134,6 @@
 
                                         </section>
                                         <!-- pay and good luck section end Here -->
-
-
-
 
 
                                     </section>
@@ -3712,6 +3648,15 @@
 
         </script>
         
+         <script>
+                $( "a" ).click(function() {
+                $( this ).toggleClass( "background_color" );
+                });
+            </script>
+          
+
+
+
         <script>
             $(document).ready(function() {
             $('.sev_check').each(function() {
@@ -3727,7 +3672,7 @@
             });    
         </script>
 
-        <script>    
+        <!--<script>    
 
             (function()
                 {
@@ -3742,7 +3687,27 @@
             ()
             
            
+        </script>-->
+
+
+
+        <script>    
+
+            
+            var arr = [];
+            var len = 70;
+            for (var i = 1; i < len; i++) {
+                arr.push({
+                    lottery_no : [i]
+                });
+            }
+            
+           
         </script>
+
+
+        
+
 
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
