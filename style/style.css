@@ -730,6 +730,14 @@
         cursor:             pointer;
     }
 
+
+.upper-border>td>a.background_color:hover
+    {
+        background-color:   red;;
+        cursor:             pointer;
+        border-color:       red!important;
+    }
+
 .upper-border>td>a:active
     {
         background-color:   #62b32c;
