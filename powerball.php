@@ -1478,10 +1478,6 @@
                                         </div>
 
 
-
-
-
-
                                          <div class="row mobile-hide">
 
                                             <div class="container">
@@ -1933,15 +1929,185 @@
 
                                         <!-- Bonus Section end here -->
 
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                    <a href="" class="add-lines">+ Add 5 more lines</a>
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary Section Start here -->
+
+                                        <section class="summary-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h4 class="draw-heading">Choose draws</h4>
+
+                                                    <ul class="draw-order-list">
+
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">1 draw</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2">€3.50</h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
 
 
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" type="checkbox" class="sev_check">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">4 draws</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2">€3.50</h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3">Just 4 draws. Remember to play again in 2 weeks.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
 
 
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" type="checkbox" class="sev_check">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">1 month</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2">€28.00/month</h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 1 month of binding period.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
 
 
+                                                        <li class="clearfix">
+                                                            <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                
+                                                                <input id="s_fac" type="checkbox" class="sev_check">
+                                                            
+                                                            </div>
+                                                            
+                                                            <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                <h5 class="draw-head2">12 months</h5>
+
+                                                            </div>  
+                                                            
+                                                            <div class="col-md-9 col-xs-6">
+
+                                                                <h5 class="draw-head2"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
+
+                                                            </div>
+
+                                                            <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 12 months of binding period.</h6>      
+                                                            </div>   
+                                                                
+                                                        </li>
+
+                                                    </ul>
+
+                                                    <hr style="border-color:#6dc731;">
+                                                    
+                                                    <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+
+                                        <!-- Summary section end here -->
+
+
+                                        <section class="line-btn-background">
+
+                                            <div class="row">
+
+                                                <div class="col-md-12 text-right">
+
+                                                </div>    
+                                           
+                                            </div>
+
+                                        </section>    
+
+
+                                        <!-- pay and good luck section -->
+                                        <section class="pay-section">
+
+                                            <div class="row clearfix">
+
+                                                <div class="col-md-12">
+
+                                                    <h3 class="draw-heading1">Pay and good luck!<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
+                                                    
+
+                                                </div>
+
+                                            </div>
+
+                                        </section>
+                                        <!-- pay and good luck section end Here -->
 
 
                                     </section>
+
+                                    
+
 
                                 </section>
 
@@ -1949,130 +2115,7 @@
 
                             <div id="menu1" class="tab-pane fade">
                                 
-                                <div class="row">
-
-                                    <section>
-
-                                        <div class="col-md-12">
-
-                                            <div class="table-responsive">
-
-                                                <table class="table table-hover">
-
-                                                    <thead>
-
-                                                        <tr class="upper-table">
-                                                            <th>&nbsp;</th>
-                                                            <th>LOTTERY</th>
-                                                            <th>JACKPOT</th>
-                                                            <th>TIME LEFT</th>
-                                                            <th>&nbsp;</th>
-                                                        </tr>
-
-                                                    </thead>
-
-
-                                                    <tbody class="lower-table">
-
-                                                        <tr> 
-                                                            <td><img src="images/0f0cc939fcf3d51972ce857525d319b5.jpg" style="height:18px;"></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-                                                        
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">2</span></td>
-                                                            <td><img src="images/images.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-                                                        <tr> 
-                                                            <td><span class="badge">3</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">4</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">5</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">6</span></td>
-                                                            <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">7</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td></td>
-                                                        </tr>
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">8</span></td>
-                                                            <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr> 
-                                                            <td><span class="badge">9</span></td>
-                                                            <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-
-
-                                                        <tr class="active"> 
-                                                            <td><span class="badge">10</span></td>
-                                                            <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
-                                                            <td>&euro;17 000 000</td>
-                                                            <td>01d 10h 34m</td>
-                                                            <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
-                                                        </tr>
-                                                    
-
-
-                                                    </tbody>
-
-                                                </table>
-                                            
-                                            </div>
-
-                                        </div>
-                                    
-                                    </section>
-
-                                </div>
+                              
 
                             </div>
 
@@ -2458,12 +2501,46 @@
 
                         <h6>
                             <p>
-                                Multilotto is the place for whoever dreams of hitting the really big wins when playing lotto. We offer to lotto players the chance to play on a variety of the world’s biggest lotteries like the American super lotteries Powerball and Mega Millions as well as the European smash-hits Euromillions and Eurojackpot. Buy lottery tickets online on multilotto.com and claim jackpots worth hundreds of millions of euros at any time.
-                                <br>
-                                Multilotto does not operate its own lottery. Instead we give you the possibility to play lotto online, on whatever online lottery you choose, by picking your favorite lottery numbers and finding the latest lottery results right after a draw has taken place. With Multilotto, you don’t have to travel abroad to play the biggest lotteries in the world, you can play right from the comfort of your own home on your PC or through your mobile device. 
-                                <br>
-                                Multilotto.com lets you play lotto every day of the week, whether you want to play just one line or subscribe to your lucky numbers to make sure you never miss a draw (and a chance to get filthy rich). You can even put together a lotto system which gives you greater odds of winning, or start a lotto syndicate with friends, family or acquaintances which will maximize your chances of winning, while spreading the cost of the lotto ticket between all of you.
-                             </p>
+                               Powerball is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Powerball tickets, Multilotto is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Powerball work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Powerball lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Powerball, here are three basic Powerball rules:
+                                
+                                <ul style="margin-left:2%;">
+
+                                    <li>Pick five numbers between 1 and 69 (inclusive)</li>
+                                    <li>Pick an additional number (Powerball) between 1 and 26 (inclusive)</li>
+                                    <li>Wait for the draw, which takes place every Wednesday and Saturday at 10:59 P.M. Eastern Time.</li>
+
+                                </ul>
+
+                                If you can’t decide what numbers to choose for the next Powerball drawing, you can always use a Quick Pick option, which will automatically generate random numbers for you. Just make sure to pick your numbers at least four hours before the Powerball drawing time, because that’s when the sales close.
+
+                                <br><br>
+                                If you’re sitting here wondering “How can I win Powerball?” there are nine ways to net prizes of different value, ranging from $4 to at least $40 million:
+                                <br><br>
+                                <ul style="margin-left:2%;">
+
+                                    <li>Match 5 main numbers + Power Ball = Jackpot</li>
+                                    <li>Match 5 main numbers = $1 million</li>
+                                    <li>Match 4 main numbers + Power Ball = $50.000</li>
+                                    <li>Match 4 main numbers = $100</li>
+                                    <li>Match 3 main numbers + Power Ball = $100</li>
+                                    <li>Match 3 main numbers = $7</li>
+                                    <li>Match 2 main numbers + Power Ball = $7</li>
+                                    <li>Match 1 main number + Power Ball = $4</li>
+                                    <li>Match Powerball = $4</li>
+
+
+                                </ul>
+
+                                The jackpot is won by matching the five white balls and the red Power Ball. It will increase at a minimum of $10 million after every drawing that fails to produce a jackpot winner, and it was known to rise to $1.58 billion. If there is more than one Grand Prize winner, the jackpot is divided equally among them. All other prizes, from $1 million down to $4, are fixed prize amounts, and are paid in full to each winner.
+                                <br><br>
+                                Powerball also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
+                                <br><br>
+                                The winning Powerball numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Powerball winner and want to know how to redeem Powerball prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your Multilotto account, and if you win larger prize we will assist you to claim it in the best way possible.
+                                <br><br>
+                                Play Powerball online with Multilotto!
+                             
+                            </p>
+                        
                         </h6>
 
                     </div>
@@ -2482,9 +2559,9 @@
                 <section>
 
 
-                    <div class="col-md-1"></div>
+                    <div class="col-md-1 col-sm-1"></div>
                     
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
                         
@@ -2506,7 +2583,7 @@
                     </div>  
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
                         
@@ -2530,7 +2607,7 @@
                     </div>  
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
                         
@@ -2552,7 +2629,7 @@
                     </div>  
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
                         
@@ -2674,6 +2751,39 @@
 
         </script>
         
+        <script>
+            $(document).ready(function() {
+            $('.sev_check').each(function() {
+                $(this).addClass('unselected');
+            });
+            $('.sev_check').on('click', function() {
+                $(this).toggleClass('unselected');
+                $(this).toggleClass('selected');
+                $('.sev_check').not(this).prop('checked', false);
+                $('.sev_check').not(this).removeClass('selected');
+                $('.sev_check').not(this).addClass('unselected');
+            });
+            });    
+        </script>
+
+        <!--<script>    
+
+            (function()
+                {
+                    var v1 = document.getElementById('s_fac').value;
+
+                    if(document.getElementById("s-fac").checked == true )
+                        {
+                            document.getElementById('draw-no').innerHTML = v1
+                        }
+                }
+            )
+            ()
+            
+           
+        </script>-->
+
+
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 
 

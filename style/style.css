@@ -802,6 +802,117 @@
     }
 
 
+.add-lines
+    {
+        font-size:          16px!important;
+        text-decoration:    underline;
+        margin-right:       2.5%;
+        margin-top:         1%;
+    }
+
+.line-btn-background
+    {
+        background-color:   white;
+        padding:             2% 0;
+        border:             0;
+    }
+
+
+.summary-section
+    {
+        background-color:   rgb(245, 251, 239);
+        padding:            20px;
+    }
+
+
+.draw-heading
+    {
+        font-weight:        bold;
+        color:              black;
+        
+    }
+
+.draw-heading1
+    {
+        font-weight:        bold;
+        color:              black;
+        
+    }
+
+
+.draw-order-list
+    {
+        list-style:         none;
+
+    }
+
+.draw-order-list>li
+    {
+        margin:             3% 0;
+    }
+
+
+.draw-head2
+    {
+        display:            inline;
+        font-weight:        bold;
+        color:              black;
+
+    }
+
+
+
+.draw-head3
+    {
+        font-size:          14px;
+        color:              #666;
+        margin:             2px 0!important;
+    }
+
+.sev_check
+    {
+        height:             30px;
+        width:              30px;
+    }
+
+.yellow
+    {
+        background-color:   #fef49c;
+    }
+
+.total
+    {
+        font-weight:        bold;
+        color:              black;
+    }
+
+
+.pay-section
+    {
+        background-color:   rgb(245, 251, 239);
+        padding:            20px;
+    }
+
+
+.plan-now-btn
+    {
+        background-color:    #62b32c!important;
+        margin:              -3px;
+        border:              0!important;
+        color:               white!important;
+        font-weight:            bold!important;
+        padding:             8px 20px!important;
+    }
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1170,6 +1281,57 @@ and (max-device-width : 480px)
         display:            inline-table!important;
     }
 
+
+.add-lines
+    {
+        display:            none;
+    }
+
+
+.checkbox-padding
+    {
+        padding-left:      0!important;
+    }
+
+
+.draw-head3
+    {
+        font-size:          11px;
+        color:              #666;
+        margin:             2px 0!important;
+    }
+
+.total
+    {
+        font-weight:        bold;
+        color:              black;
+        font-size:          13px;
+    }
+
+.draw-heading1
+    {
+        font-weight:        bold;
+        color:              black;
+        font-size:          13px;
+        
+    }
+
+.plan-now-btn
+    {
+        background-color:    #62b32c!important;
+        margin:              -8px;
+        border:              0!important;
+        color:               white!important;
+        font-weight:         bold!important;
+        padding:             5px!important;
+        font-size:           11px!important;
+    }
+
+.footer-ul>li
+    {
+        list-style:        none;
+        text-align:         center;
+    }
 
 
 

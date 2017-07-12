@@ -1524,9 +1524,9 @@
                 <section>
 
 
-                    <div class="col-md-1"></div>
+                    <div class="col-md-1 col-sm-1"></div>
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
 
@@ -1548,7 +1548,7 @@
                     </div>
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
 
@@ -1572,7 +1572,7 @@
                     </div>
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
 
@@ -1594,7 +1594,7 @@
                     </div>
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
 
@@ -1616,7 +1616,7 @@
                     </div>
 
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <ul class="footer-ul">
 
