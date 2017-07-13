@@ -580,10 +580,15 @@
 
 .background-clr
     {
-        background-color:   rgba(153,153,153,0.85);
+        
         position:           relative;
+    }
+
+.background-clr1
+    {
+        background-color:   rgba(153,153,153,0.85);
         margin:             0 25px;
-        bottom:             500px;
+        
     }
 
 
@@ -988,6 +993,205 @@
     }
 
 
+.text>h4, .text>h1, .text>h5
+    {
+        text-align:         center;
+        font-weight:        bold;
+       
+    }
+
+
+.text>h5
+    {
+        background-color: #d967b9;
+        display:           inline;
+        padding:          5px;
+    }
+
+
+.text>h1
+    {
+        font-size:          80px;   
+        margin-top:         0!important;   
+    }
+
+.text   
+    {
+  
+        color:              white;
+        text-align:         center;
+        background-color:   transparent;
+        margin:             5%;
+       
+    }
+
+
+
+.bg-img-pos
+    {
+        position:           absolute!important;
+    }
+
+.bg-img-margin
+    {
+        margin-top:         10px;
+    }
+
+
+.fltr-head
+    {
+        background-color:       #5191c4!important;
+        color:                  white!important;
+        font-weight:            bold;
+        border-color:           #5191c4!important;
+        padding:                20px!important;
+        font-size:              16px;
+    }
+
+
+.rslt-head
+    {
+        list-style:             none;
+        margin-bottom:          30px;
+        margin-left:            5px;
+       
+    }
+
+
+.rslt-head>li>a
+    {
+        text-decoration:        underline;
+        cursor:                 pointer;
+        color:                  #5191c4!important;
+    }
+
+.rslt-head>li
+    {
+        margin-bottom:          4px;
+    }
+
+.head-bold>h5
+    {
+        font-weight:            bold!important;
+        margin-left:            5px;
+    }
+
+
+.rslt-wd
+    {
+        width:                  20%!important
+    }
+
+
+.img
+    {
+        background-image:       url("../images/icon-date.png");
+        color:                  #5191c4!important;
+        font-weight:            600;
+        padding-top:            9px;
+        padding-left:           5px;
+        height:                 28px;
+        width:                  28px;
+    }
+
+
+.rslt-table>tr
+    {
+        font-size:              11px!important;
+        color:                  black;
+        background-color:       #edf4f9;
+        font-weight:            600;
+      
+    }
+
+.rslt-body>tr>td
+    {
+        vertical-align:         middle!important;
+        border-top:             0!important;
+    }
+
+
+.rslt-body>tr>td>a
+    {
+        text-decoration:        underline;
+        cursor:                 pointer;
+    }
+
+
+.ltry-head
+    {
+        color:                  black;
+    }
+
+.rslt-date
+    {
+        color:                 #5191c4!important;
+        font-weight:           bold; 
+    }
+
+
+.rslt-note
+    {
+        color:                 #cd0a0a!important;
+        margin-bottom:          15px;
+    }
+
+
+
+
+.mbl-hide-out>a
+    {
+        color:                  #666;
+    }
+
+.three-boxes
+    {
+        height:                 250px;
+        padding:                45px;
+        border-right:           1px solid #dedede;
+    }
+
+
+.three-boxes>h4
+    {
+        color:                  #5191c4;
+        font-weight:            bold;
+        margin-top:             10px;
+    }
+
+
+
+.three-boxes>h5
+    {
+        color:                  #999;
+        font-weight:            bold;
+        margin-top:             10px;
+    }
+
+.two-img
+    {
+        margin-top:             20px!important;
+    }
+
+
+
+.border-for-boxes
+    {
+        border:                 1px solid #dedede;
+        border-radius:          4px;
+    }
+
+
+.three-boxes-btn
+    {
+        background-color:       #62b32c!important;
+        font-weight:            bold!important;
+        padding:                5px 15px!important;
+        border-color:           transparent!important;
+        font-size:              11px!important;
+        margin-top:             5px!important;
+    }
+
 
 
 
@@ -1101,6 +1305,7 @@ header nav {
   top: 0;
   background: #fff;
   left: 0;
+  z-index: 1
 }
 
 .nav-bar span {
@@ -1212,7 +1417,12 @@ and (max-device-width : 900px)
 .background-clr
         {
             background-color:       transparent;
-            bottom:                 300px;
+            margin:                 0;   
+        }
+
+.background-clr1
+        {
+            background-color:       transparent;
             margin:                 0;   
         }
 
@@ -1232,10 +1442,6 @@ and (max-device-width : 900px)
     }
 
 
-.upper-border>td>a 
-    {
-        background-color:   white;
-    }
 
 .mobile-display
     {
@@ -1287,6 +1493,15 @@ and (max-device-width : 900px)
     {
         width:          30%;
     }
+
+
+.rslt-wd    
+    {
+        display:            none;
+    }
+
+
+
 
 
 
@@ -1405,6 +1620,13 @@ and (max-device-width : 736px)
         background-color:   transparent!important;
         bottom:             0;
     }
+.background-clr1
+        {
+            background-color:       transparent;
+            margin:                 0;   
+        }
+
+
 
 .mobile-hide
     {
@@ -1511,6 +1733,55 @@ and (max-device-width : 736px)
 
 
 
+.text>h5
+    {
+        background-color: #d967b9;
+        display:          inline;
+        padding:          5px;
+    }
+
+
+.text>h1
+    {
+        font-size:          40px;   
+        margin-top:         0!important;   
+    }
+
+.text   
+    {
+  
+        color:              white;
+        text-align:         center;
+        background-color:   transparent;
+        margin:             20% 0;
+       
+    }
+
+
+
+.rslt-wd    
+    {
+        display:            none;
+    }
+
+
+
+
+}
+
+
+
+
+    @media only screen
+and (min-device-width : 568px)
+and (max-device-width : 667px) 
+{
+
+
+ .mbl-hide-out
+    {
+        display:        none;
+    }
 
 
 
@@ -1521,6 +1792,41 @@ and (max-device-width : 736px)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+@media only screen
+and (min-device-width : 568px)
+and (max-device-width : 736px)
+{
+
+.text>h1
+    {
+        font-size:          80px;   
+        margin-top:         0!important;   
+    }
+
+.text   
+    {
+  
+        color:              white;
+        text-align:         center;
+        background-color:   transparent;
+        margin:             10% 0!important;
+       
+    }
+
+
+
+}
 
 
 

@@ -158,7 +158,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Mega Millions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Eurojackpot Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -194,7 +194,7 @@
 
                                         <div class="col-md-12 bg-img-pos">
 
-                                            <img src="images/54a6b12e4c9fa.jpg" class="img-responsive" style="width:100%;">
+                                            <img src="images/549032b804221.jpg" class="img-responsive" style="width:100%;">
                                    
                                         </div>
                                         
@@ -214,9 +214,9 @@
                                             <div class="col-md-12">
 
                                                 <div class="text">
-                                                    <h4>PLAY MEGA MILLIONS ONLINE</h4>
-                                                    <h1>&euro;189 500 000</h1>
-                                                    <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
+                                                    <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                    <h1>&euro;10 000 000</h1>
+                                                    <h5>DRAWS ON SAT 00:00</h4>
                                                 </div>
                                             </div>
 
@@ -2149,7 +2149,7 @@
 
                                         <div class="col-md-12 bg-img-pos">
 
-                                            <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
+                                            <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
 
                                         </div>
                                         
@@ -2168,9 +2168,9 @@
                                             <div class="col-md-12">
 
                                                 <div class="text">
-                                                    <h4>PLAY MEGA MILLIONS ONLINE</h4>
-                                                    <h1>&euro;189 500 000</h1>
-                                                    <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
+                                                    <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                    <h1>&euro;10 000 000</h1>
+                                                    <h5>DRAWS ON SAT 00:00</h4>
                                                 </div>
                                             </div>
 
@@ -2685,7 +2685,7 @@
 
                                         <div class="col-md-12 bg-img-pos">
 
-                                            <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
+                                            <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
 
                                         </div>
                                         
@@ -2705,9 +2705,9 @@
                                             <div class="col-md-12">
 
                                                 <div class="text">
-                                                    <h4>PLAY MEGA MILLIONS ONLINE</h4>
-                                                    <h1>&euro;189 500 000</h1>
-                                                    <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
+                                                    <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                    <h1>&euro;10 000 000</h1>
+                                                    <h5>DRAWS ON SAT 00:00</h4>
                                                 </div>
                                             </div>
 
@@ -3470,25 +3470,26 @@
 
                         <h6>
                             <p>
-                               Mega Millions is an American lottery available in most parts of the USA - as well as online, courtesy of Multilotto.com. The first Mega Millions draw took place 2002 and since then, plenty of lucky people have managed to hit the MegaMillions winning numbers to win the ever so big jackpot, which always starts at $15 million.
+                               Eurojackpot, or Euro Jackpot as it is also known, is a European transnational lottery which was launched in march 2012. The game is often called Euro lotto by players from northern Europe and Scandinavia. The Euro lottery jackpot starts at €10 million and can roll over to as much as €90 million!
                             
                                <br><br><br>
-                               The Mega Millions lottery is played like this:
+                               To play Eurojackpot online, a player will:
                                 <ul style="margin-left:2%;">
 
-                                    <li>Player selects five numbers between 1 and 75</li>
-                                    <li>Player also picks an additional number between 1 and 15</li>
-                                    <li>Wait for the draw, which takes place every Tuesday and Friday at 10:59 P.M. Eastern Time.</li>
+                                    <li>Select five numbers between 1 and 50</li>
+                                    <li>Select an additional two numbers between 1 and 10</li>
+                                    <li>Wait for the draw, which takes place at 8 P.M. CET every Friday in Helsinki</li>
 
                                 </ul>
 
-                                The biggest jackpot on Mega Millions, as well as in lotto history, was $656.000.000 and happened on the 30th of March 2012.
+                                The current standing record for a Eurojackpot win was recorded on the 12th of April 2013, when a sole winner from Germany took home the incredible €46,079,338 jackpot.
+
 
                                 <br><br>
-                                Play Mega Millions and other USA lotteries online with Multilotto!
+                                Play Eurojackpot online with Multilotto!
                                 <br><br>
   
-                                You can always find the <a>Mega Millions results</a> as well as payout right here on Multilotto.
+                                You can find all the latest <a>Eurojackpot results</a> and play Eurojackpot at Multilotto.com
                              
                             </p>
                         
