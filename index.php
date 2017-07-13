@@ -119,17 +119,108 @@
                                     <li><a href="megamillion.php">MEGA MILLIONS</a></li>
                                     <li><a href="euromillion.php">EUROMILLIONS</a></li>
                                     <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
-                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
+                                    <li class="dropdown yamm-fullwidth"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
-                                        <div class="dropdown-menu dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-
-                                                    dsad
-
-                                                    </div>
+                                        <ul class="dropdown-menu">
+                                            <li class="grid-demo">
+                                                <div class="row-fluid">
+                                                <div class="span12">
+                                                    .span12
                                                 </div>
-                                        </div>
+                                                </div>
+                                                <div class="row-fluid">
+                                                <div class="span6">
+                                                    .span6
+                                                </div>
+                                                <div class="span6">
+                                                    .span6
+                                                </div>
+                                                </div>
+                                                <div class="row-fluid">
+                                                <div class="span4">
+                                                    .span4
+                                                </div>
+                                                <div class="span4">
+                                                    .span4
+                                                </div>
+                                                <div class="span4">
+                                                    .span4
+                                                </div>
+                                                </div>
+                                                <div class="row-fluid">
+                                                <div class="span3">
+                                                    .span3
+                                                </div>
+                                                <div class="span3">
+                                                    .span3
+                                                </div>
+                                                <div class="span3">
+                                                    .span3
+                                                </div>
+                                                <div class="span3">
+                                                    .span3
+                                                </div>
+                                                </div>
+                                                <div class="row-fluid">
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                <div class="span2">
+                                                    .span2
+                                                </div>
+                                                </div>
+                                                <div class="row-fluid">
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                <div class="span1">
+                                                    .span1
+                                                </div>
+                                                </div>
+                                            </li>
+                                        </ul>
 
                                     </li>
                                     <li><a href="result.php">LOTO RESULTS</a></li>
@@ -1715,6 +1806,13 @@
                 });
 
         </script>
+
+        <<script>
+            $(document).on('click', '.yamm .dropdown-menu', function(e) {
+                e.stopPropagation()
+                })
+        </script>   
+
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 
