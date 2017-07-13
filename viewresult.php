@@ -181,7 +181,7 @@
 
                         <div class="col-md-12"> 
 
-                        <h3 class="ltry-head">Lottery results checker - correct your lotto tickets</h3>
+                        <h3 class="ltry-head">Lottery results checker - correct your lotto tickets on <span>ECHO LOTTERY NAME</span></h3>
 
                         </div>
 
@@ -252,7 +252,7 @@
 
                         <div class="col-md-9 col-sm-12 col-xs-12">
 
-                            <h3 class="rslt-date">July 2017</h3>
+                            <h3 class="rslt-date">April 2017</h3>
                             <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
 
                             <div class="table-responsive">
@@ -264,7 +264,6 @@
                                         <tr>
 
                                             <td>&nbsp;</td>
-                                            <td>LOTTERY</td>
                                             <td>BALL NUMBERS</td>
                                             <td class="mbl-hide-out">EXTRA NUMBERS</td>
                                             <td class="mbl-hide-out">BONUS NUMBERS</td>
@@ -278,119 +277,113 @@
 
                                         <tr>
                                             <td><div class="img">12</div></td>
-                                            <td><a href="viewresult.php">New York Lotto</a></td>
-                                            <td><a href="viewresult.php">17 - 24 - 27 - 29 - 31 - 39</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">35</a></td>
-                                            <td class="mbl-hide-out"><a>-</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">35</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr>  
 
 
                                         <tr>
                                             <td><div class="img">12</div></td>
-                                            <td><a href="viewresult.php">Powerball</a></td>
-                                            <td><a href="viewresult.php">1 - 2 - 18 - 23 - 61</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">9</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">1 - 2 - 18 - 23 - 61</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">9</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">12</div></td>
-                                            <td><a href="viewresult.php">California SuperLotto</a></td>
-                                            <td><a href="viewresult.php">9 - 14 - 34 - 35 - 36</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">27</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">9 - 14 - 34 - 35 - 36</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">27</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">12</div></td>
-                                            <td><a href="viewresult.php">Mega-Sena</a></td>
-                                            <td><a href="viewresult.php">12 - 20 - 24 - 28 - 33 - 57</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">12 - 20 - 24 - 28 - 33 - 57</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">12</div></td>
-                                            <td><a href="viewresult.php">Bonoloto</a></td>
-                                            <td><a href="viewresult.php">1 - 7 - 14 - 19 - 35 - 39</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">37</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">1 - 7 - 14 - 19 - 35 - 39</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">37</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">11</div></td>
-                                            <td><a href="viewresult.php">Mega Millions</a></td>
-                                            <td><a href="viewresult.php">7 - 18 - 24 - 55 - 74</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">10</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">7 - 18 - 24 - 55 - 74</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">10</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">11</div></td>
-                                            <td><a href="viewresult.php">Euromillions</a></td>
-                                            <td><a href="viewresult.php">14 - 22 - 26 - 42 - 50</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">8 - 10</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">14 - 22 - 26 - 42 - 50</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">8 - 10</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">11</div></td>
-                                            <td><a href="viewresult.php">SuperEnaLotto</a></td>
-                                            <td><a href="viewresult.php">6 - 12 - 38 - 42 - 49 - 83</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">53</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">6 - 12 - 38 - 42 - 49 - 83</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">53</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">11</div></td>
-                                            <td><a href="viewresult.php">El Gordo</a></td>
-                                            <td><a href="viewresult.php">7 - 29 - 40 - 41 - 46</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">5</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">7 - 29 - 40 - 41 - 46</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">5</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">9</div></td>
-                                            <td><a href="viewresult.php">La Primitiva</a></td>
-                                            <td><a href="viewresult.php">3 - 16 - 21 - 25 - 26 - 39 *3*</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">48</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">3 - 16 - 21 - 25 - 26 - 39 *3*</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">48</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr> 
 
 
                                         <tr>
                                             <td><div class="img">7</div></td>
-                                            <td><a href="viewresult.php">Eurojackpot</a></td>
-                                            <td><a href="viewresult.php">15 - 16 - 17 - 23 - 30</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="viewresult.php">6 - 9</a></td>
-                                            <td><a href="viewresult.php">View ></a></td>
+                                            <td><a href="payout.php">15 - 16 - 17 - 23 - 30</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                            <td class="mbl-hide-out"><a href="payout.php">6 - 9</a></td>
+                                            <td><a href="payout.php">View ></a></td>
                                         </tr>   
 
                                     </tbody>
 
                                 </table>
-                            
+
+                                    
                             </div>
 
+                            <div class="row">
+                                <button type="button" class="btn btn-default pull-left prev-btn">PREVIOUS</button>
+                                <button type="button" class="btn btn-default pull-right prev-btn">NEXT</button>
+                            </div>
 
                             <div class="row border-for-boxes">
 
@@ -783,7 +776,6 @@
 
         </script>
         
-
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 
 

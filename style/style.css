@@ -1111,11 +1111,35 @@
     }
 
 
+.payout-body>tr>td
+    {
+        vertical-align:         middle!important;
+        border-top:             0!important;
+        color:                  #464646;
+    }
+
+.payout-table>tr
+    {
+        font-size:              11px!important;
+        color:                  #999;
+        font-weight:            600;
+        
+      
+    }
+
+.payout-table
+    {
+        border-top:             1px solid #ccc;
+    }
+
+
+
 .rslt-body>tr>td>a
     {
         text-decoration:        underline;
         cursor:                 pointer;
     }
+
 
 
 .ltry-head
@@ -1193,13 +1217,38 @@
     }
 
 
+.prev-btn
+    {
+        background-color:       #5191c4!important;
+        font-weight:            bold!important;
+        padding:                10px!important;
+        width:                  150px!important;
+        border-color:           transparent!important;
+        font-size:              16px!important;
+        margin-top:             5px!important;
+        color:                  white!important;
+        border-radius:          2px!important;
+        margin:                 10px 5px!important;
+    }
 
 
+.three-boxes-btn1
+    {
+        background-color:       #62b32c!important;
+        font-weight:            bold!important;
+        padding:                10px!important;
+        border-color:           transparent!important;
+        font-size:              13px!important;
+        color:                  white!important;
+        margin:                 10px 5px!important;
+    }
 
 
-
-
-
+.prev-ltry
+    {
+        margin:               15px;
+        text-decoration:      underline;
+    }
 
 
 
@@ -1820,6 +1869,22 @@ and (max-device-width : 736px)
 .rslt-wd    
     {
         display:            none;
+    }
+
+
+
+.prev-btn
+    {
+        background-color:       #5191c4!important;
+        font-weight:            bold!important;
+        padding:                10px!important;
+        width:                  120px!important;
+        border-color:           transparent!important;
+        font-size:              14px!important;
+        margin-top:             5px!important;
+        color:                  white!important;
+        border-radius:          2px!important;
+        margin:                 10px 5px!important;
     }
 
 

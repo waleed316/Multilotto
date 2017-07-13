@@ -22,9 +22,9 @@
 
                     <div class="col-md-2">
 
-                        <div>  
+                         <div>
 
-                            <img src="images/logo-com.svg" class="img-responsive" >
+                           <a href="index.php"><img src="images/logo-com.svg" class="img-responsive" ></a>
 
                         </div>
                         
