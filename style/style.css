@@ -905,6 +905,7 @@
     {
         background-color:   rgb(245, 251, 239);
         padding:            20px;
+        margin-bottom:      15px;
     }
 
 
@@ -1304,12 +1305,52 @@
     }
 
 
+.statictics-box
+    {
+        height:             auto;
+        border:             1px solid #ccc;
+        width:              100%;
+        padding:            30px 10px;
+        text-align:         center;
+        border-radius:      5px;
+        margin:             5px 0;
+    }
+
+.tagline>h3
+    {
+        color:              #d967b9;
+        font-weight:        bold;
+    }
+
+
+.tagline-second
+    {
+        animation:          mytext 4s infinite;   
+    }
+
+
+.tagline-third
+    {
+        animation:         mytext1 4s infinite;
+
+      
+    }
 
 
 
+@keyframes mytext
+{
+    0%  {opacity:   1 }
+    100%{opacity:   0;display: none;}
+}
 
-
-
+@keyframes mytext1
+{
+    0%  {opacity:   0 ;display: none; }
+    25% {opacity:    0;display: none;}
+    50% {opacity:   0;display: none;}
+    100%{opacity:   1;display: block;}
+}
 
 header { width: 100%; }
 
