@@ -1163,6 +1163,14 @@
 
 
 
+.rslt-note1
+    {
+        color:                 #666!important;
+        margin-bottom:          15px;
+    }
+
+
+
 
 .mbl-hide-out>a
     {
@@ -1351,6 +1359,52 @@
     50% {opacity:   0;display: none;}
     100%{opacity:   1;display: block;}
 }
+
+
+.lgn-pg-input
+    {
+        width:          60%!important;
+    }
+
+.log-btn-frm
+    {
+        background-color:      #5191c4!important;
+        color:                  white!important;
+        font-weight:            bold!important;
+        padding:                5px 30px!important;
+
+    }
+.login-form-page
+    {
+        background-color:       #edf4fa;
+        padding:                40px 30px;
+    }
+
+
+.signup-btn-frm
+    {
+        background-color:      #62b32c!important;
+        color:                  white!important;
+        font-weight:            bold!important;
+        padding:                15px 35px!important;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 header { width: 100%; }
 
@@ -2064,6 +2118,19 @@ and (max-device-width : 736px)
     {
         background-color:    #666!important;
     }
+
+
+.lgn-pg-input
+    {
+        width:          100%!important;
+    }
+
+
+
+
+
+
+
 
 
 }
