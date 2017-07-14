@@ -1238,18 +1238,70 @@
         font-weight:            bold!important;
         padding:                10px!important;
         border-color:           transparent!important;
-        font-size:              13px!important;
+        font-size:              11px!important;
         color:                  white!important;
         margin:                 10px 5px!important;
+        float:                  right;
     }
 
 
 .prev-ltry
     {
-        margin:               15px;
+        margin:               20px 5px;
         text-decoration:      underline;
+        float:                left;
     }
 
+.win-prize-no
+    {
+        border-bottom:        1px solid #ccc;
+        border-top:           1px solid #ccc;
+        padding:              10px 0;
+    }
+
+.win-no
+    {
+        border:             5px solid transparent!important;
+        border-radius:      30px!important;
+        color:              #fff!important;
+        display:            inline-block!important;
+        height:             48px!important;
+        line-height:        38px!important;
+        margin-bottom:      4px!important;
+        position:           relative!important;
+        text-align:         center!important;
+        width:              48px!important;
+        background-color:   #5191c4!important;
+        font-size:          18px;
+        font-weight:        bold;
+    }
+
+.extra
+    {
+        margin-left:        10px;
+    }
+
+
+
+
+.bonus-no
+    {
+        background-color:    #999!important;
+    }
+
+.bonus-s-no
+    {
+        background-color:    #666!important;
+    }
+
+
+
+.upcmng-event>h5
+    {
+        color:              black;
+        font-weight:        bold;
+        margin-top:         15px!important;
+    }
 
 
 
@@ -1621,6 +1673,81 @@ and (max-device-width : 900px)
 
     @media only screen
 and (min-device-width : 320px)
+and (max-device-width : 480px) 
+{
+
+.win-no
+    {
+        border:             5px solid transparent!important;
+        border-radius:      30px!important;
+        color:              #fff!important;
+        display:            inline-block!important;
+        height:             32px!important;
+        line-height:        22px!important;
+        margin-bottom:      4px!important;
+        position:           relative!important;
+        text-align:         center!important;
+        width:              32px!important;
+        background-color:   #5191c4!important;
+        font-size:          14px;
+        font-weight:        bold;
+    }
+
+
+.win-prize-no
+    {
+        padding:            10px 0!important;
+    }
+
+.extra
+    {
+        margin-left:        6px;
+    }
+
+
+.three-boxes-btn1
+    {   
+        float:                  none!important;
+        background-color:       #62b32c!important;
+        font-weight:            bold!important;
+        padding:                10px!important;
+        border-color:           transparent!important;
+        font-size:              11px!important;
+        color:                  white!important;
+        margin:                 10px 5px!important;
+    }
+
+
+.prev-ltry
+    {
+        margin:               20px 5px;
+        text-decoration:      underline;
+        float:                  none!important;
+    }
+
+
+.rslt-date
+    {
+        font-size:           14px!important;
+    }
+
+
+.rslt-note
+    {
+        display:            none;
+    }
+
+
+
+
+
+
+
+}
+
+
+    @media only screen
+and (min-device-width : 320px)
 and (max-device-width : 736px) 
 {
 
@@ -1887,7 +2014,15 @@ and (max-device-width : 736px)
         margin:                 10px 5px!important;
     }
 
+.bonus-no
+    {
+        background-color:    #999!important;
+    }
 
+.bonus-s-no
+    {
+        background-color:    #666!important;
+    }
 
 
 }

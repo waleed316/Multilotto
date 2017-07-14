@@ -193,7 +193,7 @@
                             <h3 class="rslt-date">New York Lotto Results - 12 July 2017</h3>
                             
 
-                            <div class="table-responsive">
+                            <div>
 
                                 <table class="table">
 
@@ -265,9 +265,9 @@
                                     
                             </div>
 
-                            <div class="row">
-                                <a href="" class="pull-left prev-ltry">< New York Lotto Results</a>
-                                <button type="button" class="btn btn-default pull-right three-boxes-btn1">PLAY NEW YORK LOTTO</button>
+                            <div class="row text-center">
+                                <a href="" class="prev-ltry">< New York Lotto Results</a>
+                                <button type="button" class="btn btn-default three-boxes-btn1">PLAY NEW YORK LOTTO</button>
                             </div>
 
                             <div class="row border-for-boxes">
@@ -295,6 +295,49 @@
                                 
 
                             </div>
+
+                        </div>
+
+
+                        <div class="col-md-6 col-sm-12 col-xs-12" style="padding:0px">
+
+                            <h3 class="rslt-date">Winning numbers</h3>
+
+                            <div class="col-md-12 col-xs-12 col-sm-12 win-prize-no">
+
+                                <div class="win-no">1</div>
+                                <div class="win-no">6</div>
+                                <div class="win-no">8</div>
+                                <div class="win-no">12</div>
+                                <div class="win-no">27</div>
+                                <div class="win-no">40</div>
+
+                                <span class="extra">
+                                    <div class="win-no bonus-no">27</div>
+                                    <div class="win-no bonus-s-no">40</div>
+                                </span>
+
+                            </div>
+
+
+                            <div class="col-md-12 col-xs-12 col-sm-12 text-right upcmng-event">
+
+                                <h5>Biggest jackpot right now: €190 100 000</h5>
+                                <a>Play Mega Millions ></a>
+                                <h5>Upcoming La Primitiva draws</h5>
+                                <a>La Primitiva - Saturday, 15 July 2017</a>
+                                <br>
+                                <a>La Primitiva - Thursday, 20 July 2017</a>
+                                <br>
+                                <a>La Primitiva - Saturday, 22 July 2017</a>
+
+                            </div>
+
+
+
+
+
+
 
                         </div>
 
