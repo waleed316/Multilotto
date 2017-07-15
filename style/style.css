@@ -2180,7 +2180,7 @@ and (max-device-width : 736px)
 
 .hm-dis
     {
-        display:            block!important;
+        display:                block!important;
     }
 
 
@@ -2204,7 +2204,10 @@ and (max-device-width : 667px)
         display:        none;
     }
 
-
+.hm-dis
+    {
+        display:            block!important;
+    }
 
 
 
@@ -2323,7 +2326,10 @@ and (max-device-width : 736px)
         margin:             10% 0!important;
        
     }
-
+.hm-dis
+    {
+        display:            block!important;
+    }
 
 
 }
