@@ -2276,6 +2276,20 @@ and (max-width : 800px)
     }
 
 
+.play-btn {
+    background-color: #62b32c!important;
+    border-color: #62b32c!important;
+    width:          100%;
+}
+
+
+
+
+
+
+
+
+
 
 }
 
