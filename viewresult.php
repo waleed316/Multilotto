@@ -16,95 +16,7 @@
 
         <div class="container main-margin">
             
-            <div class="row">
-               
-                <section class="top-header-margin">
-
-                    <div class="col-md-2">
-
-                         <div>
-
-                           <a href="index.php"><img src="images/logo-com.svg" class="img-responsive" ></a>
-
-                        </div>
-                        
-
-                    </div>
-                    
-                    <div class="col-md-6"></div>
-
-                    <div class="col-md-4">
-
-                        <section class="pull-right margin-signup-btn">
-                        
-                            <a href="" class="btn btn-primary btn-login">LOG IN</a>
-
-                            <a href="" class="btn btn-primary btn-signup">SIGN UP</a>
-
-                            <div class="dropdown pull-right">
-                                
-                                <a class="dropdown-toggle" data-toggle="dropdown">
-                                        
-                                        <img src="images/Flag_of_Pakistan.png" class="flag-height">
-                                        <span class="caret"></span>
-                                </a>
-                                    
-                                
-                                <form class="dropdown-menu form-horizontal" id="dropdown-login">
-                                    
-                                    <div class="form-group language-font">
-                                        
-
-                                        <label class="control-label col-sm-2" for="language">Language</label>
-                                        
-                                        <div class="col-sm-9">
-                                            
-                                            <select class="form-control" id="language">
-                                                <option>English</option>                                              
-                                            </select>
-                                        
-                                        </div>
-                                    
-                                    </div>
-
-
-                                    <div class="form-group language-font">
-                                        
-
-                                        <label class="control-label col-sm-2" for="Currency">Currency</label>
-                                        
-                                        <div class="col-sm-9">
-                                            
-                                            <select class="form-control" id="currency">
-                                                <option>EUR</option>                                              
-                                            </select>
-                                        
-                                        </div>
-                                    
-                                    </div>
-
-
-                                    <div class="form-group">        
-                                       
-                                        <div class="col-sm-offset-3 col-sm-9">
-                                            <button type="submit" class="btn btn-primary btn-language">Change</button>
-                                        </div>
-                                    
-                                    </div>
-
-                                </form>
-                                
-                                    
-                            </div>
-
-                        </section>
-
-                    </div>
-                
-                </section>
-
-            </div>
-
+            <?php include 'topbar.php'?>
 
             <div class="row">
 
@@ -172,260 +84,260 @@
             <!-- Main Section -->
 
 
-            <div class="row">
-            
-                <section class="main-section">
-
+                <div class="row">
                 
-                    <div class="container">
+                    <section class="main-section">
 
-                        <div class="col-md-12"> 
+                    
+                        <div class="container">
 
-                        <h3 class="ltry-head">Lottery results checker - correct your lotto tickets on <span>ECHO LOTTERY NAME</span></h3>
+                            <div class="col-md-12"> 
 
-                        </div>
+                            <h3 class="ltry-head">Lottery results checker - correct your lotto tickets on <span>ECHO LOTTERY NAME</span></h3>
 
-                        <div class="col-md-2 rslt-wd">
+                            </div>
 
-                             <div class="panel panel-default" style="border-color:#e6e6e6">
+                            <div class="col-md-2 rslt-wd">
 
-                                <div class="panel-heading fltr-head">Filter Results</div>
-                                
-                                <div class="panel-body head-bold">
+                                <div class="panel panel-default" style="border-color:#e6e6e6">
+
+                                    <div class="panel-heading fltr-head">Filter Results</div>
                                     
-                                    <h5>Europe</h5>
-                                    <ul class="rslt-head">
-                                        <li><a>Austria Lotto</a></li>
-                                        <li><a>Belgium Lotto</a></li>
-                                        <li><a>Eurojackpot</a></li>
-                                        <li><a>Finland Lotto</a></li>
-                                        <li><a>SuperEnaLotto</a></li>
-                                        <li><a>Norway Lotto</a></li>
-                                        <li><a>Poland Lotto</a></li>
-                                        <li><a>El Gordo</a></li>
-                                        <li><a>Bonoloto</a></li>
-                                        <li><a>La Primitiva</a></li>
-                                        <li><a>Euromillions</a></li>
-                                        <li><a>Sweden Lott</a></li>
-                                        <li><a>UK National Lottery</a></li>
-                                    </ul>
+                                    <div class="panel-body head-bold">
+                                        
+                                        <h5>Europe</h5>
+                                        <ul class="rslt-head">
+                                            <li><a>Austria Lotto</a></li>
+                                            <li><a>Belgium Lotto</a></li>
+                                            <li><a>Eurojackpot</a></li>
+                                            <li><a>Finland Lotto</a></li>
+                                            <li><a>SuperEnaLotto</a></li>
+                                            <li><a>Norway Lotto</a></li>
+                                            <li><a>Poland Lotto</a></li>
+                                            <li><a>El Gordo</a></li>
+                                            <li><a>Bonoloto</a></li>
+                                            <li><a>La Primitiva</a></li>
+                                            <li><a>Euromillions</a></li>
+                                            <li><a>Sweden Lott</a></li>
+                                            <li><a>UK National Lottery</a></li>
+                                        </ul>
 
 
 
-                                    <h5>USA</h5>
-                                    <ul class="rslt-head">
-                                        <li><a>Illinois Lotto</a></li>
-                                        <li><a>Hoosier Lotto</a></li>
-                                        <li><a>New York Lotto</a></li>
-                                        <li><a>Powerball</a></li>
-                                        <li><a>California SuperLotto</a></li>
-                                        <li><a>Florida Lotto</a></li>
-                                        <li><a>Mega Millions</a></li>
-                                    </ul>
+                                        <h5>USA</h5>
+                                        <ul class="rslt-head">
+                                            <li><a>Illinois Lotto</a></li>
+                                            <li><a>Hoosier Lotto</a></li>
+                                            <li><a>New York Lotto</a></li>
+                                            <li><a>Powerball</a></li>
+                                            <li><a>California SuperLotto</a></li>
+                                            <li><a>Florida Lotto</a></li>
+                                            <li><a>Mega Millions</a></li>
+                                        </ul>
 
 
-                                    <h5>Australia</h5>
-                                    <ul class="rslt-head">
-                                        <li><a>Saturday Lotto</a></li>
-                                        <li><a>Australia Powerball</a></li>
-                                    </ul>
+                                        <h5>Australia</h5>
+                                        <ul class="rslt-head">
+                                            <li><a>Saturday Lotto</a></li>
+                                            <li><a>Australia Powerball</a></li>
+                                        </ul>
 
 
-                                    <h5>South America</h5>
-                                    <ul class="rslt-head">
-                                        <li><a>Mega-Sena</a></li>
-                                    </ul>
+                                        <h5>South America</h5>
+                                        <ul class="rslt-head">
+                                            <li><a>Mega-Sena</a></li>
+                                        </ul>
 
 
-                                    <h5>North America</h5>
-                                    <ul class="rslt-head">
-                                        <li><a>Canada Lotto 6/49</a></li>
-                                    </ul>
+                                        <h5>North America</h5>
+                                        <ul class="rslt-head">
+                                            <li><a>Canada Lotto 6/49</a></li>
+                                        </ul>
 
+
+                                    </div>
+                            
+                                </div>
+
+                            </div>
+                            
+
+                            <div class="col-md-9 col-sm-12 col-xs-12">
+
+                                <h3 class="rslt-date">April 2017</h3>
+                                <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
+
+                                <div class="table-responsive">
+
+                                    <table class="table">
+
+                                        <thead class="rslt-table">
+
+                                            <tr>
+
+                                                <td>&nbsp;</td>
+                                                <td>BALL NUMBERS</td>
+                                                <td class="mbl-hide-out">EXTRA NUMBERS</td>
+                                                <td class="mbl-hide-out">BONUS NUMBERS</td>
+                                                <td>PAYOUT</td>
+
+                                            </tr>    
+
+                                        </thead>
+
+                                        <tbody class="rslt-body">
+
+                                            <tr>
+                                                <td><div class="img">12</div></td>
+                                                <td><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">35</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr>  
+
+
+                                            <tr>
+                                                <td><div class="img">12</div></td>
+                                                <td><a href="payout.php">1 - 2 - 18 - 23 - 61</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">9</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">12</div></td>
+                                                <td><a href="payout.php">9 - 14 - 34 - 35 - 36</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">27</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">12</div></td>
+                                                <td><a href="payout.php">12 - 20 - 24 - 28 - 33 - 57</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">12</div></td>
+                                                <td><a href="payout.php">1 - 7 - 14 - 19 - 35 - 39</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">37</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">11</div></td>
+                                                <td><a href="payout.php">7 - 18 - 24 - 55 - 74</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">10</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">11</div></td>
+                                                <td><a href="payout.php">14 - 22 - 26 - 42 - 50</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">8 - 10</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">11</div></td>
+                                                <td><a href="payout.php">6 - 12 - 38 - 42 - 49 - 83</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">53</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">11</div></td>
+                                                <td><a href="payout.php">7 - 29 - 40 - 41 - 46</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">5</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">9</div></td>
+                                                <td><a href="payout.php">3 - 16 - 21 - 25 - 26 - 39 *3*</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">48</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td><div class="img">7</div></td>
+                                                <td><a href="payout.php">15 - 16 - 17 - 23 - 30</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">-</a></td>
+                                                <td class="mbl-hide-out"><a href="payout.php">6 - 9</a></td>
+                                                <td><a href="payout.php">View ></a></td>
+                                            </tr>   
+
+                                        </tbody>
+
+                                    </table>
+
+                                        
+                                </div>
+
+                                <div class="row">
+                                    <button type="button" class="btn btn-default pull-left prev-btn">PREVIOUS</button>
+                                    <button type="button" class="btn btn-default pull-right prev-btn">NEXT</button>
+                                </div>
+
+                                <div class="row border-for-boxes">
+
+                                    <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
+                                        <img src="images/mega-millions.png" class="img-responsive" style="display:inline">
+                                        <h4>&euro;189 500 000</h4>
+                                        <h5>Time left:</h5>
+                                        <h5>1 day 11 hours 47 minutes</h5>
+                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+
+                                    </div>
+
+
+                                    <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
+                                        <img src="images/usa-powerball.png" class="img-responsive two-img" style="display:inline">
+                                        <h4 class="two-img">&euro;150 200 000</h4>
+                                        <h5>Time left:</h5>
+                                        <h5>2 days 11 hours 42 minutes</h5>
+                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+
+                                    </div>
+
+
+                                    <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
+                                        <img src="images/super-ena-lotto.png" class="img-responsive two-img" style="display:inline">
+                                        <h4 class="two-img">&euro;69 700 000</h4>
+                                        <h5>Time left:</h5>
+                                        <h5>0 days 2 hours 13 minutes</h5>
+                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+
+                                    </div>
 
                                 </div>
-                           
+
                             </div>
 
                         </div>
                         
 
-                        <div class="col-md-9 col-sm-12 col-xs-12">
+                    </scetion>
 
-                            <h3 class="rslt-date">April 2017</h3>
-                            <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
-
-                            <div class="table-responsive">
-
-                                <table class="table">
-
-                                    <thead class="rslt-table">
-
-                                        <tr>
-
-                                            <td>&nbsp;</td>
-                                            <td>BALL NUMBERS</td>
-                                            <td class="mbl-hide-out">EXTRA NUMBERS</td>
-                                            <td class="mbl-hide-out">BONUS NUMBERS</td>
-                                            <td>PAYOUT</td>
-
-                                        </tr>    
-
-                                    </thead>
-
-                                    <tbody class="rslt-body">
-
-                                        <tr>
-                                            <td><div class="img">12</div></td>
-                                            <td><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">35</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr>  
-
-
-                                        <tr>
-                                            <td><div class="img">12</div></td>
-                                            <td><a href="payout.php">1 - 2 - 18 - 23 - 61</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">9</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">12</div></td>
-                                            <td><a href="payout.php">9 - 14 - 34 - 35 - 36</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">27</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">12</div></td>
-                                            <td><a href="payout.php">12 - 20 - 24 - 28 - 33 - 57</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">12</div></td>
-                                            <td><a href="payout.php">1 - 7 - 14 - 19 - 35 - 39</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">37</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">11</div></td>
-                                            <td><a href="payout.php">7 - 18 - 24 - 55 - 74</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">10</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">11</div></td>
-                                            <td><a href="payout.php">14 - 22 - 26 - 42 - 50</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">8 - 10</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">11</div></td>
-                                            <td><a href="payout.php">6 - 12 - 38 - 42 - 49 - 83</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">53</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">11</div></td>
-                                            <td><a href="payout.php">7 - 29 - 40 - 41 - 46</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">5</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">9</div></td>
-                                            <td><a href="payout.php">3 - 16 - 21 - 25 - 26 - 39 *3*</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">48</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td><div class="img">7</div></td>
-                                            <td><a href="payout.php">15 - 16 - 17 - 23 - 30</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">-</a></td>
-                                            <td class="mbl-hide-out"><a href="payout.php">6 - 9</a></td>
-                                            <td><a href="payout.php">View ></a></td>
-                                        </tr>   
-
-                                    </tbody>
-
-                                </table>
-
-                                    
-                            </div>
-
-                            <div class="row">
-                                <button type="button" class="btn btn-default pull-left prev-btn">PREVIOUS</button>
-                                <button type="button" class="btn btn-default pull-right prev-btn">NEXT</button>
-                            </div>
-
-                            <div class="row border-for-boxes">
-
-                                <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
-                                    <img src="images/mega-millions.png" class="img-responsive" style="display:inline">
-                                    <h4>&euro;189 500 000</h4>
-                                    <h5>Time left:</h5>
-                                    <h5>1 day 11 hours 47 minutes</h5>
-                                    <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
-
-                                </div>
-
-
-                                 <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
-                                    <img src="images/usa-powerball.png" class="img-responsive two-img" style="display:inline">
-                                    <h4 class="two-img">&euro;150 200 000</h4>
-                                    <h5>Time left:</h5>
-                                    <h5>2 days 11 hours 42 minutes</h5>
-                                    <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
-
-                                </div>
-
-
-                                 <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
-                                    <img src="images/super-ena-lotto.png" class="img-responsive two-img" style="display:inline">
-                                    <h4 class="two-img">&euro;69 700 000</h4>
-                                    <h5>Time left:</h5>
-                                    <h5>0 days 2 hours 13 minutes</h5>
-                                    <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-                    
-
-                </scetion>
-
-            </div>
+                </div>
                
             <!-- Main Section Ends Here-->
 
@@ -433,262 +345,36 @@
 
 
 
-           <!-- Age Restriction -->           
-            <hr>
-            
-           <div class="row"> 
-
-                <section class="age-restriction">
-                    
-                    <div class="col-md-12">
-
-
-                        <img src="images/curacao_egaming_logo.png" class="img-responsive" style="display:inline">
-
-                        <h4>FOR NON-US RESIDENTS ONLY
-                            <br>
-                            <img src="images/footer-age-limit.png" class="img-responsive" style="display:inline">
-                             YOU MUST BE 18 OR OVER TO PLAY OR CLAIM A PRIZE
-                        </h4>
-
-                        <h6>This Service is licensed by Curacao eGaming (Cyberluck Curacao N.V.) Authorized and Regulated by the Government of Curacao under Multi Pay N.V with its registered address at Abraham de Veerstraat 2, Willemstad, Curaçao, under the License No. 1668/JAZ. Multi Brand Gaming Limited is responsible for the Credit Card payment processing.</h6>
-
-                        
-
-                    
-                    </div>
-            
-                </section>
-            
-           </div>         
-           <!-- Age Restrictio Ends Here -->
-            
-            
-            
-            <!-- Payment Section -->
-            <hr>
-
-            <div class="row">
-
-                <section class="payment-method">
-
-                    <div class="col-md=12">
-
-                        <section>    
-
-                            <ul class="card-inline">
-
-                                <li><a href=""><img src="images/DC-international.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Mastercard-PNG-Picture.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Visa-icon.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/wirecard.jpeg" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Verified_by_Visa_logo.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/netellercasinos.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/558.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download (1).png" class="img-responsive" style="height:32px;display:inline"></a></li>
-
-
-                            </ul>
-
-                        </section>
-
-                        <img src="images/trusted-site.png" class="img-responsive" style="display:inline;margin:3% 0">
-
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Payment Section ENd -->
-
+           <?php include 'payment.php'?>
 
             <!-- Description -->
 
-            <hr>
+                <hr>
 
-            <div class="row">
+                <div class="row">
 
-                <section class="description">
+                    <section class="description">
 
-                    <div class="col-md-12">
+                        <div class="col-md-12">
 
-                        <h6>
-                            <p>
-                              On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                            <h6>
+                                <p>
+                                On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                                
+                                                            
+                                </p>
                             
-                                                         
-                            </p>
-                        
-                        </h6>
+                            </h6>
 
-                    </div>
+                        </div>
 
-                </section>
+                    </section>
 
-            </div>
+                </div>
 
             <!-- Description Ends here -->
         
-           <!-- Footer -->
-            <hr>
-
-            <div class="row">
-
-                <section>
-
-
-                    <div class="col-md-1 col-sm-1"></div>
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >HOME</a></li>
-                            <li><a href="" >Sign Up</a></li>
-                            <li><a href="" >Log In</a></li>
-                            <li><a href="" >Forgot Your Password</a></li>
-                            <li><a href="" >Withdraw</a></li>
-                            <li><a href="" >Deposit</a></li>
-                            <li><a href="" >how To Play</a></li>
-                            <li><a href="" >Lotto Bonus</a></li>
-                            <li><a href="" >News</a></li>
-                            <li><a href="" >Shop</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >Play Lotto</a></li>
-                            <li><a href="euromillion.php" >Play EuroMillions</a></li>
-                            <li><a href="megamillion.php" >Play Mega Millions</a></li>
-                            <li><a href="la_primitiva.php" >Play La Primitiva</a></li>
-                            <li><a href="superEnalotto.php" >Play Super EnaLotto</a></li>
-                            <li><a href="california.php" >Play California SuperLotto</a></li>
-                            <li><a href="powerball.php" >Play Powerball</a></li>
-                            <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
-                            <li><a href="mega.php" >Play Mega-Sena</a></li>
-                            <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>
-                            <li><a href="bonolotto.php" >Play Bonoloto</a></li>
-                            <li><a href="el_gordo.php" >Play El Gordo</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="result.php" >Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Euromillions Results</a></li>
-                            <li><a href="viewresult.php" >Mega Millions Results</a></li>
-                            <li><a href="viewresult.php" >La Primitiva Results</a></li>
-                            <li><a href="viewresult.php" >SuperEnaLotto Results</a></li>
-                            <li><a href="viewresult.php" >California SuperLotto Results</a></li>
-                            <li><a href="viewresult.php" >Powerball Results</a></li>
-                            <li><a href="viewresult.php" >New York Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Mega-Sena Results</a></li>
-                            <li><a href="viewresult.php" >Eurojackpot Results</a></li>
-                            <li><a href="viewresult.php" >Bonoloto Results</a></li>
-                            <li><a href="viewresult.php" >El Gordo Results</a></li>
-                            <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >About Us</a></li>
-                            <li><a href="" >Contact Us</a></li>
-                            <li><a href="" >Terms & Conditions</a></li>
-                            <li><a href="" >FAQ</a></li>
-                            <li><a href="" >Privacy Policy</a></li>
-                            <li><a href="" >Become an affiliate?</a></li>
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >Languages</a></li>
-                            <li><a href="" >Deutsch</a></li>
-                            <li><a href="" >English</a></li>
-                            <li><a href="" >Español</a></li>
-                            <li><a href="" >Italiano</a></li>
-                            <li><a href="" >Magyar</a></li>
-                            <li><a href="" >Polski</a></li>
-                            <li><a href="" >Português</a></li>
-                            <li><a href="" >Pу́сский язы́к</a></li>
-                            <li><a href="" >Srpskohrvatski</a></li>
-                            <li><a href="" >Suomi</a></li>
-                            <li><a href="" >Svenska</a></li>
-                            <li><a href="" >Tagalog</a></li>
-                            <li><a href="" >Türkçe</a></li>
-                            <li><a href="" >Ελληνικά</a></li>
-                            <li><a href="" >Українська мова</a></li>
-                            <li><a href="" >正體中文</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-
-                    <div class="col-md-1"></div>
-
-
-                </section>
-
-            </div>
-            <!-- Footer Ends here -->
-
-
-
-            <!-- Copy Right -->
-            <div class="row">
-
-                <section class="footer-copyright">
-
-                    <div class="col-md-12">
-
-                        <h5>Gamble responsibly <a>www.gambleaware.co.uk</a>, <a>ww.gamcare.org.uk</a></h5>
-
-                        <h5>Use of this Website constitutes acceptance of the Multilotto.com <a>Terms and Conditions</a> and <a>Privacy Policy</a>.
-                            <br>
-                            © Copyright 2010-2017 Multi Pay N.V. All Rights Reserved.
-                        </h5>
-
-                    
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Copy Rights Ends here -->
-
+            <?php include 'footer.php'?>
 
         </div>
 

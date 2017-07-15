@@ -45,23 +45,25 @@ var cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
 var text = "";
 var i;
 for (i = 0; i < 70; i++) {
-	document.getElementById("demo").innerHTML = '<tr>'
-	text += i;
-		document.getElementById("demo").innerHTML = '<td>'+text+'</td>'
+	
+	// text += i;
+	// 	document.getElementById("demo").innerHTML = '<td>'+text+'</td>'
 	
 	if(i%5==0)
 	{
 
     // text += i + "";
 		document.getElementById("demo").innerHTML = '</tr>'
+		document.getElementById("demo").innerHTML = '<tr>'
 	}
-	// else{
+	else{
 		
-	// 	// document.getElementById("demo").innerHTML = '<td>'
-    // //  + "</td>";
+		 text += i + "";
+		// document.getElementById("demo").innerHTML = '<td>'
+    //  + "</td>";
 	
-	// 	// document.getElementById("demo").innerHTML = '</td>'
-	// }
+		// document.getElementById("demo").innerHTML = '</td>'
+	}
 }
 document.getElementById("demo").innerHTML =text;
 </script>

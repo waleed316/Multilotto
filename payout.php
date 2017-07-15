@@ -172,181 +172,181 @@
             <!-- Main Section -->
 
 
-            <div class="row">
-            
-                <section class="main-section">
-
+                <div class="row">
                 
-                    <div class="container">
+                    <section class="main-section">
 
-                        <div class="col-md-12"> 
+                    
+                        <div class="container">
 
-                            <h3 class="ltry-head">Payout</h3>
-                            <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
+                            <div class="col-md-12"> 
 
-                        </div>
+                                <h3 class="ltry-head">Payout</h3>
+                                <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
 
-                       
-
-                        <div class="col-md-6 col-sm-12 col-xs-12">
-
-                            <h3 class="rslt-date">New York Lotto Results - 12 July 2017</h3>
-                            
-
-                            <div>
-
-                                <table class="table">
-
-                                    <thead class="payout-table">
-
-                                        <tr>
-
-                                            
-                                            <td>DIVISIONS</td>
-                                            <td>MATCH</td>
-                                            <td>&nbsp;</td>
-                                            <td>WINNING ODDS</td>
-                                            <td>PRIZE MONEY</td>
-
-                                        </tr>    
-
-                                    </thead>
-
-                                    <tbody class="payout-body">
-
-                                        <tr class="active">
-                                            <td>1</td>
-                                            <td>6</td>
-                                            <td></td>
-                                            <td>1:45 057 474</td>
-                                            <td>No winner</td>
-                                        </tr>  
-
-
-                                        <tr>
-                                            <td>2</td>
-                                            <td>5 + 1</td>
-                                            <td></td>
-                                            <td>1:7 509 579</td>
-                                            <td>No winner</td>
-                                        </tr> 
-
-
-                                        <tr class="active">
-                                            <td>3</td>
-                                            <td>5</td>
-                                            <td></td>
-                                            <td>1:141 415</td>
-                                            <td>€997.47</td>
-                                        </tr> 
-
-
-                                        <tr>
-                                            <td>4</td>
-                                            <td>4</td>
-                                            <td></td>
-                                            <td>1:2 180</td>
-                                            <td>€20.09</td>
-                                        </tr> 
-
-
-                                        <tr class="active">
-                                            <td>5</td>
-                                            <td>3</td>
-                                            <td></td>
-                                            <td>1:96</td>
-                                            <td>€0.87</td>
-                                        </tr> 
-
-                                    </tbody>
-
-                                </table>
-
-                                    
                             </div>
 
-                            <div class="row text-center">
-                                <a href="" class="prev-ltry">< New York Lotto Results</a>
-                                <button type="button" class="btn btn-default three-boxes-btn1">PLAY NEW YORK LOTTO</button>
-                            </div>
+                        
 
-                            <div class="row border-for-boxes">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
 
-                                <div class="col-md-6 col-sm-6 col-xs-12 text-center three-boxes">
-                                    <img src="images/mega-millions.png" class="img-responsive" style="display:inline">
-                                    <h4>&euro;189 500 000</h4>
-                                    <h5>Time left:</h5>
-                                    <h5>1 day 11 hours 47 minutes</h5>
-                                    <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
-
-                                </div>
-
-
-                                 <div class="col-md-6 col-sm-6 col-xs-12 text-center three-boxes">
-                                    <img src="images/usa-powerball.png" class="img-responsive two-img" style="display:inline">
-                                    <h4 class="two-img">&euro;150 200 000</h4>
-                                    <h5>Time left:</h5>
-                                    <h5>2 days 11 hours 42 minutes</h5>
-                                    <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
-
-                                </div>
-
-
+                                <h3 class="rslt-date">New York Lotto Results - 12 July 2017</h3>
                                 
 
+                                <div>
+
+                                    <table class="table">
+
+                                        <thead class="payout-table">
+
+                                            <tr>
+
+                                                
+                                                <td>DIVISIONS</td>
+                                                <td>MATCH</td>
+                                                <td>&nbsp;</td>
+                                                <td>WINNING ODDS</td>
+                                                <td>PRIZE MONEY</td>
+
+                                            </tr>    
+
+                                        </thead>
+
+                                        <tbody class="payout-body">
+
+                                            <tr class="active">
+                                                <td>1</td>
+                                                <td>6</td>
+                                                <td></td>
+                                                <td>1:45 057 474</td>
+                                                <td>No winner</td>
+                                            </tr>  
+
+
+                                            <tr>
+                                                <td>2</td>
+                                                <td>5 + 1</td>
+                                                <td></td>
+                                                <td>1:7 509 579</td>
+                                                <td>No winner</td>
+                                            </tr> 
+
+
+                                            <tr class="active">
+                                                <td>3</td>
+                                                <td>5</td>
+                                                <td></td>
+                                                <td>1:141 415</td>
+                                                <td>€997.47</td>
+                                            </tr> 
+
+
+                                            <tr>
+                                                <td>4</td>
+                                                <td>4</td>
+                                                <td></td>
+                                                <td>1:2 180</td>
+                                                <td>€20.09</td>
+                                            </tr> 
+
+
+                                            <tr class="active">
+                                                <td>5</td>
+                                                <td>3</td>
+                                                <td></td>
+                                                <td>1:96</td>
+                                                <td>€0.87</td>
+                                            </tr> 
+
+                                        </tbody>
+
+                                    </table>
+
+                                        
+                                </div>
+
+                                <div class="row text-center">
+                                    <a href="" class="prev-ltry">< New York Lotto Results</a>
+                                    <button type="button" class="btn btn-default three-boxes-btn1">PLAY NEW YORK LOTTO</button>
+                                </div>
+
+                                <div class="row border-for-boxes">
+
+                                    <div class="col-md-6 col-sm-6 col-xs-12 text-center three-boxes">
+                                        <img src="images/mega-millions.png" class="img-responsive" style="display:inline">
+                                        <h4>&euro;189 500 000</h4>
+                                        <h5>Time left:</h5>
+                                        <h5>1 day 11 hours 47 minutes</h5>
+                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+
+                                    </div>
+
+
+                                    <div class="col-md-6 col-sm-6 col-xs-12 text-center three-boxes">
+                                        <img src="images/usa-powerball.png" class="img-responsive two-img" style="display:inline">
+                                        <h4 class="two-img">&euro;150 200 000</h4>
+                                        <h5>Time left:</h5>
+                                        <h5>2 days 11 hours 42 minutes</h5>
+                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+
+                                    </div>
+
+
+                                    
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="col-md-6 col-sm-12 col-xs-12" style="padding:0px">
+
+                                <h3 class="rslt-date">Winning numbers</h3>
+
+                                <div class="col-md-12 col-xs-12 col-sm-12 win-prize-no">
+
+                                    <div class="win-no">1</div>
+                                    <div class="win-no">6</div>
+                                    <div class="win-no">8</div>
+                                    <div class="win-no">12</div>
+                                    <div class="win-no">27</div>
+                                    <div class="win-no">40</div>
+
+                                    <span class="extra">
+                                        <div class="win-no bonus-no">27</div>
+                                        <div class="win-no bonus-s-no">40</div>
+                                    </span>
+
+                                </div>
+
+
+                                <div class="col-md-12 col-xs-12 col-sm-12 text-right upcmng-event">
+
+                                    <h5>Biggest jackpot right now: €190 100 000</h5>
+                                    <a>Play Mega Millions ></a>
+                                    <h5>Upcoming La Primitiva draws</h5>
+                                    <a>La Primitiva - Saturday, 15 July 2017</a>
+                                    <br>
+                                    <a>La Primitiva - Thursday, 20 July 2017</a>
+                                    <br>
+                                    <a>La Primitiva - Saturday, 22 July 2017</a>
+
+                                </div>
+
+
+
+
+
+
+
                             </div>
 
                         </div>
+                        
 
+                    </scetion>
 
-                        <div class="col-md-6 col-sm-12 col-xs-12" style="padding:0px">
-
-                            <h3 class="rslt-date">Winning numbers</h3>
-
-                            <div class="col-md-12 col-xs-12 col-sm-12 win-prize-no">
-
-                                <div class="win-no">1</div>
-                                <div class="win-no">6</div>
-                                <div class="win-no">8</div>
-                                <div class="win-no">12</div>
-                                <div class="win-no">27</div>
-                                <div class="win-no">40</div>
-
-                                <span class="extra">
-                                    <div class="win-no bonus-no">27</div>
-                                    <div class="win-no bonus-s-no">40</div>
-                                </span>
-
-                            </div>
-
-
-                            <div class="col-md-12 col-xs-12 col-sm-12 text-right upcmng-event">
-
-                                <h5>Biggest jackpot right now: €190 100 000</h5>
-                                <a>Play Mega Millions ></a>
-                                <h5>Upcoming La Primitiva draws</h5>
-                                <a>La Primitiva - Saturday, 15 July 2017</a>
-                                <br>
-                                <a>La Primitiva - Thursday, 20 July 2017</a>
-                                <br>
-                                <a>La Primitiva - Saturday, 22 July 2017</a>
-
-                            </div>
-
-
-
-
-
-
-
-                        </div>
-
-                    </div>
-                    
-
-                </scetion>
-
-            </div>
+                </div>
                
             <!-- Main Section Ends Here-->
 
@@ -354,264 +354,36 @@
 
 
 
-           <!-- Age Restriction -->           
-            <hr>
-            
-           <div class="row"> 
-
-                <section class="age-restriction">
-                    
-                    <div class="col-md-12">
-
-
-                        <img src="images/curacao_egaming_logo.png" class="img-responsive" style="display:inline">
-
-                        <h4>FOR NON-US RESIDENTS ONLY
-                            <br>
-                            <img src="images/footer-age-limit.png" class="img-responsive" style="display:inline">
-                             YOU MUST BE 18 OR OVER TO PLAY OR CLAIM A PRIZE
-                        </h4>
-
-                        <h6>This Service is licensed by Curacao eGaming (Cyberluck Curacao N.V.) Authorized and Regulated by the Government of Curacao under Multi Pay N.V with its registered address at Abraham de Veerstraat 2, Willemstad, Curaçao, under the License No. 1668/JAZ. Multi Brand Gaming Limited is responsible for the Credit Card payment processing.</h6>
-
-                        
-
-                    
-                    </div>
-            
-                </section>
-            
-           </div>         
-           <!-- Age Restrictio Ends Here -->
-            
-            
-            
-            <!-- Payment Section -->
-            <hr>
-
-            <div class="row">
-
-                <section class="payment-method">
-
-                    <div class="col-md=12">
-
-                        <section>    
-
-                            <ul class="card-inline">
-
-                                <li><a href=""><img src="images/DC-international.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Mastercard-PNG-Picture.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Visa-icon.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/wirecard.jpeg" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Verified_by_Visa_logo.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/netellercasinos.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/558.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download (1).png" class="img-responsive" style="height:32px;display:inline"></a></li>
-
-
-                            </ul>
-
-                        </section>
-
-                        <img src="images/trusted-site.png" class="img-responsive" style="display:inline;margin:3% 0">
-
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Payment Section ENd -->
-
+           <?php include 'payment.php' ?>
 
             <!-- Description -->
 
-            <hr>
+                <hr>
 
-            <div class="row">
+                <div class="row">
 
-                <section class="description">
+                    <section class="description">
 
-                    <div class="col-md-12">
+                        <div class="col-md-12">
 
-                        <h6>
-                            <p>
-                              On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                            <h6>
+                                <p>
+                                On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                                
+                                                            
+                                </p>
                             
-                                                         
-                            </p>
-                        
-                        </h6>
+                            </h6>
 
-                    </div>
+                        </div>
 
-                </section>
+                    </section>
 
-            </div>
+                </div>
 
             <!-- Description Ends here -->
         
-           <!-- Footer -->
-            <hr>
-
-            <div class="row">
-
-                <section>
-
-
-                    <div class="col-md-1 col-sm-1"></div>
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >HOME</a></li>
-                            <li><a href="" >Sign Up</a></li>
-                            <li><a href="" >Log In</a></li>
-                            <li><a href="" >Forgot Your Password</a></li>
-                            <li><a href="" >Withdraw</a></li>
-                            <li><a href="" >Deposit</a></li>
-                            <li><a href="" >how To Play</a></li>
-                            <li><a href="" >Lotto Bonus</a></li>
-                            <li><a href="" >News</a></li>
-                            <li><a href="" >Shop</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >Play Lotto</a></li>
-                            <li><a href="euromillion.php" >Play EuroMillions</a></li>
-                            <li><a href="megamillion.php" >Play Mega Millions</a></li>
-                            <li><a href="la_primitiva.php" >Play La Primitiva</a></li>
-                            <li><a href="superEnalotto.php" >Play Super EnaLotto</a></li>
-                            <li><a href="california.php" >Play California SuperLotto</a></li>
-                            <li><a href="powerball.php" >Play Powerball</a></li>
-                            <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
-                            <li><a href="mega.php" >Play Mega-Sena</a></li>
-                            <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>
-                            <li><a href="bonolotto.php" >Play Bonoloto</a></li>
-                            <li><a href="el_gordo.php" >Play El Gordo</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="result.php" >Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Euromillions Results</a></li>
-                            <li><a href="viewresult.php" >Mega Millions Results</a></li>
-                            <li><a href="viewresult.php" >La Primitiva Results</a></li>
-                            <li><a href="viewresult.php" >SuperEnaLotto Results</a></li>
-                            <li><a href="viewresult.php" >California SuperLotto Results</a></li>
-                            <li><a href="viewresult.php" >Powerball Results</a></li>
-                            <li><a href="viewresult.php" >New York Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Mega-Sena Results</a></li>
-                            <li><a href="viewresult.php" >Eurojackpot Results</a></li>
-                            <li><a href="viewresult.php" >Bonoloto Results</a></li>
-                            <li><a href="viewresult.php" >El Gordo Results</a></li>
-                            <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >About Us</a></li>
-                            <li><a href="" >Contact Us</a></li>
-                            <li><a href="" >Terms & Conditions</a></li>
-                            <li><a href="" >FAQ</a></li>
-                            <li><a href="" >Privacy Policy</a></li>
-                            <li><a href="" >Become an affiliate?</a></li>
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >Languages</a></li>
-                            <li><a href="" >Deutsch</a></li>
-                            <li><a href="" >English</a></li>
-                            <li><a href="" >Español</a></li>
-                            <li><a href="" >Italiano</a></li>
-                            <li><a href="" >Magyar</a></li>
-                            <li><a href="" >Polski</a></li>
-                            <li><a href="" >Português</a></li>
-                            <li><a href="" >Pу́сский язы́к</a></li>
-                            <li><a href="" >Srpskohrvatski</a></li>
-                            <li><a href="" >Suomi</a></li>
-                            <li><a href="" >Svenska</a></li>
-                            <li><a href="" >Tagalog</a></li>
-                            <li><a href="" >Türkçe</a></li>
-                            <li><a href="" >Ελληνικά</a></li>
-                            <li><a href="" >Українська мова</a></li>
-                            <li><a href="" >正體中文</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-
-                    <div class="col-md-1"></div>
-
-
-                </section>
-
-            </div>
-            <!-- Footer Ends here -->
-
-
-
-
-            <!-- Copy Right -->
-            <div class="row">
-
-                <section class="footer-copyright">
-
-                    <div class="col-md-12">
-
-                        <h5>Gamble responsibly <a>www.gambleaware.co.uk</a>, <a>ww.gamcare.org.uk</a></h5>
-
-                        <h5>Use of this Website constitutes acceptance of the Multilotto.com <a>Terms and Conditions</a> and <a>Privacy Policy</a>.
-                            <br>
-                            © Copyright 2010-2017 Multi Pay N.V. All Rights Reserved.
-                        </h5>
-
-                    
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Copy Rights Ends here -->
-
-
+            <?php include 'footer.php'?>
         </div>
 
 
