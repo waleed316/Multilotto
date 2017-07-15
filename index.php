@@ -1298,35 +1298,70 @@
                                         <div class="col-md-12">
 
                                             <img src="images/icon-start-biggest_jackpots.png" class="img-responsive trophy">
-                                            <h3 class="world-rec" >WORLD<br>RECORD<br>JACKPOTS</h3>
+                                            <h3 class="world-rec">WORLD<br>RECORD<br>JACKPOTS</h3>
 
                                         </div>
 
                                     </div>
 
 
-                                        <ul class="rank">
+                                    <ul class="rank">
 
-                                            <li>
-                                                <div>
-                                                    <h1>1</h1> 
-                                                </div>
+                                        <li class="clearfix">
+                                            
+                                                <h1>1</h1> 
 
-                                                <div class="col-md-9 down-margin">
-
-                                                    <h6 class="margin-zero">THE BIGGEST JACKPOT ON</h6>
-                                                    <h3 class="margin-zero full-text">SUPERNALOTO</h3>
-                                                
-                                                </div>
-
-                                            </li>
+                                                <h3 class="margin-zero1">$1.58B</h3>
+                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                                               
+                                        </li>
 
 
+                                        <li class="clearfix">
+                                            
+                                                <h1 style="opacity:0.8">2</h1> 
+
+                                                <h3 class="margin-zero1">$656M</h3>
+                                                <h6 class="margin-zero1">MEGAMILLIONS</h6>
+                                                                               
+                                        </li>
 
 
-                                        </ul>
+                                        <li class="clearfix">
+                                            
+                                                <h1 style="opacity:0.7">3</h1> 
+
+                                                <h3 class="margin-zero1">$648M</h3>
+                                                <h6 class="margin-zero1">MEGAMILLIONS</h6>
+                                                                               
+                                        </li>
 
 
+
+                                        <li class="clearfix">
+                                            
+                                                <h1 style="opacity:0.5">4</h1> 
+
+                                                <h3 class="margin-zero1">$591M</h3>
+                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                                               
+                                        </li>
+
+
+
+                                        <li class="clearfix">
+                                            
+                                                <h1 style="opacity:0.3">5</h1> 
+
+                                                <h3 class="margin-zero1">$588M</h3>
+                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                                               
+                                        </li>
+
+
+                                    </ul>
+
+                                    <a class="wikirec">More records on wikipedia</a>
                                 </div>
 
                                 <!-- commit end here -->
