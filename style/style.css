@@ -2167,9 +2167,34 @@ and (max-device-width : 667px)
 
 }
 
+/*Iphone 6s plus   */
+
+@media screen
+/* and (min-device-width : 736px) */
+and (max-width : 800px)
+{
+
+
+.top-header-margin,.mobile
+    {
+        display:                none!important;
+    }
+.rslt-wd
+    {
+        display:                none;
+    }
+.tagline-margin
+    {
+        display:                none;
+    }
 
 
 
+
+
+
+
+}
 
 
 
