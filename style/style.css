@@ -1407,15 +1407,30 @@
     }
 
 
+.tbl-td-width
+    {
+        padding-top:            16px!important;
+    }
+
+.table-rslt-for-mobile
+    {
+        display:                none;            
+    }
 
 
 
+.color-grey
+    {
+        color:                  rgb(102, 102, 102);
+
+    }
 
 
-
-
-
-
+.tble-bld
+    {
+        color:                  black;
+        font-weight:            bold;
+    }
 
 
 header { width: 100%; }
@@ -1839,10 +1854,10 @@ and (max-device-width : 480px)
     }
 
 
-.rslt-note
+/* .rslt-note
     {
         display:            none;
-    }
+    } */
 
 
 
@@ -2137,6 +2152,10 @@ and (max-device-width : 736px)
         width:          100%!important;
     }
 
+.table-rslt-for-mobile
+    {
+        display:                table!important;            
+    }
 
 
 
@@ -2171,24 +2190,61 @@ and (max-device-width : 667px)
 
 @media screen
 /* and (min-device-width : 736px) */
+and (min-width : 414px)
 and (max-width : 800px)
 {
 
 
-.top-header-margin,.mobile
+.top-header-margin,.mobile,.tagline-margin,.rslt-wd,.mobile-hide
     {
         display:                none!important;
     }
-.rslt-wd
+
+.background-clr1
     {
-        display:                none;
+        background-color:       transparent;
+        margin:                 0!important;
     }
-.tagline-margin
+
+.nav-tabs>li>a 
+{
+    color:                      #62b32c!important;
+    font-weight:                bold;
+    font-size:                  10px!important;
+    padding:                    10px 15px!important;
+}
+
+
+.text
     {
-        display:                none;
+        padding-top:            15px;
+    }
+.text>h1
+    {
+        font-size:              24px!important;         
+    }
+
+.table-rslt-for-mobile
+    {
+        display:                table!important;            
     }
 
 
+.win-no {
+    border: 5px solid transparent!important;
+    border-radius: 30px!important;
+    color: #fff!important;
+    display: inline-block!important;
+    height: 32px!important;
+    line-height: 22px!important;
+    margin-bottom: 4px!important;
+    position: relative!important;
+    text-align: center!important;
+    width: 32px!important;
+    background-color: #5191c4!important;
+    font-size: 14px;
+    font-weight: bold;
+}
 
 
 

@@ -22,11 +22,12 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href=""><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href="index.php"><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>
                                 <ul>
+                                    <li><a class="mobile-display1" href="index.php">Home</a></li>
                                     <li><a href="powerball.php">POWERBALL</a></li>
                                     <li><a href="megamillion.php">MEGA MILLIONS</a></li>
                                     <li><a href="euromillion.php">EUROMILLIONS</a></li>
@@ -36,7 +37,9 @@
                                     
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a class="mobile-" href="result.php">LOTO RESULTS</a></li>
+                                    <li><a class="mobile-display1" href="login.php">Log In</a></li>
+                                    <li><a class="mobile-display1" href="login.php">Sign Up</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
 
@@ -72,10 +75,12 @@
                     <div class="carousel-inner">
 
                         <div class="item active">
-                            <img src="images/561b7e7c0e945.jpg" alt="Los Angeles">
+                            <img src="images/51bed4245880d.jpg" alt="Unexpected Error" style="width:100%">
                         </div>
 
-
+                        <div class="item">
+                            <img src="images/553a37b77bfed.jpg" alt="Unexpected Error" style="width:100%">
+                        </div>
                     </div>
 
                 </div>

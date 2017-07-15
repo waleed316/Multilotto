@@ -167,7 +167,7 @@
                                 <h3 class="rslt-date">April 2017</h3>
                                 <h5 class="rslt-note">Note that the draw date may differ due to local time zones</h5>
 
-                                <div class="table-responsive">
+                                <div class="table-responsive mobile-hide ">
 
                                     <table class="table">
 
@@ -289,8 +289,49 @@
 
                                     </table>
 
-                                        
+                                   
                                 </div>
+
+                                <table class="table table-rslt-for-mobile">
+
+                                    <tr>
+                                        <td class="tbl-td-width"><div class="img">12</div></td>
+                                        <td class="tble-bld">Mega Millions<br><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39<span class="color-grey">/ 4</span></a></td> 
+                                        <td class="tbl-td-width"><a>></a></td>
+                                    </tr>
+
+                                    <tr>
+                                        <td class="tbl-td-width"><div class="img">12</div></td>
+                                        <td class="tble-bld">Mega Millions<br><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39<span class="color-grey">/ 5</span></a></td> 
+                                        <td class="tbl-td-width"><a>></a></td>
+                                    </tr>
+
+
+                                    <tr>
+                                        <td class="tbl-td-width"><div class="img">12</div></td>
+                                        <td class="tble-bld">Mega Millions<br><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39<span class="color-grey">/ 9 - 10</span></a></td> 
+                                        <td class="tbl-td-width"><a>></a></td>
+                                    </tr>
+
+
+                                    <tr>
+                                        <td class="tbl-td-width"><div class="img">12</div></td>
+                                        <td class="tble-bld">Mega Millions<br><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39<span class="color-grey">/ 8</span></a></td> 
+                                        <td class="tbl-td-width"><a>></a></td>
+                                    </tr>
+
+
+                                    <tr>
+                                        <td class="tbl-td-width"><div class="img">12</div></td>
+                                        <td class="tble-bld">Mega Millions<br><a href="payout.php">17 - 24 - 27 - 29 - 31 - 39<span class="color-grey">/ </span></a></td> 
+                                        <td class="tbl-td-width"><a>></a></td>
+                                    </tr>
+
+
+
+                                </table>    
+                                        
+
 
                                 <div class="row">
                                     <button type="button" class="btn btn-default pull-left prev-btn">PREVIOUS</button>
