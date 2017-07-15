@@ -1433,6 +1433,27 @@
     }
 
 
+
+.hm-dis
+    {
+        display:            none!important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 header { width: 100%; }
 
 .nav-bar { display: none; }
@@ -2157,7 +2178,10 @@ and (max-device-width : 736px)
         display:                table!important;            
     }
 
-
+.hm-dis
+    {
+        display:            block!important;
+    }
 
 
 
@@ -2246,7 +2270,10 @@ and (max-width : 800px)
     font-weight: bold;
 }
 
-
+.hm-dis
+    {
+        display:            block!important;
+    }
 
 
 

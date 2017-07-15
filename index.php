@@ -27,7 +27,7 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a class="mobile-display1" href="index.php">Home</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
                                     <li><a href="powerball.php">POWERBALL</a></li>
                                     <li><a href="megamillion.php">MEGA MILLIONS</a></li>
                                     <li><a href="euromillion.php">EUROMILLIONS</a></li>
@@ -37,9 +37,9 @@
                                     
 
                                     </li>
-                                    <li><a class="mobile-" href="result.php">LOTO RESULTS</a></li>
-                                    <li><a class="mobile-display1" href="login.php">Log In</a></li>
-                                    <li><a class="mobile-display1" href="login.php">Sign Up</a></li>
+                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a class="hm-dis" href="login.php">LOG IN</a></li>
+                                    <li><a class="hm-dis" href="login.php">SIGN UP</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
 
