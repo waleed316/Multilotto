@@ -18,7 +18,7 @@
         margin-left:        5px;
     }
 
-.form-horizontal
+.language-form
     {
         width:              250px;
         padding:            15px!important;
@@ -1440,12 +1440,81 @@
     }
 
 
+.signup-label
+    {
+        width:              50%!important;
+        text-align:         unset!important;
+        color:              #999;
+        font-weight:        normal!important;
+    }
+
+.signup-padding
+    {
+        width:              25%!important;
+    }
 
 
 
 
+   
+.options > label > input {
+    visibility: hidden!important;
+}  
+ 
+ .options > label {
+    /* margin: 0 0 0 -10px!important; */
+     padding: 0!important;   
+    /* height: 20px!important;
+    width: 150px!important;
+     */
+}  
+
+.options > label > img {
+    margin-left: 6px;
+    padding: 4px!important;
+    height:30px!important;
+    width:30px!important;
+    background: none!important;
+} 
+ 
+.options > label > input:checked +img {  
+    background: url(http://cdn1.iconfinder.com/data/icons/onebit/PNG/onebit_34.png)!important;
+    background-repeat: no-repeat!important;
+    background-position:center center!important;
+    background-size:30px 30px!important;
+} 
+  
+
+.coupon-background
+    {
+        background-color:       rgb(237, 244, 250);
+        padding:                30px 20px;
+        border-radius:          4px;
+        letter-spacing:         0.1em;
+    }
+
+.coupon-heading
+    {
+        color:                  rgb(81, 145, 196);
+        font-weight:            bold;
+        line-height:            1.5em;
+    }
+
+.coupon-background>.col-sm-4
+    {
+        padding-left:           0!important
+    }
 
 
+.terms_cond
+    {
+        color:                 rgb(102, 102, 102);
+    }
+
+.terms_cond>input
+    {
+        display:                none;
+    }
 
 
 
@@ -2181,6 +2250,13 @@ and (max-device-width : 736px)
 .hm-dis
     {
         display:                block!important;
+    }
+
+
+.signup-padding
+    {
+        padding:            0 4px!important;
+        width:              33.33333333%!important;
     }
 
 

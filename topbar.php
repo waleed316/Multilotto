@@ -15,13 +15,13 @@
 
                     <div class="col-md-6"></div>
 
-                    <div class="col-md-4">
+                        <div class="col-md-4">
 
                         <section class="pull-right margin-signup-btn">
 
-                            <a href="" class="btn btn-primary btn-login">LOG IN</a>
+                            <a href="login.php" class="btn btn-primary btn-login">LOG IN</a>
 
-                            <a href="" class="btn btn-primary btn-signup">SIGN UP</a>
+                            <a href="signup.php" class="btn btn-primary btn-signup">SIGN UP</a>
 
                             <div class="dropdown pull-right">
 
@@ -32,7 +32,7 @@
                                 </a>
 
 
-                                <form class="dropdown-menu form-horizontal" id="dropdown-login">
+                                <form class="dropdown-menu form-horizontal language-form" id="dropdown-login">
 
                                     <div class="form-group language-font">
 

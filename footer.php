@@ -13,11 +13,11 @@
                         <ul class="footer-ul">
 
                             <li><a class="active" href="index.php" >HOME</a></li>
-                            <li><a href="" >Sign Up</a></li>
-                            <li><a href="" >Log In</a></li>
-                            <li><a href="" >Forgot Your Password</a></li>
-                            <li><a href="" >Withdraw</a></li>
-                            <li><a href="" >Deposit</a></li>
+                            <li><a href="signup.php" >Sign Up</a></li>
+                            <li><a href="login.php" >Log In</a></li>
+                            <li><a href="login.php" >Forgot Your Password</a></li>
+                            <li><a href="login.php" >Withdraw</a></li>
+                            <li><a href="login.php" >Deposit</a></li>
                             <li><a href="" >how To Play</a></li>
                             <li><a href="" >Lotto Bonus</a></li>
                             <li><a href="" >News</a></li>
