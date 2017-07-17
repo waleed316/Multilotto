@@ -38,8 +38,9 @@
 
                                     </li>
                                     <li><a href="result.php">LOTO RESULTS</a></li>
-                                    <li><a class="hm-dis" href="login.php">LOG IN</a></li>
-                                    <li><a class="hm-dis" href="login.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
+                                    
                                 </ul>
                             </nav> <!-- navigation end -->
 
@@ -1460,12 +1461,7 @@
 
         </script>
 
-        <script>
-            $(document).on('click', '.yamm .dropdown-menu', function(e) {
-                e.stopPropagation()
-                })
-        </script>   
-
+      
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 

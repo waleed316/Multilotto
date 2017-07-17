@@ -1463,7 +1463,8 @@
  
  .options > label {
     /* margin: 0 0 0 -10px!important; */
-     padding: 0!important;   
+     padding: 0!important; 
+     color:   #555;  
     /* height: 20px!important;
     width: 150px!important;
      */
@@ -1558,7 +1559,7 @@ header nav ul li a {
   padding: 16px;
   text-decoration: none;
   font-size: 14px;
-  font-family: tahoma;
+  /* font-family: tahoma; */
   font-weight: bold;
   text-decoration: none!important;
       letter-spacing: .8px;
