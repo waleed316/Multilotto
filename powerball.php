@@ -4,7 +4,6 @@
     <?php include 'header.php' ?>
 
     
-    
 
     <body>
 
@@ -80,7 +79,6 @@
             
             </div>
 
-           
 
             <!-- Main Section -->
 
@@ -178,11 +176,11 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
-                                                                                
+                                                                            <tbody class="add">
+                                                                                    
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
-                                                                                <tr class="upper-border">
+                                                                                 <tr class="upper-border">
 
                                                                                     <td><a >1</a></td>
                                                                                     <td><a >2</a></td>
@@ -322,7 +320,7 @@
                                                                                     <td><a  class="extra-padding">69</a></td>
 
                                                                                 </tr>
-                                                                                
+                                                                                 
                                                                                 
 
 
@@ -3366,7 +3364,7 @@
             <?php include 'footer.php'?>
         </div>
 
-
+        
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
@@ -3454,15 +3452,12 @@
 
         </script>
         
-         <script>
+        <script>
                 $( "a" ).click(function() {
                 $( this ).toggleClass( "background_color" );
                 });
-            </script>
+        </script>
           
-
-
-
         <script>
             $(document).ready(function() {
             $('.sev_check').each(function() {
@@ -3477,44 +3472,6 @@
             });
             });    
         </script>
-
-        <!--<script>    
-
-            (function()
-                {
-                    var v1 = document.getElementById('s_fac').value;
-
-                    if(document.getElementById("s_fac").checked == true )
-                        {
-                            document.getElementById('draw-no').innerHTML = v1
-                        }
-                }
-            )
-            ()
-            
-           
-        </script>-->
-
-
-
-        <script>    
-
-            
-            var arr = [];
-            var len = 70;
-            for (var i = 1; i < len; i++) {
-                arr.push({
-                    lottery_no : [i]
-                });
-            }
-            
-           
-        </script>
-
-
-        
-
-
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 
