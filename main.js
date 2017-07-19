@@ -29,8 +29,7 @@ $(document).ready(function() {
         
 
     }
-    
-    
+
 
     var selected = [];
             
@@ -44,11 +43,7 @@ $(document).ready(function() {
             selected.push({"value":data});
             
 
-            var index = selected.indexOf(data);
- 
-                if (index > -1) {
-                selected.splice(index, 1);
-                }
+            
         }
 
     });
