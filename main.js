@@ -5,33 +5,14 @@ $(document).ready(function() {
     var list1 =[];
     for(var i = 1; i <= 69; i++){
         
-        list1.push({[i]:"false"});
+        list1.push({'value':i,'checked':false});
         
         if(!flag){
             $("tbody.add").append("<tr class=\"upper-border\">")
             flag=true;
             
         }
-
-        $( "a" ).click(function() {
-        $( this ).toggleClass( "background_color" );
-        var data = $(this).data('index');
-
-            if(list1[i]=={[data]:"true"}){
-
-                list1[data-1]={[data]:"false"}
-
-            }
-        
-            else{
-            
-                list1[data-1]={[data]:"true"}   
-            }
-
-            console.log(JSON.stringify(list1));
-           
-        });
-         
+   
         $('tr.upper-border:last').append('<td><a data-index='+i+'>'+i+'</a></td>');
         
         if( i%5 == 0 ){
@@ -44,13 +25,32 @@ $(document).ready(function() {
         if(i>9){
             $("td:gt(8) a").addClass("extra-padding");
         }		
+        
+        
 
-        $( "a" ).click(function() {
-        $( this ).toggleClass( "background_color" );
-        });
     }
     
+    
 
-console.log(JSON.stringify(list1));
+    var selected = [];
+            
+    $( "a" ).click(function() {
+        
+            
+        if(selected.length<5){
+
+            $( this ).toggleClass( "background_color" );
+            var data = $(this).data('index');
+            selected.push({"value":data});
+            
+
+            var index = selected.indexOf(data);
+ 
+                if (index > -1) {
+                selected.splice(index, 1);
+                }
+        }
+
+    });
 
 });    
