@@ -741,7 +741,7 @@
 
 .upper-border>td>a:hover
     {
-        border-color:       #62b32c;
+        border-color:       #FE0000;
         cursor:             pointer;
     }
 
@@ -1077,7 +1077,7 @@
     {
         text-decoration:        underline;
         cursor:                 pointer;
-        color:                  #5191c4!important;
+        color:                  #FE0000!important;
     }
 
 .rslt-head>li
@@ -1159,19 +1159,20 @@
 
 .ltry-head
     {
-        color:                  black;
+        color:                  #FE0000;
+        font-weight:            bold;
     }
 
 .rslt-date
     {
-        color:                 #5191c4!important;
+        color:                 #FE0000!important;
         font-weight:           bold; 
     }
 
 
 .rslt-note
     {
-        color:                 #cd0a0a!important;
+        color:                 black!important;
         margin-bottom:          15px;
     }
 
@@ -1242,7 +1243,7 @@
 
 .prev-btn
     {
-        background-color:       #5191c4!important;
+        background-color:       #FE0000!important;
         font-weight:            bold!important;
         padding:                10px!important;
         width:                  150px!important;
@@ -1609,7 +1610,7 @@ header nav ul li a {
 
 header nav ul li a:hover,header nav ul li a:focus{color: white;}
 
-header nav ul li:hover { background: #4280b1}
+header nav ul li:hover { background:rgba(0, 0, 0, 0.2)}
 
 header nav ul li:hover i { color: yellow; }
 
