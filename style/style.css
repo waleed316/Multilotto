@@ -1531,6 +1531,38 @@
     }
 
 
+.cover-pic-headline
+    {
+        position:               absolute;
+        color:                  white;
+        top:                    10%;
+        margin-left:            2%;
+        font-weight:            bolder!important;
+    }
+
+.cover-pic-headline>h1
+    {
+        color:                  yellow;
+        font-size:              47px;
+        font-weight:            bold;
+        margin:                 0!important;
+        line-height:            1.2em;
+    }
+
+
+    .cover-pic-headline>h3
+    {
+        color:                  white;
+        font-weight:            bold;
+        margin:                 0!important;
+        line-height:            1.2em;
+    }
+
+
+
+
+
+
 
 
 

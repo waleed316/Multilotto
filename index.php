@@ -75,12 +75,16 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
 
-                        <div class="item active">
+                        <div class="item">
                             <img src="images/cars_main.jpeg" alt="Unexpected Error" style="width:100%">
                         </div>
 
-                        <div class="item">
-                            <img src="images/yathch_main.jpeg" alt="Unexpected Error" style="width:100%">
+                        <div class="item active">
+                            <span class="cover-pic-headline">
+                                <h3>WE ADMIRE YOUR HOLIDAYS<br>.SO ENTER FOR A CHANCE TO</h3>
+                                <h1>WIN<br>THIS<br>YACHT!</h1>
+                            </span>
+                            <img src="images/900-370-75983.jpg" alt="Unexpected Error" style="width:100%">
                         </div>
                     </div>
 
