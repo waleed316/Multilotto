@@ -60,7 +60,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Moneyyours.com. A place where your dreams become yours<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Moneyyours.com. A place where your dreams become yours<span class="pull-right" id="time"></span></h5>
 
 
                    </div>

@@ -176,7 +176,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add">
+                                                                            <tbody class="add1">
                                                                                     
                                                                                  <h4 class="tble mobile-display-heading">Pick 5 Number</h4> 
 
@@ -325,7 +325,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add4">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
@@ -372,7 +372,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add5">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
