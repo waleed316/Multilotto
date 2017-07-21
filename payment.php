@@ -8,7 +8,7 @@
                     <div class="col-md-12">
 
 
-                        <img src="images/curacao_egaming_logo.png" class="img-responsive" style="display:inline">
+                        
 
                         <h4>FOR NON-US RESIDENTS ONLY
                             <br>
@@ -16,7 +16,7 @@
                              YOU MUST BE 18 OR OVER TO PLAY OR CLAIM A PRIZE
                         </h4>
 
-                        <h6>This Service is licensed by Curacao eGaming (Cyberluck Curacao N.V.) Authorized and Regulated by the Government of Curacao under Multi Pay N.V with its registered address at Abraham de Veerstraat 2, Willemstad, Curaçao, under the License No. 1668/JAZ. Multi Brand Gaming Limited is responsible for the Credit Card payment processing.</h6>
+                        
 
                         
 
@@ -58,7 +58,7 @@
 
                         </section>
 
-                        <img src="images/trusted-site.png" class="img-responsive" style="display:inline;margin:3% 0">
+                        
 
                     </div>
 

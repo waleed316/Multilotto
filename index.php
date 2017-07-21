@@ -60,7 +60,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Powerball and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Moneyyours.com. A place where your dreams become yours<span class="pull-right">time clock</span></h5>
 
 
                    </div>
@@ -76,11 +76,11 @@
                     <div class="carousel-inner">
 
                         <div class="item active">
-                            <img src="images/51bed4245880d.jpg" alt="Unexpected Error" style="width:100%">
+                            <img src="images/cars_main.jpeg" alt="Unexpected Error" style="width:100%">
                         </div>
 
                         <div class="item">
-                            <img src="images/553a37b77bfed.jpg" alt="Unexpected Error" style="width:100%">
+                            <img src="images/yathch_main.jpeg" alt="Unexpected Error" style="width:100%">
                         </div>
                     </div>
 
@@ -790,7 +790,7 @@
 
                             <section class="lotto-news">
 
-                                <h3 style="font-weight:bold;color:black">Lotto News</h3>
+                                <h3 style="font-weight:bold;color:black;color:#FE0000">Lotto News</h3>
 
                                 <hr>
 
@@ -1002,7 +1002,7 @@
 
                             <section class="Lotto-results">
 
-                                <h3 style="font-weight:bold;color:black">Lotto Results</h3>
+                                <h3 style="font-weight:bold;color:black;color:#FE0000">Lotto Results</h3>
 
 
                                 <hr>
@@ -1388,7 +1388,7 @@
 
             <!-- Description -->
 
-                <hr>
+                <!-- <hr>
 
                 <div class="row">
 
@@ -1410,7 +1410,7 @@
 
                     </section>
 
-                </div>
+                </div> -->
 
             <!-- Description Ends here -->
 

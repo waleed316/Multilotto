@@ -2,11 +2,11 @@
 
                 <section class="top-header-margin">
 
-                    <div class="col-md-2">
+                    <div class="col-md-2 col-sm-2">
 
                         <div>
 
-                           <a href="index.php"><img src="images/logo-com.svg" class="img-responsive" ></a>
+                           <a href="index.php"><img src="images/money_yours.png" class="img-responsive main_logo"></a>
 
                         </div>
 

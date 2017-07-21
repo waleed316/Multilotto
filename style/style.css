@@ -49,7 +49,7 @@
 
 .btn-login
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         border-color:       transparent!important;
         border-radius:      3px!important;
         font-size:          11px!important;
@@ -74,7 +74,7 @@
 
 .margin-signup-btn
     {
-        margin-top:         30px;
+        margin-top:         40px;
     }
 
 
@@ -215,7 +215,7 @@
 
 .nav-tabs>li.active>a
     {
-        color:              #62b32c!important;
+        color:              #FE0000!important;
         font-weight:        bold;
         font-size:          16px;
     }
@@ -242,15 +242,15 @@
 
 .play-btn
     {
-        background-color:   #62b32c!important;
-        border-color:       #62b32c!important;
+        background-color:   #FE0000!important;
+        border-color:       #FE0000!important;
 
     }
 
 
 .game-bids
     {
-        color:              #62b32c;
+        color:              #FE0000;
         font-size:          20px;
         text-decoration:    none;
         font-weight:        bold
@@ -259,7 +259,7 @@
 .game-bids:hover
     {
         text-decoration:    none;
-        color:              #62b32c; 
+        color:              #FE0000; 
     }
 
 .time
@@ -276,7 +276,7 @@
 
 .play-now
     {
-        background-color:   #62b32c!important;
+        background-color:   #FE0000!important;
         border-color:       transparent!important;
         font-size:          12px!important;
         padding:            3px!important;
@@ -313,7 +313,7 @@
 
 .login-panel
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         color:              white!important;
         font-weight:        bold;
     }
@@ -321,7 +321,7 @@
 
 .log-in-btn
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         color:              white!important;
         font-weight:        bold!important;
         padding:            10px 35px!important;
@@ -340,14 +340,16 @@
 .fa-comments
     {
        
-        margin:             13px !important
+        margin:             13px !important;
+        color:              #FE0000;
     }
 
 
 .fa-chain-broken
     {
        
-        margin:             13px !important
+        margin:             13px !important;
+        color:              #FE0000;
     }
 
 .curr
@@ -375,7 +377,7 @@
 
 .blue>a
     {
-        color:              #5191c4!important;
+        color:              #FE0000!important;
         font-weight:        bold;
     }
 
@@ -429,7 +431,7 @@
     {
         margin:             6px 0px 0 2px;
         font-weight:        bold;
-        color:              #2e7fbf!important;
+        color:              #FE0000!important;
         float:              left;
         font-size:          20px;
     }
@@ -452,7 +454,7 @@
 
 .rank>li>h1
     {   
-        color:              #2e7fbf!important;
+        color:              #FE0000!important;
         margin:             0 10px 0 0!important;
         font-size:          70px;
         float:              left;
@@ -474,7 +476,7 @@
 .rank>li>h6
     {
 
-        color:              #2e7fbf!important;
+        color:              #FE0000!important;
         margin:             6px 0 !important;
         font-weight:        bold;
         
@@ -515,7 +517,7 @@
         border:             1px solid;
         border-radius:      45px;
         padding:            7px;
-        background-color:   #2e7fbf!important;
+        background-color:   #FE0000!important;
         color:              white;
         margin:             20px 0;
     }
@@ -563,13 +565,14 @@
 
 .bid-no
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         color:              white!important;
         padding:            7px!important;
         border-radius:      100px!important;
         width:              30px;
         height:             30px;
         font-size:          14px!important;
+        border-color:       transparent!important;
     }
 
 .golden
@@ -603,7 +606,7 @@
 
 .quickpick-btn
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         border-color:       transparent!important;
         font-weight:        bold!important; 
         margin-top:         8%;
@@ -619,7 +622,7 @@
 .winning-stats
     {
         font-size:          20px!important;
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         color:              white!important;
         font-weight:        bold;
     }
@@ -670,7 +673,7 @@
 
 .checkbox-head
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         color:              white!important;
         border-radius:      0!important;
         font-weight:        bold;
@@ -795,6 +798,8 @@
         margin-right:       5px;
         font-weight:        bold!important;
         font-size:          11px!important;
+        background-color:   #FE0000!important;
+        border-color:       #FE0000!important;
     }
 
 
@@ -918,7 +923,7 @@
 
 .plan-now-btn
     {
-        background-color:    #62b32c!important;
+        background-color:    #FE0000!important;
         margin:              -3px;
         border:              0!important;
         color:               white!important;
@@ -958,6 +963,8 @@
         padding:            3px 5px!important;
         font-size:          11px!important;
         float:              right;
+        background-color:   #FE0000!important;
+        border-color:       #FE0000;
     }
 
 .system-game-random>li>h6
@@ -1011,7 +1018,7 @@
 
 .text>h5
     {
-        background-color: #d967b9;
+        background-color: #FE0000;
         display:           inline;
         padding:          5px;
     }
@@ -1048,10 +1055,10 @@
 
 .fltr-head
     {
-        background-color:       #5191c4!important;
+        background-color:       #FE0000!important;
         color:                  white!important;
         font-weight:            bold;
-        border-color:           #5191c4!important;
+        border-color:           #FE0000!important;
         padding:                20px!important;
         font-size:              16px;
     }
@@ -1224,7 +1231,7 @@
 
 .three-boxes-btn
     {
-        background-color:       #62b32c!important;
+        background-color:       #FE0000!important;
         font-weight:            bold!important;
         padding:                5px 15px!important;
         border-color:           transparent!important;
@@ -1250,7 +1257,7 @@
 
 .three-boxes-btn1
     {
-        background-color:       #62b32c!important;
+        background-color:       #FE0000!important;
         font-weight:            bold!important;
         padding:                10px!important;
         border-color:           transparent!important;
@@ -1287,7 +1294,7 @@
         position:           relative!important;
         text-align:         center!important;
         width:              48px!important;
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         font-size:          18px;
         font-weight:        bold;
     }
@@ -1518,7 +1525,10 @@
     }
 
 
-
+.main_logo
+    {
+        height:                 70px!important
+    }
 
 
 
@@ -1529,7 +1539,7 @@ header { width: 100%; }
 .nav-bar { display: none; }
 
 header nav {
-  background: #5191c4;
+  background: #FE0000;
   z-index: 1000;
   width: 100%;
   margin: auto;
@@ -1901,7 +1911,7 @@ and (max-device-width : 480px)
         position:           relative!important;
         text-align:         center!important;
         width:              32px!important;
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         font-size:          14px;
         font-weight:        bold;
     }
@@ -1989,7 +1999,7 @@ and (max-device-width : 736px)
 
 .nav-tabs>li.active>a
     {
-        color:              #62b32c!important;
+        color:              #FE0000!important;
         font-weight:        bold;
         font-size:          10px;
     }
@@ -2003,7 +2013,7 @@ and (max-device-width : 736px)
 
 .game-bids
     {
-        color:              #62b32c;
+        color:              #FE0000;
         font-size:          12px;
         text-decoration:    none;
         font-weight:        bolder;
@@ -2088,7 +2098,7 @@ and (max-device-width : 736px)
 
 .upper-border>td>a 
     {
-        background-color:   white;
+        /* background-color:   white; */
     }
 
 .mobile-display
@@ -2155,7 +2165,7 @@ and (max-device-width : 736px)
 
 .plan-now-btn
     {
-        background-color:    #62b32c!important;
+        background-color:    #FE0000!important;
         margin:              -8px;
         border:              0!important;
         color:               white!important;
@@ -2312,7 +2322,7 @@ and (max-width : 800px)
 
 .nav-tabs>li>a 
 {
-    color:                      #62b32c!important;
+    color:                      #FE0000!important;
     font-weight:                bold;
     font-size:                  10px!important;
     padding:                    10px 15px!important;
@@ -2345,7 +2355,7 @@ and (max-width : 800px)
     position: relative!important;
     text-align: center!important;
     width: 32px!important;
-    background-color: #5191c4!important;
+    background-color: #FE0000!important;
     font-size: 14px;
     font-weight: bold;
 }
@@ -2357,8 +2367,8 @@ and (max-width : 800px)
 
 
 .play-btn {
-    background-color: #62b32c!important;
-    border-color: #62b32c!important;
+    background-color: #FE0000!important;
+    border-color: #FE0000!important;
     width:          100%;
 }
 
@@ -2535,7 +2545,7 @@ and (max-device-width : 1199px)
 
 .quickpick-btn
     {
-        background-color:   #5191c4!important;
+        background-color:   #FE0000!important;
         border-color:       transparent!important;
         font-weight:        bold!important; 
         margin-top:         8%;
@@ -2546,14 +2556,14 @@ and (max-device-width : 1199px)
     {
         margin:             0 0px 0 0;
         font-weight:        bold;
-        color:              #2e7fbf!important;
+        color:              #FE0000!important;
         float:              left;
         font-size:          20px;
     }
 
 .rank>li>h1
     {   
-        color:              #2e7fbf!important;
+        color:              #FE0000!important;
         margin:             0 15px 0 0!important;
         font-size:          45px;
         display:            inline-block;

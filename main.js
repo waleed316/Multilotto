@@ -43,9 +43,21 @@ $(document).ready(function() {
             selected.push({"value":data});
             
 
+            selected = selected.reduce(function(field, e1){  
+
+                var matches = field.filter(function(e2){return e1.value== e2.value});
+
+                if (matches.length == 0){ 
+                    field.push(e1);  
+                }
+                
+                return field;
+            }, []);
+
             
         }
 
+        console.table(selected);
     });
 
 });    
