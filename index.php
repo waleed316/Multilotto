@@ -82,7 +82,7 @@
 
                         <div class="item active">
                             <span class="cover-pic-headline">
-                                <h3>WE ADMIRE YOUR HOLIDAYS<br>.SO ENTER FOR A CHANCE TO</h3>
+                                <h3>WE ADMIRE YOUR HOLIDAYS<br>SO ENTER FOR A CHANCE TO</h3>
                                 <h1>WIN<br>THIS<br>YACHT!</h1>
                             </span>
                             <img src="images/900-370-75983.jpg" alt="Unexpected Error" style="width:100%">
@@ -1403,11 +1403,11 @@
 
                             <h6>
                                 <p>
-                                    Multilotto is the place for whoever dreams of hitting the really big wins when playing lotto. We offer to lotto players the chance to play on a variety of the world’s biggest lotteries like the American super lotteries Powerball and Mega Millions as well as the European smash-hits Euromillions and Eurojackpot. Buy lottery tickets online on multilotto.com and claim jackpots worth hundreds of millions of euros at any time.
+                                    moneyyours is the place for whoever dreams of hitting the really big wins when playing lotto. We offer to lotto players the chance to play on a variety of the world’s biggest lotteries like the American super lotteries Powerball and Mega Millions as well as the European smash-hits Euromillions and Eurojackpot. Buy lottery tickets online on moneyyours.com and claim jackpots worth hundreds of millions of euros at any time.
                                     <br>
-                                    Multilotto does not operate its own lottery. Instead we give you the possibility to play lotto online, on whatever online lottery you choose, by picking your favorite lottery numbers and finding the latest lottery results right after a draw has taken place. With Multilotto, you don’t have to travel abroad to play the biggest lotteries in the world, you can play right from the comfort of your own home on your PC or through your mobile device.
+                                    moneyyours does not operate its own lottery. Instead we give you the possibility to play lotto online, on whatever online lottery you choose, by picking your favorite lottery numbers and finding the latest lottery results right after a draw has taken place. With moneyyours, you don’t have to travel abroad to play the biggest lotteries in the world, you can play right from the comfort of your own home on your PC or through your mobile device.
                                     <br>
-                                    Multilotto.com lets you play lotto every day of the week, whether you want to play just one line or subscribe to your lucky numbers to make sure you never miss a draw (and a chance to get filthy rich). You can even put together a lotto system which gives you greater odds of winning, or start a lotto syndicate with friends, family or acquaintances which will maximize your chances of winning, while spreading the cost of the lotto ticket between all of you.
+                                    moneyyours.com lets you play lotto every day of the week, whether you want to play just one line or subscribe to your lucky numbers to make sure you never miss a draw (and a chance to get filthy rich). You can even put together a lotto system which gives you greater odds of winning, or start a lotto syndicate with friends, family or acquaintances which will maximize your chances of winning, while spreading the cost of the lotto ticket between all of you.
                                 </p>
                             </h6>
 

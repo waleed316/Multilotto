@@ -2197,10 +2197,10 @@
                                     The biggest jackpot ever won on Euromillions was more than €190 million big!
 
                                     <br><br>
-                                    Play Euromillions lotto online with Multilotto! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
+                                    Play Euromillions lotto online with moneyyours! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
                                     <br><br>
     
-                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on Multilotto.com
+                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on moneyyours.com
                                 
                                 </p>
                             

@@ -70,7 +70,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i>&nbsp; Welcome to Multilotto.com. Play lotto on the world's biggest lotteries and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i>&nbsp; Welcome to moneyyours.com. Play lotto on the world's biggest lotteries and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>

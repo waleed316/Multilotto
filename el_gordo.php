@@ -66,7 +66,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play El Gordo de La Primitiva and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play El Gordo de La Primitiva and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -3326,10 +3326,10 @@
                                     The biggest jackpot ever won on Euromillions was more than €190 million big!
 
                                     <br><br>
-                                    Play Euromillions lotto online with Multilotto! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
+                                    Play Euromillions lotto online with moneyyours! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
                                     <br><br>
     
-                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on Multilotto.com
+                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on moneyyours.com
                                 
                                 </p>
                             

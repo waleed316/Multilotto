@@ -1885,7 +1885,7 @@
 
                             <h6>
                                 <p>
-                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, Multilotto is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
+                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, moneyyours is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
                                     
                                     <ul style="margin-left:2%;">
 
@@ -1919,9 +1919,9 @@
                                     <br><br>
                                     Money Million also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
                                     <br><br>
-                                    The winning Money Million numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Money Million winner and want to know how to redeem Money Million prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your Multilotto account, and if you win larger prize we will assist you to claim it in the best way possible.
+                                    The winning Money Million numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Money Million winner and want to know how to redeem Money Million prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your moneyyours account, and if you win larger prize we will assist you to claim it in the best way possible.
                                     <br><br>
-                                    Play Money Million online with Multilotto!
+                                    Play Money Million online with moneyyours!
                                 
                                 </p>
                             

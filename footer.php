@@ -144,7 +144,7 @@
 
                         <h5>Gamble responsibly <a>www.gambleaware.co.uk</a>, <a>ww.gamcare.org.uk</a></h5>
 
-                        <h5>Use of this Website constitutes acceptance of the Multilotto.com <a>Terms and Conditions</a> and <a>Privacy Policy</a>.
+                        <h5>Use of this Website constitutes acceptance of the moneyyours.com <a>Terms and Conditions</a> and <a>Privacy Policy</a>.
                             <br>
                             © Copyright 2010-2017 Multi Pay N.V. All Rights Reserved.
                         </h5>

@@ -72,7 +72,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Win a House Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Win a House Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -3332,10 +3332,10 @@
 
 
                                     <br><br>
-                                    Play Win a House online with Multilotto!
+                                    Play Win a House online with moneyyours!
                                     <br><br>
     
-                                    You can find all the latest <a>Win a House results</a> and play Win a House at Multilotto.com
+                                    You can find all the latest <a>Win a House results</a> and play Win a House at moneyyours.com
                                 
                                 </p>
                             

@@ -71,7 +71,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Powerball and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Powerball and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -793,7 +793,7 @@
 
                             <h6>
                                 <p>
-                                Powerball is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Powerball tickets, Multilotto is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Powerball work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Powerball lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Powerball, here are three basic Powerball rules:
+                                Powerball is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Powerball tickets, moneyyours is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Powerball work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Powerball lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Powerball, here are three basic Powerball rules:
                                     
                                     <ul style="margin-left:2%;">
 
@@ -827,9 +827,9 @@
                                     <br><br>
                                     Powerball also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
                                     <br><br>
-                                    The winning Powerball numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Powerball winner and want to know how to redeem Powerball prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your Multilotto account, and if you win larger prize we will assist you to claim it in the best way possible.
+                                    The winning Powerball numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Powerball winner and want to know how to redeem Powerball prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your moneyyours account, and if you win larger prize we will assist you to claim it in the best way possible.
                                     <br><br>
-                                    Play Powerball online with Multilotto!
+                                    Play Powerball online with moneyyours!
                                 
                                 </p>
                             
