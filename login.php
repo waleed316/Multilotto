@@ -128,7 +128,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                     
                                 </ul>
                             </nav> <!-- navigation end -->
@@ -381,7 +381,7 @@
                             <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
                             <li><a href="mega.php" >Play Mega-Sena</a></li>
                             <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>
-                            <li><a href="bonolotto.php" >Play Bonoloto</a></li>
+                            <li><a href="bonolotto.php" >Play BonoLOTTO</a></li>
                             <li><a href="el_gordo.php" >Play El Gordo</a></li>
 
 
@@ -405,7 +405,7 @@
                             <li><a href="viewresult.php" >New York Lotto Results</a></li>
                             <li><a href="viewresult.php" >Mega-Sena Results</a></li>
                             <li><a href="viewresult.php" >Eurojackpot Results</a></li>
-                            <li><a href="viewresult.php" >Bonoloto Results</a></li>
+                            <li><a href="viewresult.php" >BonoLOTTO Results</a></li>
                             <li><a href="viewresult.php" >El Gordo Results</a></li>
                             <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>
 

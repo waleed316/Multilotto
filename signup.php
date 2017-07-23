@@ -37,8 +37,8 @@
                                     <li><a href="megamillion.php">MEGA MILLIONS</a></li>
                                     <li><a href="euromillion.php">EUROMILLIONS</a></li>
                                     <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             

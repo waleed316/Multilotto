@@ -40,7 +40,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -105,7 +105,7 @@
                                             <li><a>Norway Lotto</a></li>
                                             <li><a>Poland Lotto</a></li>
                                             <li><a>El Gordo</a></li>
-                                            <li><a>Bonoloto</a></li>
+                                            <li><a>BonoLOTTO</a></li>
                                             <li><a>La Primitiva</a></li>
                                             <li><a>Euromillions</a></li>
                                             <li><a>Sweden Lott</a></li>
@@ -220,7 +220,7 @@
 
                                             <tr>
                                                 <td><div class="img">12</div></td>
-                                                <td><a href="viewresult.php">Bonoloto</a></td>
+                                                <td><a href="viewresult.php">BonoLOTTO</a></td>
                                                 <td><a href="viewresult.php">1 - 7 - 14 - 19 - 35 - 39</a></td>
                                                 <td class="mbl-hide-out"><a href="viewresult.php">37</a></td>
                                                 <td class="mbl-hide-out"><a href="viewresult.php">-</a></td>

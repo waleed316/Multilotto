@@ -34,7 +34,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                     <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
                                     <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                     
@@ -517,7 +517,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/bonoloto.png" class="img-responsive">
+                                                <img src="images/bonoLOTTO.png" class="img-responsive">
 
                                             </div>
 
@@ -1037,13 +1037,13 @@
 
                                         <div class="col-md-2 col-sm-4 col-xs-3">
 
-                                            <img src="images/bonoloto (1).png" class="img-responsive" style="display:inline;margin-top:3px">
+                                            <img src="images/bonoLOTTO (1).png" class="img-responsive" style="display:inline;margin-top:3px">
 
                                         </div>
 
                                         <div class="col-md-3 col-sm-4 col-xs-3">
 
-                                            <h4 class="lottery-name">Bonaloto</h4>
+                                            <h4 class="lottery-name">BonaLOTTO</h4>
                                             <h6 class="lottery-date">Monday, 10 July</h6>
 
                                         </div>

@@ -39,7 +39,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             

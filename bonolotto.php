@@ -39,7 +39,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    <li><a href="result.php">LOTTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -114,7 +114,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY BONOLOTO ONLINE</h4>
+                                                        <h4>PLAY BONOLOTTO ONLINE</h4>
                                                         <h1>&euro;1 100 000</h1>
                                                         <h5>DRAWS ON TUE 00:30, WED 00:30, THU 00:30, FRI 00:30, SAT 01:30 & SUN 01:30</h4>
                                                     </div>
@@ -1260,7 +1260,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY BONOLOTO ONLINE</h4>
+                                                        <h4>PLAY BONOLOTTO ONLINE</h4>
                                                         <h1>&euro;1 100 000</h1>
                                                         <h5>DRAWS ON TUE 00:30, WED 00:30, THU 00:30, FRI 00:30, SAT 01:30 & SUN 01:30</h4>
                                                     </div>
@@ -1620,7 +1620,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY BONOLOTO ONLINE</h4>
+                                                        <h4>PLAY BONOLOTTO ONLINE</h4>
                                                         <h1>&euro;1 100 000</h1>
                                                         <h5>DRAWS ON TUE 00:30, WED 00:30, THU 00:30, FRI 00:30, SAT 01:30 & SUN 01:30</h4>
                                                     </div>
