@@ -51,7 +51,6 @@
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             

@@ -16,7 +16,7 @@
 
         <div class="container main-margin">
             
-            <?php include 'topbar.php'?>
+            <?php include 'topbar.php' ?>
 
 
             <div class="row">
@@ -34,24 +34,25 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                         <div class="dropdown-menu dropdown-menu">
                                                 <div class="row">
                                                     <div class="col-md-12">
 
-                                                    dsad
+                                                    Test Lottery
 
                                                     </div>
                                                 </div>
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -71,7 +72,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Euromillions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Moneyjackpot Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -125,7 +126,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROMILLIONS ONLINE</h4>
+                                                        <h4>PLAY MONEYJACKPOT ONLINE</h4>
                                                         <h1>&euro;17 000 000</h1>
                                                         <h5>DRAWS ON WED 00:00 & SAT 01:00</h4>
                                                     </div>
@@ -2079,7 +2080,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROMILLIONS ONLINE</h4>
+                                                        <h4>PLAY MONEYJACKPOT ONLINE</h4>
                                                         <h1>&euro;17 000 000</h1>
                                                         <h5>DRAWS ON WED 00:00 & SAT 01:00</h4>
                                                     </div>
@@ -2616,7 +2617,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROMILLIONS ONLINE</h4>
+                                                        <h4>PLAY MONEYJACKPOT ONLINE</h4>
                                                         <h1>&euro;17 000 000</h1>
                                                         <h5>DRAWS ON WED 00:00 & SAT 01:00</h4>
                                                     </div>
@@ -3311,25 +3312,25 @@
 
                             <h6>
                                 <p>
-                                Euromillions is one of the biggest lotteries in the world, known for its massive jackpots which have created plenty of new millionaires around Europe the last few years. Euro millions is run by several national european lotteries, including France’s Française des Jeux, Spain’s Loterías y Apuestas del Estado and the UK’s Camelot, all founding members of the lottery back in 2004.
+                                MoneyJackpot is one of the biggest lotteries in the world, known for its massive jackpots which have created plenty of new millionaires around Europe the last few years. Money jackpot is run by several national european lotteries, including France’s Française des Jeux, Spain’s Loterías y Apuestas del Estado and the UK’s Camelot, all founding members of the lottery back in 2004.
                                 
                                 <br><br><br>
                                 To play Euromillions online, a player will:
                                     <ul style="margin-left:2%;">
 
-                                        <li>Select 5 normal Euromillions numbers between 1 and 50</li>
+                                        <li>Select 5 normal MoneyJackpot numbers between 1 and 50</li>
                                         <li>Pick an additional two “Lucky Star” numbers between 1 and 12</li>
                                         <li>Wait for the draw, which takes place each Tuesday and Friday at 9 P.M. CET in Paris</li>
 
                                     </ul>
 
-                                    The biggest jackpot ever won on Euromillions was more than €190 million big!
+                                    The biggest jackpot ever won on Money Jackpot was more than €190 million big!
 
                                     <br><br>
-                                    Play Euromillions lotto online with Multilotto! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
+                                    Play Money Jackpot lotto online with Multilotto! Do not forget the Money Jackpot Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
                                     <br><br>
     
-                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on Multilotto.com
+                                    You can always find the latest and historical <a>Money Jackpot results</a> and payout published on Multilotto.com
                                 
                                 </p>
                             

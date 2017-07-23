@@ -34,24 +34,25 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                         <div class="dropdown-menu dropdown-menu">
                                                 <div class="row">
                                                     <div class="col-md-12">
 
-                                                    dsad
+                                                    Test Lottery
 
                                                     </div>
                                                 </div>
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -71,7 +72,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Eurojackpot Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Win a House Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -127,7 +128,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
                                                         <h1>&euro;10 000 000</h1>
                                                         <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
@@ -2081,7 +2082,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
                                                         <h1>&euro;10 000 000</h1>
                                                         <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
@@ -2618,7 +2619,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY EUROJACKPOT ONLINE</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
                                                         <h1>&euro;10 000 000</h1>
                                                         <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
@@ -3315,10 +3316,10 @@
 
                             <h6>
                                 <p>
-                                Eurojackpot, or Euro Jackpot as it is also known, is a European transnational lottery which was launched in march 2012. The game is often called Euro lotto by players from northern Europe and Scandinavia. The Euro lottery jackpot starts at €10 million and can roll over to as much as €90 million!
+                                Win a House is a European transnational lottery which was launched in march 2012. The game is often called Euro lotto by players from northern Europe and Scandinavia. The Euro lottery jackpot starts at €10 million and can roll over to as much as €90 million!
                                 
                                 <br><br><br>
-                                To play Eurojackpot online, a player will:
+                                To play Win a House online, a player will:
                                     <ul style="margin-left:2%;">
 
                                         <li>Select five numbers between 1 and 50</li>
@@ -3327,14 +3328,14 @@
 
                                     </ul>
 
-                                    The current standing record for a Eurojackpot win was recorded on the 12th of April 2013, when a sole winner from Germany took home the incredible €46,079,338 jackpot.
+                                    The current standing record for a Win a House win was recorded on the 12th of April 2013, when a sole winner from Germany took home the incredible €46,079,338 jackpot.
 
 
                                     <br><br>
-                                    Play Eurojackpot online with Multilotto!
+                                    Play Win a House online with Multilotto!
                                     <br><br>
     
-                                    You can find all the latest <a>Eurojackpot results</a> and play Eurojackpot at Multilotto.com
+                                    You can find all the latest <a>Win a House results</a> and play Win a House at Multilotto.com
                                 
                                 </p>
                             

@@ -34,10 +34,12 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                         <div class="dropdown-menu dropdown-menu">
@@ -51,7 +53,6 @@
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             

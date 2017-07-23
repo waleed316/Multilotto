@@ -28,24 +28,25 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                         <div class="dropdown-menu dropdown-menu">
                                                 <div class="row">
                                                     <div class="col-md-12">
 
-                                                    dsad
+                                                    Test Lottery
 
                                                     </div>
                                                 </div>
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -65,7 +66,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Mega Millions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Your Millions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -121,7 +122,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MEGA MILLIONS ONLINE</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
                                                         <h1>&euro;189 500 000</h1>
                                                         <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
@@ -2075,7 +2076,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MEGA MILLIONS ONLINE</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
                                                         <h1>&euro;189 500 000</h1>
                                                         <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
@@ -2612,7 +2613,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MEGA MILLIONS ONLINE</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
                                                         <h1>&euro;189 500 000</h1>
                                                         <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
@@ -3309,10 +3310,10 @@
 
                             <h6>
                                 <p>
-                                Mega Millions is an American lottery available in most parts of the USA - as well as online, courtesy of Multilotto.com. The first Mega Millions draw took place 2002 and since then, plenty of lucky people have managed to hit the MegaMillions winning numbers to win the ever so big jackpot, which always starts at $15 million.
+                                Your Millions is an American lottery available in most parts of the USA - as well as online, courtesy of moneyyours.com. The first Your Millions draw took place 2002 and since then, plenty of lucky people have managed to hit the Your Millions winning numbers to win the ever so big jackpot, which always starts at $15 million.
                                 
                                 <br><br><br>
-                                The Mega Millions lottery is played like this:
+                                The Your Millions lottery is played like this:
                                     <ul style="margin-left:2%;">
 
                                         <li>Player selects five numbers between 1 and 75</li>
@@ -3321,13 +3322,11 @@
 
                                     </ul>
 
-                                    The biggest jackpot on Mega Millions, as well as in lotto history, was $656.000.000 and happened on the 30th of March 2012.
+                                    The biggest jackpot on Your Millions, as well as in lotto history, was $656.000.000 and happened on the 30th of March 2012.
 
                                     <br><br>
-                                    Play Mega Millions and other USA lotteries online with Multilotto!
+                                    Play Your Millions and other USA lotteries online with moneyyours!
                                     <br><br>
-    
-                                    You can always find the <a>Mega Millions results</a> as well as payout right here on Multilotto.
                                 
                                 </p>
                             

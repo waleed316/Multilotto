@@ -33,24 +33,25 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                         <div class="dropdown-menu dropdown-menu">
                                                 <div class="row">
                                                     <div class="col-md-12">
 
-                                                    dsad
+                                                    Test Lottery
 
                                                     </div>
                                                 </div>
                                         </div>
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -70,7 +71,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Multilotto.com. Buy lottery tickets, play Powerball and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Money Million and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -124,7 +125,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY POWERBALL ONLINE</h4>
+                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
                                                         <h1>&euro;150 200 000</h1>
                                                         <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
                                                     </div>
@@ -1097,7 +1098,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY POWERBALL ONLINE</h4>
+                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
                                                         <h1>&euro;150 200 000</h1>
                                                         <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
                                                     </div>
@@ -1409,7 +1410,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY POWERBALL ONLINE</h4>
+                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
                                                         <h1>&euro;150 200 000</h1>
                                                         <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
                                                     </div>
@@ -1884,43 +1885,43 @@
 
                             <h6>
                                 <p>
-                                Powerball is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Powerball tickets, Multilotto is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Powerball work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Powerball lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Powerball, here are three basic Powerball rules:
+                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, Multilotto is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
                                     
                                     <ul style="margin-left:2%;">
 
                                         <li>Pick five numbers between 1 and 69 (inclusive)</li>
-                                        <li>Pick an additional number (Powerball) between 1 and 26 (inclusive)</li>
+                                        <li>Pick an additional number (Money Million) between 1 and 26 (inclusive)</li>
                                         <li>Wait for the draw, which takes place every Wednesday and Saturday at 10:59 P.M. Eastern Time.</li>
 
                                     </ul>
 
-                                    If you can’t decide what numbers to choose for the next Powerball drawing, you can always use a Quick Pick option, which will automatically generate random numbers for you. Just make sure to pick your numbers at least four hours before the Powerball drawing time, because that’s when the sales close.
+                                    If you can’t decide what numbers to choose for the next Money Million drawing, you can always use a Quick Pick option, which will automatically generate random numbers for you. Just make sure to pick your numbers at least four hours before the Money Million drawing time, because that’s when the sales close.
 
                                     <br><br>
-                                    If you’re sitting here wondering “How can I win Powerball?” there are nine ways to net prizes of different value, ranging from $4 to at least $40 million:
+                                    If you’re sitting here wondering “How can I win Money Million?” there are nine ways to net prizes of different value, ranging from $4 to at least $40 million:
                                     <br><br>
                                     <ul style="margin-left:2%;">
 
-                                        <li>Match 5 main numbers + Power Ball = Jackpot</li>
+                                        <li>Match 5 main numbers + Money Million = Jackpot</li>
                                         <li>Match 5 main numbers = $1 million</li>
-                                        <li>Match 4 main numbers + Power Ball = $50.000</li>
+                                        <li>Match 4 main numbers + Money Million = $50.000</li>
                                         <li>Match 4 main numbers = $100</li>
-                                        <li>Match 3 main numbers + Power Ball = $100</li>
+                                        <li>Match 3 main numbers + Money Million = $100</li>
                                         <li>Match 3 main numbers = $7</li>
-                                        <li>Match 2 main numbers + Power Ball = $7</li>
-                                        <li>Match 1 main number + Power Ball = $4</li>
-                                        <li>Match Powerball = $4</li>
+                                        <li>Match 2 main numbers + Money Million = $7</li>
+                                        <li>Match 1 main number + Money Million = $4</li>
+                                        <li>Match Money Million = $4</li>
 
 
                                     </ul>
 
-                                    The jackpot is won by matching the five white balls and the red Power Ball. It will increase at a minimum of $10 million after every drawing that fails to produce a jackpot winner, and it was known to rise to $1.58 billion. If there is more than one Grand Prize winner, the jackpot is divided equally among them. All other prizes, from $1 million down to $4, are fixed prize amounts, and are paid in full to each winner.
+                                    The jackpot is won by matching the five white balls and the red PMoney Million. It will increase at a minimum of $10 million after every drawing that fails to produce a jackpot winner, and it was known to rise to $1.58 billion. If there is more than one Grand Prize winner, the jackpot is divided equally among them. All other prizes, from $1 million down to $4, are fixed prize amounts, and are paid in full to each winner.
                                     <br><br>
-                                    Powerball also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
+                                    Money Million also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
                                     <br><br>
-                                    The winning Powerball numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Powerball winner and want to know how to redeem Powerball prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your Multilotto account, and if you win larger prize we will assist you to claim it in the best way possible.
+                                    The winning Money Million numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Money Million winner and want to know how to redeem Money Million prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your Multilotto account, and if you win larger prize we will assist you to claim it in the best way possible.
                                     <br><br>
-                                    Play Powerball online with Multilotto!
+                                    Play Money Million online with Multilotto!
                                 
                                 </p>
                             

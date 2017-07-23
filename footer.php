@@ -35,17 +35,17 @@
                         <ul class="footer-ul">
 
                             <li><a class="active" href="index.php" >Play Lotto</a></li>
-                            <li><a href="euromillion.php" >Play EuroMillions</a></li>
-                            <li><a href="megamillion.php" >Play Mega Millions</a></li>
-                            <li><a href="la_primitiva.php" >Play La Primitiva</a></li>
-                            <li><a href="superEnalotto.php" >Play Super EnaLotto</a></li>
-                            <li><a href="california.php" >Play California SuperLotto</a></li>
-                            <li><a href="powerball.php" >Play Powerball</a></li>
-                            <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
+                            <li><a href="euromillion.php" >Play Money Million</a></li>
+                            <li><a href="megamillion.php" >Play Your Millions</a></li>
+                            <li><a href="la_primitiva.php" >Money Jackpot</a></li>
+                            <li><a href="superEnalotto.php" >Win a house</a></li>
+                            <li><a href="california.php" >Win a Yacht</a></li>
+                            <li><a href="powerball.php" >Win a Car</a></li>
+                            <!-- <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
                             <li><a href="mega.php" >Play Mega-Sena</a></li>
                             <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>
                             <li><a href="bonolotto.php" >Play Bonoloto</a></li>
-                            <li><a href="el_gordo.php" >Play El Gordo</a></li>
+                            <li><a href="el_gordo.php" >Play El Gordo</a></li> -->
 
 
 
@@ -58,8 +58,8 @@
 
                         <ul class="footer-ul">
 
-                            <li><a class="active" href="result.php" >Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Euromillions Results</a></li>
+                            <!--<li><a class="active" href="result.php" >Lotto Results</a></li>
+                            <li><a href="viewresult.php" >Money Million Results</a></li>
                             <li><a href="viewresult.php" >Mega Millions Results</a></li>
                             <li><a href="viewresult.php" >La Primitiva Results</a></li>
                             <li><a href="viewresult.php" >SuperEnaLotto Results</a></li>
@@ -70,7 +70,7 @@
                             <li><a href="viewresult.php" >Eurojackpot Results</a></li>
                             <li><a href="viewresult.php" >Bonoloto Results</a></li>
                             <li><a href="viewresult.php" >El Gordo Results</a></li>
-                            <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>
+                            <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>-->
 
 
 

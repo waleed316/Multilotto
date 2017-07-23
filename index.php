@@ -28,16 +28,17 @@
                             <nav>
                                 <ul>
                                     <li><a class="hm-dis" href="index.php">HOME</a></li>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
                                     
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                     <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
                                     <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                     
@@ -60,7 +61,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to Moneyyours.com. A place where your dreams become yours<span class="pull-right" id="time"></span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. A place where your dreams become yours<span class="pull-right" id="time"></span></h5>
 
 
                    </div>
@@ -126,7 +127,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/mega-millions.png" class="img-responsive">
+                                                <img src="images/powerball.jpeg" class="img-responsive">
 
                                             </div>
 
@@ -167,7 +168,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/usa-powerball.png" class="img-responsive">
+                                                <img src="images/lotto.jpeg" class="img-responsive">
 
                                             </div>
 
@@ -208,7 +209,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/super-ena-lotto.png" class="img-responsive">
+                                                <img src="images/lottoland.jpeg" class="img-responsive">
 
                                             </div>
 
@@ -249,7 +250,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/california-super-lotto.png" class="img-responsive">
+                                                <img src="images/lottomax.jpeg" class="img-responsive">
 
                                             </div>
 
@@ -290,7 +291,7 @@
 
                                             <div class="col-md-3 col-xs-4 col-sm-4">
 
-                                                <img src="images/euromillions.png" class="img-responsive">
+                                                <img src="images/bingo.jpeg" class="img-responsive">
 
                                             </div>
 
@@ -319,7 +320,7 @@
 
                                     </div>
 
-                                    <hr>
+                                    <!--<hr>
 
                                     <div class="row">
 
@@ -485,9 +486,9 @@
 
                                     </div>
 
-                                    <hr>
+                                    <hr>-->
 
-                                    <div class="row">
+                                    <!--<div class="row">
 
 
 
@@ -518,13 +519,13 @@
 
                                                 <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
-                                            </div>
+                                            </div>-->
 
 
 
-                                        </section>
+                                        <!--</section>-->
 
-                                    </div>
+                                    <!--</div>-->
 
                                 </div>
 
@@ -557,7 +558,7 @@
 
                                                             <tr>
                                                                 <td><img src="images/0f0cc939fcf3d51972ce857525d319b5.jpg" style="height:18px;"></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -565,7 +566,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">2</span></td>
-                                                                <td><img src="images/images.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/images.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -573,7 +574,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">3</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -582,7 +583,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">4</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -591,7 +592,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">5</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -600,7 +601,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">6</span></td>
-                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -609,7 +610,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">7</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -617,7 +618,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">8</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -626,7 +627,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">9</span></td>
-                                                                <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -635,7 +636,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">10</span></td>
-                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -687,7 +688,7 @@
 
                                                             <tr>
                                                                 <td><img src="images/0f0cc939fcf3d51972ce857525d319b5.jpg" style="height:18px;"></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -695,7 +696,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">2</span></td>
-                                                                <td><img src="images/images.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/images.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -703,7 +704,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">3</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -712,7 +713,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">4</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -721,7 +722,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">5</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -730,7 +731,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">6</span></td>
-                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td><a href="" class="btn btn-primary play-now">PLAY NOW</a></td>
@@ -739,7 +740,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">7</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -747,7 +748,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">8</span></td>
-                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/american-flag-large.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -756,7 +757,7 @@
 
                                                             <tr>
                                                                 <td><span class="badge">9</span></td>
-                                                                <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/Brazil_flag_300.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -765,7 +766,7 @@
 
                                                             <tr class="active">
                                                                 <td><span class="badge">10</span></td>
-                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Mega Millions</td>
+                                                                <td><img src="images/spanish-flag-medium.png" style="height:14px;margin-right:5px">Your Millions</td>
                                                                 <td>&euro;17 000 000</td>
                                                                 <td>01d 10h 34m</td>
                                                                 <td></td>
@@ -906,7 +907,7 @@
 
                                                 <div class="col-md-12">
 
-                                                    <h4 class="heading">Euromillions and Eurojackpot both produce jackpot winners on the same night</h4>
+                                                    <h4 class="heading">Money Millions and Money Jackpot both produce jackpot winners on the same night</h4>
 
                                                 </div>
 
@@ -958,7 +959,7 @@
 
                                                 <div class="col-md-12">
 
-                                                    <h4 class="heading">Mega Millions is offering the hottest jackpot of the summer worth €163.400.000</h4>
+                                                    <h4 class="heading">Your Millions is offering the hottest jackpot of the summer worth €163.400.000</h4>
 
                                                 </div>
 
@@ -1004,7 +1005,7 @@
 
 
 
-                            <section class="Lotto-results">
+                            <!--<section class="Lotto-results">
 
                                 <h3 style="font-weight:bold;color:black;color:#FE0000">Lotto Results</h3>
 
@@ -1101,7 +1102,7 @@
 
                                         <div class="col-md-3 col-sm-4 col-xs-3">
 
-                                            <h4 class="lottery-name">PowerBall</h4>
+                                            <h4 class="lottery-name">Money Millions</h4>
                                             <h6 class="lottery-date">Saturday, 8 July</h6>
 
                                         </div>
@@ -1171,7 +1172,7 @@
                                 <a href="" class="more-article pull-right">More Lotteries</a>
 
 
-                            </section>
+                            </section>-->
 
 
                         </div>
@@ -1229,7 +1230,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero ipad-setting no-margin">POWERBALL</h3>
+                                            <h3 class="pull-right margin-zero ipad-setting no-margin">MONEY MILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1245,7 +1246,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">MEGAMILLIONS</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin">YOURMILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1261,7 +1262,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">EUROMILLIONS</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin">MONEY JACKPOT</h3>
                                         </div>
                                     </a>
                                 </div>
@@ -1277,7 +1278,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">SUPERNALOTO</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin">WIN A HOUSE</h3>
                                         </div>
                                     </a>
 
@@ -1332,7 +1333,7 @@
                                                 <h1 style="opacity:0.8">2</h1> 
 
                                                 <h3 class="margin-zero1">$656M</h3>
-                                                <h6 class="margin-zero1">MEGAMILLIONS</h6>
+                                                <h6 class="margin-zero1">YOURMILLIONS</h6>
                                                                                
                                         </li>
 
@@ -1342,7 +1343,7 @@
                                                 <h1 style="opacity:0.7">3</h1> 
 
                                                 <h3 class="margin-zero1">$648M</h3>
-                                                <h6 class="margin-zero1">MEGAMILLIONS</h6>
+                                                <h6 class="margin-zero1">YOURMILLIONS</h6>
                                                                                
                                         </li>
 
