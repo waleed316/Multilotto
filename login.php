@@ -128,11 +128,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
-
-                                    
-
-                                    </li>
+                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                     
                                 </ul>
                             </nav> <!-- navigation end -->

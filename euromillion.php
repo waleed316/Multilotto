@@ -40,19 +40,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
-
-                                        <div class="dropdown-menu dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-
-                                                    Test Lottery
-
-                                                    </div>
-                                                </div>
-                                        </div>
-
-                                    </li>
+                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -3315,7 +3303,7 @@
                                 MoneyJackpot is one of the biggest lotteries in the world, known for its massive jackpots which have created plenty of new millionaires around Europe the last few years. Money jackpot is run by several national european lotteries, including France’s Française des Jeux, Spain’s Loterías y Apuestas del Estado and the UK’s Camelot, all founding members of the lottery back in 2004.
                                 
                                 <br><br><br>
-                                To play Euromillions online, a player will:
+                                To play Money Jackpot online, a player will:
                                     <ul style="margin-left:2%;">
 
                                         <li>Select 5 normal MoneyJackpot numbers between 1 and 50</li>

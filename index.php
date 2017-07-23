@@ -34,11 +34,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
-
-                                    
-
-                                    </li>
+                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                     <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
                                     <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                     
@@ -892,7 +888,7 @@
 
                                                 <div class="col-md-3 image-padding">
 
-                                                    <img src="images/5963164cacd89-thumb.jpg" class="img-responsive">
+                                                    <img src="images/news-2.jpg" class="img-responsive">
 
                                                 </div>
 
@@ -941,7 +937,7 @@
 
                                                 <div class="col-md-3 image-padding">
 
-                                                    <img src="images/5963164cacd89-thumb.jpg" class="img-responsive">
+                                                    <img src="images/news-3.jpg" class="img-responsive">
 
                                                 </div>
 
@@ -993,7 +989,7 @@
 
                                                 <div class="col-md-3 image-padding">
 
-                                                    <img src="images/5963164cacd89-thumb.jpg" class="img-responsive">
+                                                    <img src="images/news-4.jpg" class="img-responsive">
 
                                                 </div>
 

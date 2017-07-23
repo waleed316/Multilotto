@@ -39,19 +39,7 @@
                                     <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
                                     <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
-
-                                        <div class="dropdown-menu dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-
-                                                    Test Lottery
-
-                                                    </div>
-                                                </div>
-                                        </div>
-
-                                    </li>
+                                    <li><a href="result.php">LOTO RESULTS</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
