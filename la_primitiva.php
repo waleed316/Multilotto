@@ -29,28 +29,22 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href=""><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href=""><i class="fa fa-bars"></i><span><img src="images/money_yours.png" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
-                                        <div class="dropdown-menu dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-
-                                                    dsad
-
-                                                    </div>
-                                                </div>
-                                        </div>
-
                                     </li>
+                                    
                                 </ul>
                             </nav> <!-- navigation end -->
                             

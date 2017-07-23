@@ -29,7 +29,7 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href=""><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href=""><i class="fa fa-bars"></i><span><img src="images/money_yours.png" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>
@@ -131,7 +131,7 @@
                                             <li><a>Illinois Lotto</a></li>
                                             <li><a>Hoosier Lotto</a></li>
                                             <li><a>New York Lotto</a></li>
-                                            <li><a>Powerball</a></li>
+                                            <li><a>Money Millions</a></li>
                                             <li><a>California SuperLotto</a></li>
                                             <li><a>Florida Lotto</a></li>
                                             <li><a>Mega Millions</a></li>
@@ -141,7 +141,7 @@
                                         <h5>Australia</h5>
                                         <ul class="rslt-head">
                                             <li><a>Saturday Lotto</a></li>
-                                            <li><a>Australia Powerball</a></li>
+                                            // <li><a>Australia Powerball</a></li>
                                         </ul>
 
 
@@ -404,7 +404,7 @@
 
                             <h6>
                                 <p>
-                                On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                                On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Money Millions results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
                                 
                                                             
                                 </p>

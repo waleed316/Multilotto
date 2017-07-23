@@ -22,7 +22,7 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href="index.php"><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href="index.php"><i class="fa fa-bars"></i><span><img src="images/money_yours.png" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>
@@ -73,21 +73,44 @@
             <!-- Slider Start Here -->
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
 
-                        <div class="item">
+                        <div class="item active">
                             <img src="images/cars_main.jpeg" alt="Unexpected Error" style="width:100%">
                         </div>
 
-                        <div class="item active">
+                        <div class="item ">
                             <span class="cover-pic-headline">
                                 <h3>WE ADMIRE YOUR HOLIDAYS<br>SO ENTER FOR A CHANCE TO</h3>
                                 <h1>WIN<br>THIS<br>YACHT!</h1>
                             </span>
-                            <img src="images/900-370-75983.jpg" alt="Unexpected Error" style="width:100%">
+                            <img src="images/900-370-75983.png" alt="Unexpected Error" style="width:100%">
+                        </div>
+
+                        <div class="item">
+                            <span class="cover-pic-headline">
+                                <h3>PLAY NOW <br>TO ENTER FOR A CHANCE TO</h3>
+                                <h1>WIN<br>A<br>HOUSE!</h1>
+                            </span>
+                            <img src="images/house_main.png" alt="Unexpected Error" style="width:100%">
                         </div>
                     </div>
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
 
                 </div>
             <!-- Slider Ends Here-->
@@ -1323,7 +1346,7 @@
                                                 <h1>1</h1> 
 
                                                 <h3 class="margin-zero1">$1.58B</h3>
-                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                <h6 class="margin-zero1">MONEY MILLION</h6>
                                                                                
                                         </li>
 
@@ -1354,7 +1377,7 @@
                                                 <h1 style="opacity:0.5">4</h1> 
 
                                                 <h3 class="margin-zero1">$591M</h3>
-                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                <h6 class="margin-zero1">YOUR MILLIONS</h6>
                                                                                
                                         </li>
 
@@ -1365,7 +1388,7 @@
                                                 <h1 style="opacity:0.3">5</h1> 
 
                                                 <h3 class="margin-zero1">$588M</h3>
-                                                <h6 class="margin-zero1">POWERBALL</h6>
+                                                <h6 class="margin-zero1">MONEY MILLIONS</h6>
                                                                                
                                         </li>
 

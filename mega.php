@@ -24,7 +24,7 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href=""><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href=""><i class="fa fa-bars"></i><span><img src="images/money_yours.png" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>

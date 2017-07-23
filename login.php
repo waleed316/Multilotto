@@ -24,7 +24,7 @@
 
                          <div>
 
-                           <a href="index.php"><img src="images/logo-com.svg" class="img-responsive" ></a>
+                           <a href="index.php"><img src="images/money_yours.png" class="img-responsive" ></a>
 
                         </div>
                         
@@ -116,29 +116,24 @@
                         <header>
                                 <!-- responsive nav bar -->
                             <div class="nav-bar" id="menu">
-                                <a href=""><i class="fa fa-bars"></i><span><img src="images/logo-com.svg" class="img-responsive" ></span></a>
+                                <a href=""><i class="fa fa-bars"></i><span><img src="images/money_yours.png" class="img-responsive" ></span></a>
                             </div>
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">POWERBALL</a></li>
-                                    <li><a href="megamillion.php">MEGA MILLIONS</a></li>
-                                    <li><a href="euromillion.php">EUROMILLIONS</a></li>
-                                    <li><a href="eurojackpot.php">EUROJACKPOT</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
+                                    <li><a href="powerball.php">MONEY MILLION</a></li>
+                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
+                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
                                     <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">MORE LOTTERIES</a>
 
-                                        <div class="dropdown-menu dropdown-menu">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-
-                                                    dsad
-
-                                                    </div>
-                                                </div>
-                                        </div>
+                                    
 
                                     </li>
-                                    <li><a href="result.php">LOTO RESULTS</a></li>
+                                    
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -327,7 +322,7 @@
 
                         <h6>
                             <p>
-                              On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Powerball results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
+                              On this page you can find all the latest lottery results, as well as a comprehensive record of past lotto results. Use this page to verify your last played numbers and see if they are winning lottery numbers. You can find results and payout for a wide variety of international lotteries. Find Money Million results, UK lottery results, Euromillions results and National lottery results from your local operators. We update all results shortly after the corresponding draw has taken place, so you can always find the right lotto numbers here, and use the page as a lotto results checker! Use the menu on your left to choose which lottery you would like to see the latest results for, then navigate back in time for historical results.
                             
                                                          
                             </p>
@@ -345,7 +340,9 @@
            <!-- Footer -->
             <hr>
 
-            <div class="row">
+            <?php include 'footer.php' ?>            
+
+            <!--<div class="row">
 
                 <section>
 
@@ -474,7 +471,7 @@
 
                 </section>
 
-            </div>
+            </div>-->
             <!-- Footer Ends here -->
 
 
