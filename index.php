@@ -1253,7 +1253,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero ipad-setting no-margin">MONEY MILLIONS</h3>
+                                            <h3 class="pull-right margin-zero ipad-setting no-margin"><br/>MONEYMILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1269,7 +1269,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">YOURMILLIONS</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>YOURMILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1285,7 +1285,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">MONEY JACKPOT</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>MONEY JACKPOT</h3>
                                         </div>
                                     </a>
                                 </div>
@@ -1301,7 +1301,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin">WIN A HOUSE</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>WIN A HOUSE</h3>
                                         </div>
                                     </a>
 
