@@ -99,7 +99,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/549032b804221.jpg" class="img-responsive" style="width:100%;">
+                                                <img src="images/54a6b12e4c9fa.jpg" class="img-responsive" style="width:100%;">
                                     
                                             </div>
                                             
@@ -171,153 +171,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add6">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-                                                                                    <td><a  class="extra-padding">50</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-
-                                                                                </tr>
-                                                                                
-                                                                                
-
 
                                                                             </tbody>
 
@@ -330,65 +186,9 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable11">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
 
                                                                             </tbody>
 
@@ -415,154 +215,11 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add7">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-                                                                                    <td><a  class="extra-padding">50</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-
-                                                                                </tr>
-                                                                                
-                                                                                
-
-
+                                                                               
                                                                             </tbody>
 
                                                                         </table>
@@ -574,65 +231,8 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
+                                                                            <tbody class="bonustable12">
+                                                                          
 
                                                                             </tbody>
 
@@ -660,154 +260,11 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add8">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-                                                                                    <td><a  class="extra-padding">50</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-
-                                                                                </tr>
                                                                                 
-                                                                                
-
-
                                                                             </tbody>
 
                                                                         </table>
@@ -819,66 +276,8 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
-
+                                                                            <tbody class="bonustable13">
+                                                                              
                                                                             </tbody>
 
                                                                         </table>
@@ -905,153 +304,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
-                                                                                
-                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-                                                                                    <td><a  class="extra-padding">50</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-
-                                                                                </tr>
-                                                                                
-                                                                                
-
+                                                                            <tbody class="add9">
+                                                                               
 
                                                                             </tbody>
 
@@ -1064,66 +318,8 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
-
+                                                                            <tbody class="bonustable14">
+                                                                             
                                                                             </tbody>
 
                                                                         </table>
@@ -1150,152 +346,10 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="add10">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-                                                                                    <td><a  class="extra-padding">50</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-
-                                                                                </tr>
-                                                                                
-                                                                                
 
 
                                                                             </tbody>
@@ -1309,66 +363,9 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable15">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
-
                                                                             </tbody>
 
                                                                         </table>
@@ -1427,68 +424,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
+                                                                            <tbody class="bonustable16">
+                                                                               
 
                                                                             </tbody>
 
@@ -1514,69 +451,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable17">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
-
                                                                             </tbody>
 
                                                                         </table>
@@ -1602,69 +479,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable18">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
-
                                                                             </tbody>
 
                                                                         </table>
@@ -1689,68 +505,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable19">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
 
                                                                             </tbody>
 
@@ -1775,68 +531,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable20">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
 
                                                                             </tbody>
 
@@ -2054,7 +750,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
+                                                <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
 
                                             </div>
                                             
@@ -2073,7 +769,7 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
+                                                       <h4>PLAY WIN A HOUSE ONLINE</h4>
                                                         <h1>&euro;10 000 000</h1>
                                                         <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
@@ -2117,140 +813,11 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="system-add-table3">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-                                                                                
-                                                                                    <td><a  class="extra-padding">50</a></td>
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-
+                                                                               
                                                                             </tbody>
 
                                                                         </table>
@@ -2262,59 +829,8 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    
-
-                                                                                </tr>
-
+                                                                            <tbody class="systembonustable5">
+                                                                              
                                                                             </tbody>
 
                                                                         </table>
@@ -2390,58 +906,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="systembonustable6">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
-                                                                
                                                                             </tbody>
 
                                                                         </table>
@@ -2590,7 +1057,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
+                                                <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
 
                                             </div>
                                             
@@ -2658,138 +1125,10 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="system-add-table4">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    <td><a  class="extra-padding">27</a></td>
-                                                                                    <td><a  class="extra-padding">28</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">29</a></td>
-                                                                                    <td><a  class="extra-padding">30</a></td>
-                                                                                    <td><a  class="extra-padding">31</a></td>
-                                                                                    <td><a  class="extra-padding">32</a></td>
-                                                                                    <td><a  class="extra-padding">33</a></td>
-                                                                                    <td><a  class="extra-padding">34</a></td>
-                                                                                    <td><a  class="extra-padding">35</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">36</a></td>
-                                                                                    <td><a  class="extra-padding">37</a></td>
-                                                                                    <td><a  class="extra-padding">38</a></td>
-                                                                                    <td><a  class="extra-padding">39</a></td>
-                                                                                    <td><a  class="extra-padding">40</a></td>
-                                                                                    <td><a  class="extra-padding">41</a></td>
-                                                                                    <td><a  class="extra-padding">42</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">43</a></td>
-                                                                                    <td><a  class="extra-padding">44</a></td>
-                                                                                    <td><a  class="extra-padding">45</a></td>
-                                                                                    <td><a  class="extra-padding">46</a></td>
-                                                                                    <td><a  class="extra-padding">47</a></td>
-                                                                                    <td><a  class="extra-padding">48</a></td>
-                                                                                    <td><a  class="extra-padding">49</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-                                                                                
-                                                                                    <td><a  class="extra-padding">50</a></td>
-                                                                                    <td><a  class="extra-padding">51</a></td>
-                                                                                    <td><a  class="extra-padding">52</a></td>
-                                                                                    <td><a  class="extra-padding">53</a></td>
-                                                                                    <td><a  class="extra-padding">54</a></td>
-                                                                                    <td><a  class="extra-padding">55</a></td>
-                                                                                    <td><a  class="extra-padding">56</a></td>
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">57</a></td>
-                                                                                    <td><a  class="extra-padding">58</a></td>
-                                                                                    <td><a  class="extra-padding">59</a></td>
-                                                                                    <td><a  class="extra-padding">60</a></td>
-                                                                                    <td><a  class="extra-padding">61</a></td>
-                                                                                    <td><a  class="extra-padding">62</a></td>
-                                                                                    <td><a  class="extra-padding">63</a></td>
-                                                                                    
-                                                                                    
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">64</a></td>
-                                                                                    <td><a  class="extra-padding">65</a></td>
-                                                                                    <td><a  class="extra-padding">66</a></td>
-                                                                                    <td><a  class="extra-padding">67</a></td>
-                                                                                    <td><a  class="extra-padding">68</a></td>
-                                                                                    <td><a  class="extra-padding">69</a></td>
-                                                                                    
-
-                                                                                </tr>
 
 
                                                                             </tbody>
@@ -2803,58 +1142,9 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody>
+                                                                            <tbody class="systembonustable7">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                                    
-
-                                                                                </tr>
 
                                                                             </tbody>
 
@@ -2931,58 +1221,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    
-                                                                                    <td><a  class="extra-padding">15</a></td>
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-                                                                                    <td><a  class="extra-padding">21</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-                                                                                    <td><a  class="extra-padding">26</a></td>
-
-                                                                                </tr>
-                                                                
+                                                                            <tbody class="systembonustable8">
+                                                                              
                                                                             </tbody>
 
                                                                         </table>
@@ -3350,53 +1590,8 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="js/main.js"></script>
         <script>
-
-            // var array-1 = [{
-            //     'value':1,
-            //     'checked':false
-            // },
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // ]
-
-            // var container = $('.upper-border'); 
-            
-            // counter =0;
-            // flag = false;
-            // for(var i = 1; i <= num; i++) {
-            //     if(!flag){
-            //         container.append('<tr id="id'+i+'" data-index='+i+'>);    
-            //         flag = true;
-            //     }
-            //     container.append('<a id="id'+i+'" data-index='+i+'>'+i+'</a>');
-            //     if((i % 5) == 0){
-            //         container.append('</tr>');
-            //         flag = false;
-            //     }
-            // }
 
                 $(document).ready(function(){
                      
@@ -3432,16 +1627,7 @@
                 });
 
         </script>
-        
-         <script>
-                $( "a" ).click(function() {
-                $( this ).toggleClass( "background_color" );
-                });
-            </script>
-          
-
-
-
+    
         <script>
             $(document).ready(function() {
             $('.sev_check').each(function() {
@@ -3457,41 +1643,6 @@
             });    
         </script>
 
-        <!--<script>    
-
-            (function()
-                {
-                    var v1 = document.getElementById('s_fac').value;
-
-                    if(document.getElementById("s_fac").checked == true )
-                        {
-                            document.getElementById('draw-no').innerHTML = v1
-                        }
-                }
-            )
-            ()
-            
-           
-        </script>-->
-
-
-
-        <script>    
-
-            
-            var arr = [];
-            var len = 70;
-            for (var i = 1; i < len; i++) {
-                arr.push({
-                    lottery_no : [i]
-                });
-            }
-            
-           
-        </script>
-
-
-        
 
 
 

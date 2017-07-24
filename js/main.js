@@ -197,9 +197,9 @@ $(document).ready(function () {
     // Bonus Selection game boxes
 
         var bonusbox = [];
-        for (var j = 1; j <= 10; j++)
+        for (var j = 1; j <= 20; j++)
             bonusbox[j] = [];
-        for (var k = 1; k <= 10; k++) 
+        for (var k = 1; k <= 20; k++) 
             $("a#btadd" + k).click(createCallback1(k))
 
         function createCallback1(k) {
@@ -356,9 +356,3 @@ $(document).ready(function () {
 
 });
 
-
-function deletearry(){
-    while($(this.length)) {
-    arr.shift(); 
-  }
-}
