@@ -7,7 +7,7 @@ $(document).ready(function () {
             var list1 = [];
             for (var i = 1; i <= 69; i++) {
 
-                list1.push({ 'value': i, 'checked': false });
+                list1.push({i});
 
                 if (!flag) {
                     $("tbody.add" + j).append("<tr class=\"upper-border\">")
@@ -31,8 +31,9 @@ $(document).ready(function () {
 
             }
             
-
+            
         }
+        console.table(list1);
     // end of money millions list
 
     // bonus section boxes
@@ -155,7 +156,7 @@ $(document).ready(function () {
                 if (box[i].length < 5) {
                     $(this).toggleClass("background_color");
                     var data = $(this).data('index');
-
+                    console.table(data);
                     function findbydata(i) {
                         return i.data == data;
                     }
@@ -168,7 +169,7 @@ $(document).ready(function () {
                         box[i].push({ data });
 
                     }
-                    console.table(box[i]);
+                    console.log(box[i]);
                 }
                 else {
 
@@ -299,7 +300,7 @@ $(document).ready(function () {
     // single box end here
 
 
-      // system Selection game boxes
+    // system Selection game boxes
 
         var sysbonusbox = [];
         for (var j = 1; j <= 10; j++)
@@ -351,7 +352,16 @@ $(document).ready(function () {
     // single box end here
     
 
-
+    $('a.random-btn').click(function() {
+        var randompick = [];
+        for(var i=1; i<=5; i++) {
+            randompick.push([Math.floor(Math.random()*list1.length)]);
+            $('a#add6').filter("[data-index="+randompick+"]").toggleClass("background_color");
+            // $("a#add6[data-index="+randompick+"]").toggleClass("background_color");
+            console.log(randompick);
+        }
+        
+    });
 
 
 });

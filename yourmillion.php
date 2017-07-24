@@ -174,7 +174,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -189,7 +189,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash table-lower-icon"></a>
 
 
                                                                     </div>
@@ -219,7 +219,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
