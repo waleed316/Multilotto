@@ -4,18 +4,13 @@
     <?php include 'header.php' ?>
 
     
+    
 
     <body>
 
-       
-            
-           
-
-
-
         <div class="container main-margin">
             
-            <?php include 'topbar.php'?>
+            <?php include 'topbar.php' ?>
 
 
             <div class="row">
@@ -33,13 +28,16 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">MONEY MILLION</a></li>
-                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
-                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
-                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
+                                    <li><a href="moneymillion.php">MONEY MILLION</a></li>
+                                    <li><a href="yourmillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="moneyjackpot.php">MONEY JACKPOT</a></li>
+                                    <li><a href="winahouse.php">WIN A HOUSE</a></li>
+                                    <li><a href="winayacht.php">WIN A YACHT</a></li>
+                                    <li><a href="winacar.php">WIN A CAR</a></li>
                                     <li><a href="result.php">LOTTO RESULTS</a></li>
+                                    <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -59,7 +57,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Money Million and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Your Millions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -68,8 +66,10 @@
             
             </div>
 
+           
 
             <!-- Main Section -->
+
 
                 <div class="row">
 
@@ -113,9 +113,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
-                                                        <h1>&euro;150 200 000</h1>
-                                                        <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
+                                                        <h1>&euro;189 500 000</h1>
+                                                        <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
                                                 </div>
 
@@ -165,11 +165,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add1">
-                                                                                    
-                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
+                                                                            <tbody class="add6">
                                                                                 
+                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
                                                                             </tbody>
 
@@ -181,14 +179,100 @@
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
                                                                         <table class="table" id="bonus-display-in-mobile">
-                                                                         
-                                                                            <tbody>
+
+                                                                            <tbody class="bonustable11">
                                                                                 
                                                                         
 
+                                                                            </tbody>
+
+                                                                        </table>
+
+
+                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
+                                                                    </div>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        
+                                                        </div>
+
+                                                        <div class="col-md-2 margin-increase">
+
+                                                            <div class="panel panel-default no-border">
+                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-body checkbox-body">
+
+                                                                    <div class="table-responsive table-borderless">
+
+                                                                        <table class="table">
+
+                                                                            <tbody class="add7">
+                                                                                
+                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
+
+                                                                               
+                                                                            </tbody>
+
+                                                                        </table>
+
+                                                                    
+                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+
+                                                                        <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
+
+                                                                        <table class="table" id="bonus-display-in-mobile">
+
+                                                                            <tbody class="bonustable12">
+                                                                          
+
+                                                                            </tbody>
+
+                                                                        </table>
+
+
+                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+
+
+                                                                    </div>
+                                                                    
+                                                                </div>
+                                                            </div>
+                                                        
+                                                        </div>
+
+
+                                                        <div class="col-md-2 margin-increase">
+
+                                                            <div class="panel panel-default no-border">
+                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-body checkbox-body">
+
+                                                                    <div class="table-responsive table-borderless">
+
+                                                                        <table class="table">
+
+                                                                            <tbody class="add8">
+                                                                                
+                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
+
+                                                                                
+                                                                            </tbody>
+
+                                                                        </table>
+
+                                                                    
+                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+
+                                                                        <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
+
+                                                                        <table class="table" id="bonus-display-in-mobile">
+
+                                                                            <tbody class="bonustable13">
                                                                               
-
-                                                                            </tbody> 
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -203,6 +287,7 @@
                                                         
                                                         </div>
 
+
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
@@ -213,13 +298,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add2">
-                                                                                
-                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
+                                                                            <tbody class="add9">
                                                                                
 
-
                                                                             </tbody>
 
                                                                         </table>
@@ -231,61 +312,9 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                             <tbody>
-                                                                                
-                                                                        
-
-                                                                                
-
-                                                                            </tbody> 
-
-                                                                        </table>
-
-
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
-
-
-                                                                    </div>
-                                                                    
-                                                                </div>
-                                                            </div>
-                                                        
-                                                        </div>
-
-
-                                                        <div class="col-md-2 margin-increase">
-
-                                                            <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
-                                                                <div class="panel-body checkbox-body">
-
-                                                                    <div class="table-responsive table-borderless">
-
-                                                                    <table class="table">
-
-                                                                            <tbody class="add3">
-                                                                                
-                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
-                                                                                
-
-
+                                                                            <tbody class="bonustable14">
+                                                                             
                                                                             </tbody>
-
-                                                                        </table>
-
-                                                                    
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
-
-                                                                        <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
-
-                                                                        <table class="table" id="bonus-display-in-mobile">
- 
-                                                                             <tbody>
-                                                                                 
-                                                                        
- 
-                                                                            </tbody>  
 
                                                                         </table>
 
@@ -311,12 +340,10 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add4">
+                                                                            <tbody class="add10">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
-                                                                               
-                                                                                
 
 
                                                                             </tbody>
@@ -330,59 +357,10 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                             <tbody>
+                                                                            <tbody class="bonustable15">
                                                                                 
                                                                         
-
-                                                                            </tbody> 
-
-                                                                        </table>
-
-
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
-
-
-                                                                    </div>
-                                                                    
-                                                                </div>
-                                                            </div>
-                                                        
-                                                        </div>
-
-
-                                                        <div class="col-md-2 margin-increase">
-
-                                                            <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
-                                                                <div class="panel-body checkbox-body">
-
-                                                                    <div class="table-responsive table-borderless">
-
-                                                                        <table class="table">
-
-                                                                            <tbody class="add5">
-                                                                                
-                                                                                <h4 class="mobile-display-heading">Pick 5 Number</h4>
-
-                                                                                
-
                                                                             </tbody>
-
-                                                                        </table>
-
-                                                                    
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
-
-                                                                        <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
-
-                                                                        <table class="table" id="bonus-display-in-mobile">
-
-                                                                             <tbody>
-                                                                                
-                                                                        
-
-
-                                                                            </tbody> 
 
                                                                         </table>
 
@@ -408,7 +386,7 @@
                                                 <!-- Bonus Section -->
 
 
-                                                <!-- <div class="row mobile-hide">
+                                                <div class="row mobile-hide">
 
                                                     <div class="container">
                                                         
@@ -423,7 +401,7 @@
                                                 </div>
 
 
-                                                 <div class="row mobile-hide">
+                                                <div class="row mobile-hide">
 
                                                     <div class="container">
 
@@ -440,68 +418,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
-                                                                                
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
+                                                                            <tbody class="bonustable16">
+                                                                               
 
                                                                             </tbody>
 
@@ -527,69 +445,9 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable17">
                                                                                 
                                                                         
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
-
                                                                             </tbody>
 
                                                                         </table>
@@ -615,69 +473,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable18">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
-
                                                                             </tbody>
 
                                                                         </table>
@@ -702,68 +499,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable19">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
 
                                                                             </tbody>
 
@@ -788,68 +525,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody>
+                                                                            <tbody class="bonustable20">
                                                                                 
-                                                                        
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >1</a></td>
-                                                                                    <td><a >2</a></td>
-                                                                                    <td><a >3</a></td>
-                                                                                    <td><a >4</a></td>
-                                                                                    <td><a >5</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a >6</a></td>
-                                                                                    <td><a >7</a></td>
-                                                                                    <td><a >8</a></td>
-                                                                                    <td><a >9</a></td>
-                                                                                    <td><a  class="extra-padding">10</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">11</a></td>
-                                                                                    <td><a  class="extra-padding">12</a></td>
-                                                                                    <td><a  class="extra-padding">13</a></td>
-                                                                                    <td><a  class="extra-padding">14</a></td>
-                                                                                    <td><a  class="extra-padding">15</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">16</a></td>
-                                                                                    <td><a  class="extra-padding">17</a></td>
-                                                                                    <td><a  class="extra-padding">18</a></td>
-                                                                                    <td><a  class="extra-padding">19</a></td>
-                                                                                    <td><a  class="extra-padding">20</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">21</a></td>
-                                                                                    <td><a  class="extra-padding">22</a></td>
-                                                                                    <td><a  class="extra-padding">23</a></td>
-                                                                                    <td><a  class="extra-padding">24</a></td>
-                                                                                    <td><a  class="extra-padding">25</a></td>
-
-                                                                                </tr>
-
-                                                                                <tr class="upper-border">
-
-                                                                                    <td><a  class="extra-padding">26</a></td>
-                                                                        
-                                                                                </tr>
-
-
-                                                                            
 
                                                                             </tbody>
 
@@ -870,7 +547,7 @@
 
                                                     </div>
 
-                                                </div>  -->
+                                                </div>
 
                                                 <!-- Bonus Section end here -->
 
@@ -1058,7 +735,7 @@
                                     </section>
 
                                 </div>
-  
+
                                 <div id="menu1" class="tab-pane fade">
                                     
                                     <section>
@@ -1086,9 +763,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
-                                                        <h1>&euro;150 200 000</h1>
-                                                        <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
+                                                        <h1>&euro;189 500 000</h1>
+                                                        <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
                                                 </div>
 
@@ -1130,13 +807,12 @@
 
                                                                         <table class="table">
 
-                                                                             <tbody class="add6">
+                                                                            <tbody class="system-add-table3">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
-                                                                                
-
-                                                                            </tbody> 
+                                                                               
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -1147,11 +823,9 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                             <tbody>
-                                                                                
-                                                                        
-
-                                                                            </tbody> 
+                                                                            <tbody class="systembonustable5">
+                                                                              
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -1226,11 +900,10 @@
 
                                                                         <table class="table">
 
-                                                                             <tbody>
+                                                                            <tbody class="systembonustable6">
                                                                                 
                                                                         
-                                                                
-                                                                            </tbody> 
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -1369,7 +1042,7 @@
 
                                 </div>
 
-  
+
                                 <div id="menu2" class="tab-pane fade">
                                     
                                     <section>
@@ -1398,9 +1071,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MONEY MILLION ONLINE</h4>
-                                                        <h1>&euro;150 200 000</h1>
-                                                        <h5>DRAW ON THU 07:59 & SUN 07:59</h4>
+                                                        <h4>PLAY YOUR MILLIONS ONLINE</h4>
+                                                        <h1>&euro;189 500 000</h1>
+                                                        <h5>DRAWS ON WED 08:00 & SAT 08:00</h4>
                                                     </div>
                                                 </div>
 
@@ -1446,14 +1119,13 @@
 
                                                                         <table class="table">
 
-                                                                             <tbody class="add7">
+                                                                            <tbody class="system-add-table4">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
-                                                                                
 
 
-                                                                            </tbody> 
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -1463,14 +1135,12 @@
                                                                         <h4 class="mobile-display-heading" style="font-size:13px;">...And Pick 1 or more bonus number</h4>
 
                                                                         <table class="table" id="bonus-display-in-mobile">
-                                                                                         
-                                                                            <tbody class="bonust1">
+
+                                                                            <tbody class="systembonustable7">
                                                                                 
                                                                         
 
-                                                                                
-
-                                                                            </tbody> 
+                                                                            </tbody>
 
                                                                         </table>
 
@@ -1512,8 +1182,8 @@
 
                                                 <!-- Bonus Section -->
 
- 
-                                                 <div class="row mobile-hide">
+
+                                                <div class="row mobile-hide">
 
                                                     <div class="container">
                                                         
@@ -1545,10 +1215,8 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonust2">
-                                                                            
-
-                                                                                
+                                                                            <tbody class="systembonustable8">
+                                                                              
                                                                             </tbody>
 
                                                                         </table>
@@ -1576,7 +1244,7 @@
 
                                                     </div>
 
-                                                </div>  
+                                                </div>
 
                                                 <!-- Bonus Section end here -->
 
@@ -1687,8 +1355,8 @@
                                     </section>
 
 
-                                </div> 
-                               
+                                </div>
+                            
                             </div>
 
                             
@@ -1698,7 +1366,7 @@
                     </scetion>
 
                 </div>
-                
+               
             <!-- Main Section Ends Here-->
 
 
@@ -1859,7 +1527,7 @@
 
 
 
-           <?php include 'payment.php'?>
+           <?php include 'payment.php' ?>
 
             <!-- Description -->
 
@@ -1873,43 +1541,23 @@
 
                             <h6>
                                 <p>
-                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, moneyyours is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
-                                    
+                                Your Millions is an American lottery available in most parts of the USA - as well as online, courtesy of moneyyours.com. The first Your Millions draw took place 2002 and since then, plenty of lucky people have managed to hit the Your Millions winning numbers to win the ever so big jackpot, which always starts at $15 million.
+                                
+                                <br><br><br>
+                                The Your Millions lottery is played like this:
                                     <ul style="margin-left:2%;">
 
-                                        <li>Pick five numbers between 1 and 69 (inclusive)</li>
-                                        <li>Pick an additional number (Money Million) between 1 and 26 (inclusive)</li>
-                                        <li>Wait for the draw, which takes place every Wednesday and Saturday at 10:59 P.M. Eastern Time.</li>
+                                        <li>Player selects five numbers between 1 and 75</li>
+                                        <li>Player also picks an additional number between 1 and 15</li>
+                                        <li>Wait for the draw, which takes place every Tuesday and Friday at 10:59 P.M. Eastern Time.</li>
 
                                     </ul>
 
-                                    If you can’t decide what numbers to choose for the next Money Million drawing, you can always use a Quick Pick option, which will automatically generate random numbers for you. Just make sure to pick your numbers at least four hours before the Money Million drawing time, because that’s when the sales close.
+                                    The biggest jackpot on Your Millions, as well as in lotto history, was $656.000.000 and happened on the 30th of March 2012.
 
                                     <br><br>
-                                    If you’re sitting here wondering “How can I win Money Million?” there are nine ways to net prizes of different value, ranging from $4 to at least $40 million:
+                                    Play Your Millions and other USA lotteries online with moneyyours!
                                     <br><br>
-                                    <ul style="margin-left:2%;">
-
-                                        <li>Match 5 main numbers + Money Million = Jackpot</li>
-                                        <li>Match 5 main numbers = $1 million</li>
-                                        <li>Match 4 main numbers + Money Million = $50.000</li>
-                                        <li>Match 4 main numbers = $100</li>
-                                        <li>Match 3 main numbers + Money Million = $100</li>
-                                        <li>Match 3 main numbers = $7</li>
-                                        <li>Match 2 main numbers + Money Million = $7</li>
-                                        <li>Match 1 main number + Money Million = $4</li>
-                                        <li>Match Money Million = $4</li>
-
-
-                                    </ul>
-
-                                    The jackpot is won by matching the five white balls and the red PMoney Million. It will increase at a minimum of $10 million after every drawing that fails to produce a jackpot winner, and it was known to rise to $1.58 billion. If there is more than one Grand Prize winner, the jackpot is divided equally among them. All other prizes, from $1 million down to $4, are fixed prize amounts, and are paid in full to each winner.
-                                    <br><br>
-                                    Money Million also has a special feature that provides player with an opportunity to increase their non-jackpot prizes, called Power Play. If you select the Power Play option while buying your ticket, your prize could multiply 2, 3, 4 or 5 times, depending on the Power Play number drawn. A 10x multiplier is also available, but only when the jackpot is at or below $150 million.
-                                    <br><br>
-                                    The winning Money Million numbers can always be found on our results page right after the draw takes place, and that’s also where you can find information on payouts. If you’re a Money Million winner and want to know how to redeem Money Million prize, this will be announced on your dashboard as well as by email and/or telephone. All the winnings under $600 will be transferred to your moneyyours account, and if you win larger prize we will assist you to claim it in the best way possible.
-                                    <br><br>
-                                    Play Money Million online with moneyyours!
                                 
                                 </p>
                             
@@ -1923,62 +1571,17 @@
 
             <!-- Description Ends here -->
         
-            <?php include 'footer.php'?>
+           <?php include 'footer.php' ?>
+
         </div>
 
-        
+
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="js/main.js"></script> 
+         <script type="text/javascript" src="js/main.js"></script>  
         <script>
-
-            // var array-1 = [{
-            //     'value':1,
-            //     'checked':false
-            // },
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // ]
-
-            // var container = $('.upper-border'); 
-            
-            // counter =0;
-            // flag = false;
-            // for(var i = 1; i <= num; i++) {
-            //     if(!flag){
-            //         container.append('<tr id="id'+i+'" data-index='+i+'>);    
-            //         flag = true;
-            //     }
-            //     container.append('<a id="id'+i+'" data-index='+i+'>'+i+'</a>');
-            //     if((i % 5) == 0){
-            //         container.append('</tr>');
-            //         flag = false;
-            //     }
-            // }
 
                 $(document).ready(function(){
                      
@@ -2014,8 +1617,7 @@
                 });
 
         </script>
-     
-          
+        
         <script>
             $(document).ready(function() {
             $('.sev_check').each(function() {
@@ -2030,6 +1632,7 @@
             });
             });    
         </script>
+
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 

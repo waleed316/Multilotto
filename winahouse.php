@@ -18,6 +18,7 @@
             
             <?php include 'topbar.php' ?>
 
+
             <div class="row">
 
                 <div class="section">
@@ -33,13 +34,16 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">MONEY MILLION</a></li>
-                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
-                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
-                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
+                                    <li><a href="moneymillion.php">MONEY MILLION</a></li>
+                                    <li><a href="yourmillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="moneyjackpot.php">MONEY JACKPOT</a></li>
+                                    <li><a href="winahouse.php">WIN A HOUSE</a></li>
+                                    <li><a href="winayacht.php">WIN A YACHT</a></li>
+                                    <li><a href="winacar.php">WIN A CAR</a></li>
                                     <li><a href="result.php">LOTTO RESULTS</a></li>
+                                    <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -59,7 +63,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Euromillions Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Welcome to moneyyours.com. Buy lottery tickets, play Win a House Lotto and make your dream come true!<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -71,6 +75,7 @@
            
 
             <!-- Main Section -->
+
 
                 <div class="row">
 
@@ -94,7 +99,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/54a6b12e4c9fa.jpg" class="img-responsive" style="width:100%;">
+                                                <img src="images/549032b804221.jpg" class="img-responsive" style="width:100%;">
                                     
                                             </div>
                                             
@@ -114,9 +119,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY CALIFORNIA SUPERLOTTO ONLINE</h4>
-                                                        <h1>&euro;48 200 000</h1>
-                                                        <h5>DRAWS ON THU 07:45 & SUN 07:45</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
+                                                        <h1>&euro;10 000 000</h1>
+                                                        <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
                                                 </div>
 
@@ -2049,7 +2054,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/ticket_system.jpg" class="img-responsive" style="width:100%">
+                                                <img src="images/54903253aa2b1.jpg" class="img-responsive" style="width:100%">
 
                                             </div>
                                             
@@ -2068,9 +2073,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY CALIFORNIA SUPERLOTTO ONLINE</h4>
-                                                        <h1>&euro;48 200 000</h1>
-                                                        <h5>DRAWS ON THU 07:45 & SUN 07:45</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
+                                                        <h1>&euro;10 000 000</h1>
+                                                        <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
                                                 </div>
 
@@ -2585,7 +2590,7 @@
 
                                             <div class="col-md-12 bg-img-pos">
 
-                                                <img src="images/ticket_system.jpg" class="img-responsive" style="width:100%">
+                                                <img src="images/5490325c9a124.jpg" class="img-responsive" style="width:100%">
 
                                             </div>
                                             
@@ -2605,9 +2610,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY CALIFORNIA SUPERLOTTO ONLINE</h4>
-                                                        <h1>&euro;48 200 000</h1>
-                                                        <h5>DRAWS ON THU 07:45 & SUN 07:45</h4>
+                                                        <h4>PLAY WIN A HOUSE ONLINE</h4>
+                                                        <h1>&euro;10 000 000</h1>
+                                                        <h5>DRAWS ON SAT 00:00</h4>
                                                     </div>
                                                 </div>
 
@@ -3287,7 +3292,8 @@
             <!-- Statistics section Ends here -->
 
 
-            <?php include 'payment.php'?>
+
+           <?php include 'payment.php'?>
 
             <!-- Description -->
 
@@ -3301,25 +3307,26 @@
 
                             <h6>
                                 <p>
-                                Euromillions is one of the biggest lotteries in the world, known for its massive jackpots which have created plenty of new millionaires around Europe the last few years. Euro millions is run by several national european lotteries, including France’s Française des Jeux, Spain’s Loterías y Apuestas del Estado and the UK’s Camelot, all founding members of the lottery back in 2004.
+                                Win a House is a European transnational lottery which was launched in march 2012. The game is often called Euro lotto by players from northern Europe and Scandinavia. The Euro lottery jackpot starts at €10 million and can roll over to as much as €90 million!
                                 
                                 <br><br><br>
-                                To play Euromillions online, a player will:
+                                To play Win a House online, a player will:
                                     <ul style="margin-left:2%;">
 
-                                        <li>Select 5 normal Euromillions numbers between 1 and 50</li>
-                                        <li>Pick an additional two “Lucky Star” numbers between 1 and 12</li>
-                                        <li>Wait for the draw, which takes place each Tuesday and Friday at 9 P.M. CET in Paris</li>
+                                        <li>Select five numbers between 1 and 50</li>
+                                        <li>Select an additional two numbers between 1 and 10</li>
+                                        <li>Wait for the draw, which takes place at 8 P.M. CET every Friday in Helsinki</li>
 
                                     </ul>
 
-                                    The biggest jackpot ever won on Euromillions was more than €190 million big!
+                                    The current standing record for a Win a House win was recorded on the 12th of April 2013, when a sole winner from Germany took home the incredible €46,079,338 jackpot.
+
 
                                     <br><br>
-                                    Play Euromillions lotto online with moneyyours! Do not forget the Euromillions Superdraw that happens quite often and guarantees a jackpot of ca €100 million, regardless of whether or not the jackpot was won in the preceding draw.
+                                    Play Win a House online with moneyyours!
                                     <br><br>
     
-                                    You can always find the latest and historical <a>Euromillions results</a> and payout published on moneyyours.com
+                                    You can find all the latest <a>Win a House results</a> and play Win a House at moneyyours.com
                                 
                                 </p>
                             
@@ -3331,9 +3338,8 @@
 
                 </div>
 
-            <!-- Description Ends here -->
-        
-
+            <!-- Description Ends here -->          
+           
             <?php include 'footer.php'?>
 
 

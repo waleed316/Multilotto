@@ -1,819 +1,364 @@
-$(document).ready(function() {
-    
-    for(var j = 1; j <=5; j++){
-        flag=false;
-        var list1 =[];
-        for(var i = 1; i <= 69; i++){
-            
-            list1.push({'value':i,'checked':false});
-            
-            if(!flag){
-                $("tbody.add"+j).append("<tr class=\"upper-border\">")
-                flag=true;
-                
+$(document).ready(function () {
+
+    // generate number 1 to 69 for money millions and put selected numbers in arrays box1
+
+        for (var j = 1; j <= 10; j++) {
+            flag = false;
+            var list1 = [];
+            for (var i = 1; i <= 69; i++) {
+
+                list1.push({ 'value': i, 'checked': false });
+
+                if (!flag) {
+                    $("tbody.add" + j).append("<tr class=\"upper-border\">")
+                    flag = true;
+
+                }
+
+                $('tbody.add' + j + ' tr.upper-border:last').append('<td><a id=add' + j + ' data-index=' + i + '>' + i + '</a></td>');
+
+                if (i % 5 == 0) {
+                    $("tr.upper-border:last").append('</tr>');
+
+                    flag = false;
+
+                }
+
+                if (i > 9) {
+                    $("td:gt(8) a").addClass("extra-padding");
+                }
+
+
             }
-    
-            $('tr.upper-border:last').append('<td><a id=add'+j+' data-index='+i+'>'+i+'</a></td>');
-            
-            if( i%5 == 0 ){
-                $("tr.upper-border:last").append('</tr>');
-                
-                flag=false;
-                
-            }
-            
-            if(i>9){
-                $("td:gt(8) a").addClass("extra-padding");
-            }		
-            
             
 
         }
-
-    }
-
-
-    for(var k = 6; k <=7; k++){
-        flag=false;
-        var list2 =[];
-        for(var i = 1; i <= 69; i++){
-            
-            list2.push({'value':i,'checked':false});
-            
-            if(!flag){
-                $("tbody.add"+k).append("<tr class=\"upper-border\">")
-                flag=true;
-                
-            }
-    
-            $('tr.upper-border:last').append('<td><a id=add'+k+' data-index='+i+'>'+i+'</a></td>');
-            
-            if( i%7 == 0 ){
-                $("tr.upper-border:last").append('</tr>');
-                
-                flag=false;
-                
-            }
-            
-            if(i>9){
-                $("td:gt(8) a").addClass("extra-padding");
-            }		
-            
-            
-
-        }
-
-    }
-
-
+    // end of money millions list
 
     // bonus section boxes
-    for(var h = 1; h <=2; h++){
-        flag=false;
-        var list3 =[];
-        for(var i = 1; i <= 26; i++){
-            
-            list3.push({'value':i,'checked':false});
-            
-            if(!flag){
-                $("tbody.bonust"+h).append("<tr class=\"upper-border\">")
-                flag=true;
-                
+        for (var h = 1; h <= 20; h++) {
+            flag = false;
+            var list3 = [];
+            for (var i = 1; i <= 26; i++) {
+
+                list3.push({ 'value': i, 'checked': false });
+
+                if (!flag) {
+                    $("tbody.bonustable" + h).append("<tr class=\"upper-border\">")
+                    flag = true;
+
+                }
+
+                $('tbody.bonustable' + h + ' tr.upper-border:last').append('<td><a id=btadd' + h + ' data-index=' + i + '>' + i + '</a></td>');
+
+                if (i % 5 == 0) {
+                    $("tr.upper-border:last").append('</tr>');
+
+                    flag = false;
+
+                }
+
+                if (i > 9) {
+                    $("td:gt(8) a").addClass("extra-padding");
+                }
+
             }
-    
-            $('tr.upper-border:last').append('<td><a id=btadd'+h+' data-index='+i+'>'+i+'</a></td>');
-            
-            if( i%7 == 0 ){
-                $("tr.upper-border:last").append('</tr>');
-                
-                flag=false;
-                
-            }
-            
-            if(i>9){
-                $("td:gt(8) a").addClass("extra-padding");
-            }		
-            
-            
+
+
 
         }
 
-    }
+    // bonus table end here
 
 
 
+    // Generate System and Group Play section Numbers 
 
-   
+        for (var k = 1; k <= 4; k++) {
+            flag = false;
+            var list2 = [];
+            for (var i = 1; i <= 69; i++) {
 
+                list2.push({ 'value': i, 'checked': false });
 
+                if (!flag) {
+                    $("tbody.system-add-table" + k).append("<tr class=\"upper-border\">")
+                    flag = true;
 
+                }
 
+                $('tbody.system-add-table' + k + ' tr.upper-border:last').append('<td><a id=sysaddbtn' + k + ' data-index=' + i + '>' + i + '</a></td>');
 
+                if (i % 7 == 0) {
+                    $("tr.upper-border:last").append('</tr>');
 
+                    flag = false;
 
+                }
 
+                if (i > 9) {
+                    $("td:gt(8) a").addClass("extra-padding");
+                }
 
-
-
-
-
-
-
-
-
-
-
-
-// single game boxes
-
-    var box1 = [];
-            
-    $( "a#add1" ).click(function() {
-        
-            
-        if(box1.length<5){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(box1) {
-                return box1.data === data;
             }
-            
-            var task = box1.find(findbydata);
-            
 
-            if(task){
-                
-                var index = box1.indexOf(task);
-                box1.splice(index,1);
-                
-            
+        }
+
+    // Generate System and Group Play section Numbers 
+
+
+    // bonus sction for system and group play section
+        for (var i = 1; i <= 8; i++) {
+            flag = false;
+            var list4 = [];
+            for (var j = 1; j <= 26; j++) {
+
+                list4.push({ j });
+
+                if (!flag) {
+                    $("tbody.systembonustable" + i).append("<tr class=\"upper-border\">")
+                    flag = true;
+
+                }
+
+                $('tbody.systembonustable' + i + ' tr.upper-border:last').append('<td><a id=systembtnadd' + i + ' data-index=' + j + '>' + j + '</a></td>');
+
+                if (j % 7 == 0) {
+                    $("tr.upper-border:last").append('</tr>');
+
+                    flag = false;
+
+                }
+
+                if (i > 9) {
+                    $("td:gt(8) a").addClass("extra-padding");
+                }
+
             }
-            else{
-                
-                box1.push({data});
+
+        }
+
+    // End bonus sction of system and group play section
+
+
+    // single player game boxes
+
+        var box = [];
+        for (var i = 1; i <= 10; i++)
+            box[i] = [];
+        for (var i = 1; i <= 10; i++) {
+            $("a#add" + i).click(createCallback(i))
+        }
+
+        function createCallback(i) {
+            return function () {
+                if (box[i].length < 5) {
+                    $(this).toggleClass("background_color");
+                    var data = $(this).data('index');
+
+                    function findbydata(i) {
+                        return i.data == data;
+                    }
+                    var task = box[i].find(findbydata);
+                    if (task) {
+                        var index = box[i].indexOf(task);
+                        box[i].splice(index, 1);
+                    }
+                    else {
+                        box[i].push({ data });
+
+                    }
+                    console.table(box[i]);
+                }
+                else {
+
+                    var data = $(this).data('index');
+                    function findbydata(i) {
+                        return i.data == data;
+                    }
+                    var task = box[i].find(findbydata);
+
+                    if (task) {
+                        var index = box[i].indexOf(task);
+                        box[i].splice(index, 1);
+                        $(this).toggleClass("background_color");
+
+
+                    }
+                }
+            }
+        }
+
+
+
+    // single box end here
+
+
+    // Bonus Selection game boxes
+
+        var bonusbox = [];
+        for (var j = 1; j <= 10; j++)
+            bonusbox[j] = [];
+        for (var k = 1; k <= 10; k++) 
+            $("a#btadd" + k).click(createCallback1(k))
+
+        function createCallback1(k) {
+            return function () {
+                if (bonusbox[k].length < 1) {
+                    $(this).toggleClass("background_color");
+                    var data = $(this).data('index');
+
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = bonusbox[k].find(findbydata);
+                    if (task) {
+                        var index = bonusbox[k].indexOf(task);
+                        bonusbox[k].splice(index, 1);
+                    }
+                    else {
+                        bonusbox[k].push({ data });
+
+                    }
+                    console.table(bonusbox[k]);
+                }
+                else {
+
+                    var data = $(this).data('index');
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = bonusbox[k].find(findbydata);
+
+                    if (task) {
+                        var index = bonusbox[k].indexOf(task);
+                        bonusbox[k].splice(index, 1);
+                        $(this).toggleClass("background_color");
+
+
+                    }
+                }
+            }
+        }
+
+
+
+    // single box end here
+
+
+
+    // system Selection game boxes
+
+        var sysbox = [];
+        for (var j = 1; j <= 10; j++)
+            sysbox[j] = [];
+        for (var k = 1; k <= 10; k++) 
+            $("a#sysaddbtn" + k).click(createCallback2(k))
+
+        function createCallback2(k) {
+            return function () {
+                if (sysbox[k].length < 12) {
+                    $(this).toggleClass("background_color");
+                    var data = $(this).data('index');
+
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = sysbox[k].find(findbydata);
+                    if (task) {
+                        var index = sysbox[k].indexOf(task);
+                        sysbox[k].splice(index, 1);
+                    }
+                    else {
+                        sysbox[k].push({ data });
+
+                    }
+                    console.table(sysbox[k]);
+                }
+                else {
+
+                    var data = $(this).data('index');
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = sysbox[k].find(findbydata);
+
+                    if (task) {
+                        var index = sysbox[k].indexOf(task);
+                        sysbox[k].splice(index, 1);
+                        $(this).toggleClass("background_color");
+
+
+                    }
+                }
+            }
+        }
+
+
+
+    // single box end here
+
+
+      // system Selection game boxes
+
+        var sysbonusbox = [];
+        for (var j = 1; j <= 10; j++)
+            sysbonusbox[j] = [];
+        for (var k = 1; k <= 10; k++) 
+            $("a#systembtnadd" + k).click(createCallback3(k))
+
+        function createCallback3(k) {
+            return function () {
+                if (sysbonusbox[k].length < 2) {
+                    $(this).toggleClass("background_color");
+                    var data = $(this).data('index');
+
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = sysbonusbox[k].find(findbydata);
+                    if (task) {
+                        var index = sysbonusbox[k].indexOf(task);
+                        sysbonusbox[k].splice(index, 1);
+                    }
+                    else {
+                        sysbonusbox[k].push({ data });
+
+                    }
+                    console.table(sysbonusbox[k]);
+                }
+                else {
+
+                    var data = $(this).data('index');
+                    function findbydata(k) {
+                        return k.data == data;
+                    }
+                    var task = sysbonusbox[k].find(findbydata);
+
+                    if (task) {
+                        var index = sysbonusbox[k].indexOf(task);
+                        sysbonusbox[k].splice(index, 1);
+                        $(this).toggleClass("background_color");
+
+
+                    }
+                }
+            }
+        }
+
+
+
+    // single box end here
     
-            }
-            console.table(box1);
-        } 
 
-        else{
 
-            var data = $(this).data('index');
 
-            function findbydata(box1) {
-                return box1.data === data;
-            }
-            
-            var task = box1.find(findbydata);
-            
 
-            if(task){
-                
-                var index = box1.indexOf(task);
-                box1.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
+});
 
 
-    });
-
-
-    var box2 = [];
-            
-    $( "a#add2" ).click(function() {
-        
-            
-        if(box2.length<5){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(box2) {
-                return box2.data === data;
-            }
-            
-            var task = box2.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box2.indexOf(task);
-                box2.splice(index,1);
-                
-            
-            }
-            else{
-                
-                box2.push({data});
-    
-            }
-            console.table(box2);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(box2) {
-                return box2.data === data;
-            }
-            
-            var task = box2.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box2.indexOf(task);
-                box2.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-            
-            }
-        }     
-
-
-    });
-
-
-
-
-    var box3 = [];
-            
-    $( "a#add3" ).click(function() {
-        
-            
-        if(box3.length<5){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(box3) {
-                return box3.data === data;
-            }
-            
-            var task = box3.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box3.indexOf(task);
-                box3.splice(index,1);
-                
-            
-            }
-            else{
-                
-                box3.push({data});
-    
-            }
-            console.table(box3);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(box3) {
-                return box3.data === data;
-            }
-            
-            var task = box3.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box3.indexOf(task);
-                box3.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-
-    var box4 = [];
-            
-    $( "a#add4" ).click(function() {
-        
-            
-        if(box4.length<5){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(box4) {
-                return box4.data === data;
-            }
-            
-            var task = box4.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box4.indexOf(task);
-                box4.splice(index,1);
-                
-            
-            }
-            else{
-                
-                box4.push({data});
-    
-            }
-            console.table(box4);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(box4) {
-                return box4.data === data;
-            }
-            
-            var task = box4.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box4.indexOf(task);
-                box4.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-
-    var box5 = [];
-            
-    $( "a#add5" ).click(function() {
-        
-            
-        if(box5.length<5){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(box5) {
-                return box5.data === data;
-            }
-            
-            var task = box5.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box5.indexOf(task);
-                box5.splice(index,1);
-                
-            
-            }
-            else{
-                
-                box5.push({data});
-    
-            }
-            console.table(box5);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(box5) {
-                return box5.data === data;
-            }
-            
-            var task = box5.find(findbydata);
-            
-
-            if(task){
-                
-                var index = box5.indexOf(task);
-                box5.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-// single game boxes end
-
-
-
-
-
-
-
-
-
-
-// system game box
-
-     var sysbox = [];
-            
-    $( "a#add6" ).click(function() {
-        
-            
-        if(sysbox.length<12){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(sysbox) {
-                return sysbox.data === data;
-            }
-            
-            var task = sysbox.find(findbydata);
-            
-
-            if(task){
-                
-                var index = sysbox.indexOf(task);
-                sysbox.splice(index,1);
-                
-            
-            }
-            else{
-                
-                sysbox.push({data});
-    
-            }
-            console.table(sysbox);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(sysbox) {
-                return sysbox.data === data;
-            }
-            
-            var task = sysbox.find(findbydata);
-            
-
-            if(task){
-                
-                var index = sysbox.indexOf(task);
-                sysbox.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-// system game box end here
-
-
-
-
-
-
-
-
-
-
-
-
-// multiplayer game box
-
-     var mulbox = [];
-            
-    $( "a#add7" ).click(function() {
-        
-            
-        if(mulbox.length<12){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(mulbox) {
-                return mulbox.data === data;
-            }
-            
-            var task = mulbox.find(findbydata);
-            
-
-            if(task){
-                
-                var index = mulbox.indexOf(task);
-                mulbox.splice(index,1);
-                
-            
-            }
-            else{
-                
-                mulbox.push({data});
-    
-            }
-            console.table(mulbox);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(mulbox) {
-                return mulbox.data === data;
-            }
-            
-            var task = mulbox.find(findbydata);
-            
-
-            if(task){
-                
-                var index = mulbox.indexOf(task);
-                mulbox.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-// multiplayer game box end here
-
-
-
-
-
-
-
-
-
-
-
-
-
-// bonus game box
-
-     var bonusbox1 = [];
-            
-    $( "a#btadd1" ).click(function() {
-        
-            
-        if(bonusbox1.length<2){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(bonusbox1) {
-                return bonusbox1.data === data;
-            }
-            
-            var task = bonusbox1.find(findbydata);
-            
-
-            if(task){
-                
-                var index = bonusbox1.indexOf(task);
-                bonusbox1.splice(index,1);
-                
-            
-            }
-            else{
-                
-                bonusbox1.push({data});
-    
-            }
-            console.table(bonusbox1);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(bonusbox1) {
-                return bonusbox1.data === data;
-            }
-            
-            var task = bonusbox1.find(findbydata);
-            
-
-            if(task){
-                
-                var index = bonusbox1.indexOf(task);
-                bonusbox1.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-
-
-
-    var bonusbox2 = [];
-            
-    $( "a#btadd2" ).click(function() {
-        
-            
-        if(bonusbox2.length<2){
-
-            $( this ).toggleClass( "background_color" );
-            var data = $(this).data('index');
-            
-            function findbydata(bonusbox2) {
-                return bonusbox2.data === data;
-            }
-            
-            var task = bonusbox2.find(findbydata);
-            
-
-            if(task){
-                
-                var index = bonusbox2.indexOf(task);
-                bonusbox2.splice(index,1);
-                
-            
-            }
-            else{
-                
-                bonusbox2.push({data});
-    
-            }
-            console.table(bonusbox2);
-        } 
-
-        else{
-
-            var data = $(this).data('index');
-
-            function findbydata(bonusbox2) {
-                return bonusbox2.data === data;
-            }
-            
-            var task = bonusbox2.find(findbydata);
-            
-
-            if(task){
-                
-                var index = bonusbox2.indexOf(task);
-                bonusbox2.splice(index,1);
-                $( this ).toggleClass( "background_color" );
-                
-            
-            }
-        }     
-
-
-    });
-
-
-
-    // var bonusbox3 = [];
-            
-    // $( "a#btadd3" ).click(function() {
-        
-            
-    //     if(bonusbox3.length<2){
-
-    //         $( this ).toggleClass( "background_color" );
-    //         var data = $(this).data('index');
-            
-    //         function findbydata(bonusbox3) {
-    //             return bonusbox3.data === data;
-    //         }
-            
-    //         var task = bonusbox3.find(findbydata);
-            
-
-    //         if(task){
-                
-    //             var index = bonusbox3.indexOf(task);
-    //             bonusbox3.splice(index,1);
-                
-            
-    //         }
-    //         else{
-                
-    //             bonusbox3.push({data});
-    
-    //         }
-    //         console.table(bonusbox3);
-    //     } 
-
-    //     else{
-
-    //         var data = $(this).data('index');
-
-    //         function findbydata(bonusbox3) {
-    //             return bonusbox3.data === data;
-    //         }
-            
-    //         var task = bonusbox3.find(findbydata);
-            
-
-    //         if(task){
-                
-    //             var index = bonusbox3.indexOf(task);
-    //             bonusbox3.splice(index,1);
-    //             $( this ).toggleClass( "background_color" );
-                
-            
-    //         }
-    //     }     
-
-
-    // });
-
-
-
-    // var bonusbox4 = [];
-            
-    // $( "a#btadd4" ).click(function() {
-        
-            
-    //     if(bonusbox4.length<2){
-
-    //         $( this ).toggleClass( "background_color" );
-    //         var data = $(this).data('index');
-            
-    //         function findbydata(bonusbox4) {
-    //             return bonusbox4.data === data;
-    //         }
-            
-    //         var task = bonusbox4.find(findbydata);
-            
-
-    //         if(task){
-                
-    //             var index = bonusbox4.indexOf(task);
-    //             bonusbox4.splice(index,1);
-                
-            
-    //         }
-    //         else{
-                
-    //             bonusbox4.push({data});
-    
-    //         }
-    //         console.table(bonusbox4);
-    //     } 
-
-    //     else{
-
-    //         var data = $(this).data('index');
-
-    //         function findbydata(bonusbox4) {
-    //             return bonusbox4.data === data;
-    //         }
-            
-    //         var task = bonusbox4.find(findbydata);
-            
-
-    //         if(task){
-                
-    //             var index = bonusbox4.indexOf(task);
-    //             bonusbox4.splice(index,1);
-    //             $( this ).toggleClass( "background_color" );
-                
-            
-    //         }
-    //     }     
-
-
-    // });
-
-
-// bonus game box end here
-
-
-
-
-
-
-
-
-
-
-
-});    
+function deletearry(){
+    while($(this.length)) {
+    arr.shift(); 
+  }
+}

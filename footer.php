@@ -35,12 +35,12 @@
                         <ul class="footer-ul">
 
                             <li><a class="active" href="index.php" >Play Lotto</a></li>
-                            <li><a href="euromillion.php" >Play Money Million</a></li>
-                            <li><a href="megamillion.php" >Play Your Millions</a></li>
-                            <li><a href="la_primitiva.php" >Money Jackpot</a></li>
-                            <li><a href="superEnalotto.php" >Win a house</a></li>
-                            <li><a href="california.php" >Win a Yacht</a></li>
-                            <li><a href="powerball.php" >Win a Car</a></li>
+                            <li><a href="moneymillion.php" >Play Money Million</a></li>
+                            <li><a href="yourmillion.php" >Play Your Millions</a></li>
+                            <li><a href="moneyjackpot.php" >Money Jackpot</a></li>
+                            <li><a href="winahouse.php" >Win a house</a></li>
+                            <li><a href="winayacht.php" >Win a Yacht</a></li>
+                            <li><a href="winacar.php" >Win a Car</a></li>
                             <!-- <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
                             <li><a href="mega.php" >Play Mega-Sena</a></li>
                             <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>

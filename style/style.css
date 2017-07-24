@@ -366,7 +366,7 @@
 
 .down-margin
     {
-        margin-top:         3%;
+        margin-top:         4%;
     }
 
 .green>a
@@ -1552,7 +1552,7 @@
     }
 
 
-    .cover-pic-headline>h3
+.cover-pic-headline>h3
     {
         color:                  white;
         font-weight:            bold;
@@ -1561,7 +1561,10 @@
     }
 
 
-
+.money-jackpot
+    {
+        font-size:              18px!important;
+    }
 
 
 
@@ -2620,5 +2623,13 @@ and (max-device-width : 1199px)
     {
         margin:             4px 0!important;
     }
+
+
+.money-jackpot
+    {
+        font-size:              15px!important;
+    }
+
+
 
 }

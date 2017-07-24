@@ -28,12 +28,12 @@
                             <nav>
                                 <ul>
                                     <li><a class="hm-dis" href="index.php">HOME</a></li>
-                                    <li><a href="powerball.php">MONEY MILLION</a></li>
-                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
-                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
-                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="moneymillion.php">MONEY MILLION</a></li>
+                                    <li><a href="yourmillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="moneyjackpot.php">MONEY JACKPOT</a></li>
+                                    <li><a href="winahouse.php">WIN A HOUSE</a></li>
+                                    <li><a href="winayacht.php">WIN A YACHT</a></li>
+                                    <li><a href="winacar.php">WIN A CAR</a></li>
                                     <li><a href="result.php">LOTTO RESULTS</a></li>
                                     <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
                                     <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
@@ -1249,7 +1249,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero ipad-setting no-margin"><br/>MONEYMILLIONS</h3>
+                                            <h3 class="pull-right margin-zero ipad-setting no-margin money-jackpot">MONEYMILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1265,7 +1265,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>YOURMILLIONS</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin">YOURMILLIONS</h3>
                                         </div>
                                     </a>
 
@@ -1281,7 +1281,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>MONEY JACKPOT</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin money-jackpot">MONEY JACKPOT</h3>
                                         </div>
                                     </a>
                                 </div>
@@ -1297,7 +1297,7 @@
 
                                         <div class="col-md-9 down-margin">
                                             <h6 class="pull-right margin-zero no-margin">THE BIGGEST JACKPOT ON</h6>
-                                            <h3 class="pull-right margin-zero full-text no-margin"><br/>WIN A HOUSE</h3>
+                                            <h3 class="pull-right margin-zero full-text no-margin">WIN A HOUSE</h3>
                                         </div>
                                     </a>
 

@@ -1,17 +1,17 @@
 <!doctype html>
 <html lang="en">
     
-            <?php include 'header.php' ?>
+    <?php include 'header.php' ?>
 
     
     
 
     <body>
 
-
+         
         <div class="container main-margin">
             
-            <?php include 'topbar.php'?>>
+            <?php include 'topbar.php'?>
 
 
             <div class="row">
@@ -29,13 +29,16 @@
                                 <!-- navigation -->
                             <nav>
                                 <ul>
-                                    <li><a href="powerball.php">MONEY MILLION</a></li>
-                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
-                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
-                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
-                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
+                                    <li><a class="hm-dis" href="index.php">HOME</a></li>
+                                    <li><a href="moneymillion.php">MONEY MILLION</a></li>
+                                    <li><a href="yourmillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="moneyjackpot.php">MONEY JACKPOT</a></li>
+                                    <li><a href="winahouse.php">WIN A HOUSE</a></li>
+                                    <li><a href="winayacht.php">WIN A YACHT</a></li>
+                                    <li><a href="winacar.php">WIN A CAR</a></li>
                                     <li><a href="result.php">LOTTO RESULTS</a></li>
+                                    <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                 </ul>
                             </nav> <!-- navigation end -->
                             
@@ -55,7 +58,7 @@
 
                    <div class="col-md-12 tagline-margin col-sm-12 col-xs-6">
 
-                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Everything you need to know about Mega-Sena Lotto, Mega-Sena Lottery's jackpot, results, winning numbers and draws.<span class="pull-right">time clock</span></h5>
+                        <h5 class="tag-line"><i class="fa fa-play" aria-hidden="true"></i> Everything you need to know about SuperEnaLotto, Super Ena Lotto's jackpot, results, winning numbers and draws.<span class="pull-right">time clock</span></h5>
                         
                    
                    </div>
@@ -111,9 +114,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MEGA-SENA ONLINE</h4>
-                                                        <h1>&euro;12 300 000</h1>
-                                                        <h5>DRAWS ON THU 04:00 & SUN 04:00</h4>
+                                                        <h4>WIN A YACHT ONLINE</h4>
+                                                        <h1>&euro;70 800 000</h1>
+                                                        <h5>DRAWS ON TUE 22:30, THU 22:30 & SAT 23:30</h4>
                                                     </div>
                                                 </div>
 
@@ -1257,9 +1260,9 @@
                                                 <div class="col-md-12">
 
                                                     <div class="text">
-                                                        <h4>PLAY MEGA-SENA ONLINE</h4>
-                                                        <h1>&euro;12 300 000</h1>
-                                                        <h5>DRAWS ON THU 04:00 & SUN 04:00</h4>
+                                                        <h4>WIN A YACHT ONLINE</h4>
+                                                        <h1>&euro;70 800 000</h1>
+                                                        <h5>DRAWS ON TUE 22:30, THU 22:30 & SAT 23:30</h4>
                                                     </div>
                                                 </div>
 
@@ -1616,10 +1619,10 @@
 
                                                 <div class="col-md-12">
 
-                                                    <div class="text">
-                                                        <h4>PLAY MEGA-SENA ONLINE</h4>
-                                                        <h1>&euro;12 300 000</h1>
-                                                        <h5>DRAWS ON THU 04:00 & SUN 04:00</h4>
+                                                   <div class="text">
+                                                        <h4>WIN A YACHT ONLINE</h4>
+                                                        <h1>&euro;70 800 000</h1>
+                                                        <h5>DRAWS ON TUE 22:30, THU 22:30 & SAT 23:30</h4>
                                                     </div>
                                                 </div>
 
@@ -2119,7 +2122,7 @@
 
 
 
-           <?php include 'payment.php' ?>
+            <?php include 'payment.php'?>
 
             <!-- Description -->
 
@@ -2257,12 +2260,14 @@
 
         </script>
         
-        <script>
+         <script>
                 $( "a" ).click(function() {
                 $( this ).toggleClass( "background_color" );
                 });
-        </script>
+            </script>
           
+
+
 
         <script>
             $(document).ready(function() {
@@ -2279,7 +2284,43 @@
             });    
         </script>
 
+        <!--<script>    
+
+            (function()
+                {
+                    var v1 = document.getElementById('s_fac').value;
+
+                    if(document.getElementById("s_fac").checked == true )
+                        {
+                            document.getElementById('draw-no').innerHTML = v1
+                        }
+                }
+            )
+            ()
+            
+           
+        </script>-->
+
+
+
+        <script>    
+
+            
+            var arr = [];
+            var len = 70;
+            for (var i = 1; i < len; i++) {
+                arr.push({
+                    lottery_no : [i]
+                });
+            }
+            
+           
+        </script>
+
+
         
+
+
 
         <!-- 80f601e453811a3a139a5120d2f103bf -->
 

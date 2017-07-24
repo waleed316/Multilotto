@@ -16,95 +16,7 @@
 
         <div class="container main-margin">
             
-            <div class="row">
-               
-                <section class="top-header-margin">
-
-                    <div class="col-md-2">
-
-                         <div>
-
-                           <a href="index.php"><img src="images/money_yours.png" class="img-responsive" ></a>
-
-                        </div>
-                        
-
-                    </div>
-                    
-                    <div class="col-md-6"></div>
-
-                    <div class="col-md-4">
-
-                        <section class="pull-right margin-signup-btn">
-                        
-                            <a href="" class="btn btn-primary btn-login">LOG IN</a>
-
-                            <a href="" class="btn btn-primary btn-signup">SIGN UP</a>
-
-                            <div class="dropdown pull-right">
-                                
-                                <a class="dropdown-toggle" data-toggle="dropdown">
-                                        
-                                        <img src="images/Flag_of_Pakistan.png" class="flag-height">
-                                        <span class="caret"></span>
-                                </a>
-                                    
-                                
-                                <form class="dropdown-menu form-horizontal" id="dropdown-login">
-                                    
-                                    <div class="form-group language-font">
-                                        
-
-                                        <label class="control-label col-sm-2" for="language">Language</label>
-                                        
-                                        <div class="col-sm-9">
-                                            
-                                            <select class="form-control" id="language">
-                                                <option>English</option>                                              
-                                            </select>
-                                        
-                                        </div>
-                                    
-                                    </div>
-
-
-                                    <div class="form-group language-font">
-                                        
-
-                                        <label class="control-label col-sm-2" for="Currency">Currency</label>
-                                        
-                                        <div class="col-sm-9">
-                                            
-                                            <select class="form-control" id="currency">
-                                                <option>EUR</option>                                              
-                                            </select>
-                                        
-                                        </div>
-                                    
-                                    </div>
-
-
-                                    <div class="form-group">        
-                                       
-                                        <div class="col-sm-offset-3 col-sm-9">
-                                            <button type="submit" class="btn btn-primary btn-language">Change</button>
-                                        </div>
-                                    
-                                    </div>
-
-                                </form>
-                                
-                                    
-                            </div>
-
-                        </section>
-
-                    </div>
-                
-                </section>
-
-            </div>
-
+            <?php include 'topbar.php' ?>
 
             <div class="row">
 
@@ -122,13 +34,15 @@
                             <nav>
                                 <ul>
                                     <li><a class="hm-dis" href="index.php">HOME</a></li>
-                                    <li><a href="powerball.php">MONEY MILLION</a></li>
-                                    <li><a href="megamillion.php">YOUR MILLIONS</a></li>
-                                    <li><a href="euromillion.php">MONEY JACKPOT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A HOUSE</a></li>
-                                    <li><a href="eurojackpot.php">WIN A YACHT</a></li>
-                                    <li><a href="eurojackpot.php">WIN A CAR</a></li>
+                                    <li><a href="moneymillion.php">MONEY MILLION</a></li>
+                                    <li><a href="yourmillion.php">YOUR MILLIONS</a></li>
+                                    <li><a href="moneyjackpot.php">MONEY JACKPOT</a></li>
+                                    <li><a href="winahouse.php">WIN A HOUSE</a></li>
+                                    <li><a href="winayacht.php">WIN A YACHT</a></li>
+                                    <li><a href="winacar.php">WIN A CAR</a></li>
                                     <li><a href="result.php">LOTTO RESULTS</a></li>
+                                    <li><a class="hm-dis" style="color:#62b32c" href="signup.php">SIGN UP</a></li>
+                                    <li><a class="hm-dis" style="color:rgb(81, 145, 196);" href="login.php">LOG IN</a></li>
                                     
                                 </ul>
                             </nav> <!-- navigation end -->
@@ -232,81 +146,8 @@
                
             <!-- Main Section Ends Here-->
 
-
-
-
-
-           <!-- Age Restriction -->           
-            <hr>
             
-           <div class="row"> 
-
-                <section class="age-restriction">
-                    
-                    <div class="col-md-12">
-
-
-                        <img src="images/curacao_egaming_logo.png" class="img-responsive" style="display:inline">
-
-                        <h4>FOR NON-US RESIDENTS ONLY
-                            <br>
-                            <img src="images/footer-age-limit.png" class="img-responsive" style="display:inline">
-                             YOU MUST BE 18 OR OVER TO PLAY OR CLAIM A PRIZE
-                        </h4>
-
-                        <h6>This Service is licensed by Curacao eGaming (Cyberluck Curacao N.V.) Authorized and Regulated by the Government of Curacao under Multi Pay N.V with its registered address at Abraham de Veerstraat 2, Willemstad, Curaçao, under the License No. 1668/JAZ. Multi Brand Gaming Limited is responsible for the Credit Card payment processing.</h6>
-
-                        
-
-                    
-                    </div>
-            
-                </section>
-            
-           </div>         
-           <!-- Age Restrictio Ends Here -->
-            
-            
-            
-            <!-- Payment Section -->
-            <hr>
-
-            <div class="row">
-
-                <section class="payment-method">
-
-                    <div class="col-md=12">
-
-                        <section>    
-
-                            <ul class="card-inline">
-
-                                <li><a href=""><img src="images/DC-international.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Mastercard-PNG-Picture.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Visa-icon.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/wirecard.jpeg" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/Verified_by_Visa_logo.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/netellercasinos.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/558.png" class="img-responsive" style="height:32px;display:inline"></a></li>
-                                <li><a href=""><img src="images/download (1).png" class="img-responsive" style="height:32px;display:inline"></a></li>
-
-
-                            </ul>
-
-                        </section>
-
-                        <img src="images/trusted-site.png" class="img-responsive" style="display:inline;margin:3% 0">
-
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Payment Section ENd -->
-
-
-            <!-- Description -->
+            <?php include 'payment.php' ?>
 
             <hr>
 
@@ -338,163 +179,7 @@
 
             <?php include 'footer.php' ?>            
 
-            <!--<div class="row">
-
-                <section>
-
-
-                    <div class="col-md-1 col-sm-1"></div>
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >HOME</a></li>
-                            <li><a href="login.php" >Sign Up</a></li>
-                            <li><a href="login.php" >Log In</a></li>
-                            <li><a href="login.php" >Forgot Your Password</a></li>
-                            <li><a href="login.php" >Withdraw</a></li>
-                            <li><a href="login.php" >Deposit</a></li>
-                            <li><a href="" >how To Play</a></li>
-                            <li><a href="" >Lotto Bonus</a></li>
-                            <li><a href="" >News</a></li>
-                            <li><a href="" >Shop</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="index.php" >Play Lotto</a></li>
-                            <li><a href="euromillion.php" >Play EuroMillions</a></li>
-                            <li><a href="megamillion.php" >Play Mega Millions</a></li>
-                            <li><a href="la_primitiva.php" >Play La Primitiva</a></li>
-                            <li><a href="superEnalotto.php" >Play Super EnaLotto</a></li>
-                            <li><a href="california.php" >Play California SuperLotto</a></li>
-                            <li><a href="powerball.php" >Play Powerball</a></li>
-                            <li><a href="nylotto.php" >Play NewYork Lotto</a></li>
-                            <li><a href="mega.php" >Play Mega-Sena</a></li>
-                            <li><a href="eurojackpot.php" >Play Eurojackpot</a></li>
-                            <li><a href="bonolotto.php" >Play BonoLOTTO</a></li>
-                            <li><a href="el_gordo.php" >Play El Gordo</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="result.php" >Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Euromillions Results</a></li>
-                            <li><a href="viewresult.php" >Mega Millions Results</a></li>
-                            <li><a href="viewresult.php" >La Primitiva Results</a></li>
-                            <li><a href="viewresult.php" >SuperEnaLotto Results</a></li>
-                            <li><a href="viewresult.php" >California SuperLotto Results</a></li>
-                            <li><a href="viewresult.php" >Powerball Results</a></li>
-                            <li><a href="viewresult.php" >New York Lotto Results</a></li>
-                            <li><a href="viewresult.php" >Mega-Sena Results</a></li>
-                            <li><a href="viewresult.php" >Eurojackpot Results</a></li>
-                            <li><a href="viewresult.php" >BonoLOTTO Results</a></li>
-                            <li><a href="viewresult.php" >El Gordo Results</a></li>
-                            <li><a href="viewresult.php" >Lotto Statistics & Numbers</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >About Us</a></li>
-                            <li><a href="" >Contact Us</a></li>
-                            <li><a href="" >Terms & Conditions</a></li>
-                            <li><a href="" >FAQ</a></li>
-                            <li><a href="" >Privacy Policy</a></li>
-                            <li><a href="" >Become an affiliate?</a></li>
-
-                        </ul>
-
-                    </div>
-
-
-                    <div class="col-md-2 col-sm-2">
-
-                        <ul class="footer-ul">
-
-                            <li><a class="active" href="" >Languages</a></li>
-                            <li><a href="" >Deutsch</a></li>
-                            <li><a href="" >English</a></li>
-                            <li><a href="" >Español</a></li>
-                            <li><a href="" >Italiano</a></li>
-                            <li><a href="" >Magyar</a></li>
-                            <li><a href="" >Polski</a></li>
-                            <li><a href="" >Português</a></li>
-                            <li><a href="" >Pу́сский язы́к</a></li>
-                            <li><a href="" >Srpskohrvatski</a></li>
-                            <li><a href="" >Suomi</a></li>
-                            <li><a href="" >Svenska</a></li>
-                            <li><a href="" >Tagalog</a></li>
-                            <li><a href="" >Türkçe</a></li>
-                            <li><a href="" >Ελληνικά</a></li>
-                            <li><a href="" >Українська мова</a></li>
-                            <li><a href="" >正體中文</a></li>
-
-
-
-                        </ul>
-
-                    </div>
-
-
-
-                    <div class="col-md-1"></div>
-
-
-                </section>
-
-            </div>-->
-            <!-- Footer Ends here -->
-
-
-
-
-            <!-- Copy Right -->
-            <div class="row">
-
-                <section class="footer-copyright">
-
-                    <div class="col-md-12">
-
-                        <h5>Gamble responsibly <a>www.gambleaware.co.uk</a>, <a>ww.gamcare.org.uk</a></h5>
-
-                        <h5>Use of this Website constitutes acceptance of the moneyyours.com <a>Terms and Conditions</a> and <a>Privacy Policy</a>.
-                            <br>
-                            © Copyright 2010-2017 Multi Pay N.V. All Rights Reserved.
-                        </h5>
-
-                    
-                    </div>
-
-                </section>
-
-            </div>
-            <!-- Copy Rights Ends here -->
-
+            
 
         </div>
 
