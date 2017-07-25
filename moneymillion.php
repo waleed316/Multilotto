@@ -161,7 +161,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn1 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -179,7 +179,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn1">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -187,7 +187,7 @@
                                                                          
                                                                             <tbody class="bonustable1">
                                                                                 
-                                                                        
+                                                                                
 
                                                                               
 
@@ -196,7 +196,7 @@
                                                                         </table>
 
 
-                                                                            <a class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash1 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -209,7 +209,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn2 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -228,7 +228,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn2">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -245,7 +245,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash2 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -259,7 +259,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn3 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -278,7 +278,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn3">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -293,7 +293,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash3 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -307,7 +307,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn4 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -327,7 +327,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn4">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -342,7 +342,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash4 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -356,7 +356,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn5 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -374,7 +374,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn5">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -387,7 +387,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash5 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -578,7 +578,7 @@
 
                                                         <div class="col-md-12 text-right">
 
-                                                            <a href="" class="add-lines">+ Add 5 more lines</a>
+                                                            <a class="add-lines">+ Add 5 more lines</a>
 
                                                         </div>    
                                                 
@@ -588,130 +588,130 @@
 
                                                 <!-- Summary Section Start here -->
 
-                                                <section class="summary-section">
+                                                    <section class="summary-section">
 
-                                                    <div class="row clearfix">
+                                                        <div class="row clearfix">
 
-                                                        <div class="col-md-12">
+                                                            <div class="col-md-12">
 
-                                                            <h4 class="draw-heading">Choose draws</h4>
+                                                                <h4 class="draw-heading">Choose draws</h4>
 
-                                                            <ul class="draw-order-list">
+                                                                <ul class="draw-order-list">
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
-
-                                                                        <h5 class="draw-head2">1 draw</h5>
-
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€3.50</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
-                                                                    </div>   
+                                                                        </div>
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
+                                                                            <h5 class="draw-head2">1 draw</h5>
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        </div>  
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
+                                                                        <div class="col-md-9 col-xs-6">
 
-                                                                        <h5 class="draw-head2">4 draws</h5>
+                                                                            <h5 class="draw-head2">€3.50</h5>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
+                                                                        </div>
 
-                                                                        <h5 class="draw-head2">€3.50</h5>
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
-                                                                    </div>
 
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 4 draws. Remember to play again in 2 weeks.</h6>      
-                                                                    </div>   
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <input id="s_fac" type="checkbox" class="sev_check">
                                                                         
-                                                                </li>
-
-
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        </div>
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                                        <h5 class="draw-head2">1 month</h5>
+                                                                            <h5 class="draw-head2">4 draws</h5>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€28.00/month</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 1 month of binding period.</h6>      
-                                                                    </div>   
+                                                                        </div>  
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2">€3.50</h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 4 draws. Remember to play again in 2 weeks.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <input id="s_fac" type="checkbox" class="sev_check">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
-
-                                                                        <h5 class="draw-head2">12 months</h5>
-
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 12 months of binding period.</h6>      
-                                                                    </div>   
+                                                                        </div>
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                            </ul>
+                                                                            <h5 class="draw-head2">1 month</h5>
 
-                                                            <hr style="border-color:#6dc731;">
-                                                            
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                                        </div>  
+                                                                        
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2">€28.00/month</h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 1 month of binding period.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
+
+
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        
+                                                                        </div>
+                                                                        
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                            <h5 class="draw-head2">12 months</h5>
+
+                                                                        </div>  
+                                                                        
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 12 months of binding period.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
+
+                                                                </ul>
+
+                                                                <hr style="border-color:#6dc731;">
+                                                                
+                                                                <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+
+                                                            </div>
 
                                                         </div>
 
-                                                    </div>
-
-                                                </section>
+                                                    </section>
 
                                                 <!-- Summary section end here -->
 
@@ -730,20 +730,20 @@
 
 
                                                 <!-- pay and good luck section -->
-                                                <section class="pay-section">
+                                                    <section class="pay-section">
 
-                                                    <div class="row clearfix">
+                                                        <div class="row clearfix">
 
-                                                        <div class="col-md-12">
+                                                            <div class="col-md-12">
 
-                                                            <h3 class="draw-heading1">Pay and good luck!<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
-                                                            
+                                                                <h3 class="draw-heading1">Pay and good luck!<button type="button" class="btn btn-default pull-right plan-now-btn">PLAY NOW</button></h3>
+                                                                
+
+                                                            </div>
 
                                                         </div>
 
-                                                    </div>
-
-                                                </section>
+                                                    </section>
                                                 <!-- pay and good luck section end Here -->
                                             
                                             </section>
@@ -821,7 +821,7 @@
                                                         <div class="col-md-3 margin-increase2">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1 <a class="btn btn-primary random-btn random-btna1 mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -854,7 +854,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trasha1 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -1137,7 +1137,7 @@
                                                         <div class="col-md-3 margin-increase2">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1 <a class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -1173,7 +1173,7 @@
                                                                         </table>
 
 
-                                                                            <a onClick="deletearry();" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash1 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -1571,7 +1571,7 @@
 
                             <h6>
                                 <p>
-                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, moneyyours is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, Sudan, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
+                                Money Million is an American lottery game, available to players in 44 U.S. states, as well as in the District of Columbia, Puerto Rico and the U.S. Virgin Islands. If you live outside of the U.S. and don’t know where to buy Money Million tickets, moneyyours is the perfect solution to your problem! It allows lotto enthusiasts around the world find out how does Money Million work, with the exception of residents of the United States or United States territories, Cuba, Iran, S  n, North Korea or Syria. The Money Million lottery always has a jackpot of at least $40 million, often rising to several hundred million dollars. If you don’t know how to play Money Million, here are three basic Money Million rules:
                                     
                                     <ul style="margin-left:2%;">
 

@@ -165,7 +165,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add6">
+                                                                            <tbody class="add1">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
@@ -180,7 +180,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="bonustable11">
+                                                                            <tbody class="bonustable1">
                                                                                 
                                                                         
 
@@ -209,7 +209,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add7">
+                                                                            <tbody class="add2">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
@@ -225,7 +225,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="bonustable12">
+                                                                            <tbody class="bonustable2">
                                                                           
 
                                                                             </tbody>
@@ -254,7 +254,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add8">
+                                                                            <tbody class="add3">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
@@ -270,7 +270,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="bonustable13">
+                                                                            <tbody class="bonustable3">
                                                                               
                                                                             </tbody>
 
@@ -298,7 +298,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add9">
+                                                                            <tbody class="add4">
                                                                                
 
                                                                             </tbody>
@@ -312,7 +312,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="bonustable14">
+                                                                            <tbody class="bonustable4">
                                                                              
                                                                             </tbody>
 
@@ -340,7 +340,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="add10">
+                                                                            <tbody class="add5">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 Number</h4>
 
@@ -357,7 +357,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="bonustable15">
+                                                                            <tbody class="bonustable5">
                                                                                 
                                                                         
                                                                             </tbody>
@@ -418,7 +418,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonustable16">
+                                                                            <tbody class="bonustable6">
                                                                                
 
                                                                             </tbody>
@@ -445,7 +445,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonustable17">
+                                                                            <tbody class="bonustable7">
                                                                                 
                                                                         
                                                                             </tbody>
@@ -473,7 +473,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonustable18">
+                                                                            <tbody class="bonustable8">
                                                                                 
                                                                             </tbody>
 
@@ -499,7 +499,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonustable19">
+                                                                            <tbody class="bonustable9">
                                                                                 
 
                                                                             </tbody>
@@ -525,7 +525,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="bonustable20">
+                                                                            <tbody class="bonustable10">
                                                                                 
 
                                                                             </tbody>
@@ -807,7 +807,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="system-add-table3">
+                                                                            <tbody class="system-add-table1">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
@@ -823,7 +823,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="systembonustable5">
+                                                                            <tbody class="systembonustable1">
                                                                               
                                                                             </tbody>
 
@@ -900,7 +900,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="systembonustable6">
+                                                                            <tbody class="systembonustable2">
                                                                                 
                                                                         
                                                                             </tbody>
@@ -1119,7 +1119,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="system-add-table4">
+                                                                            <tbody class="system-add-table2">
                                                                                 
                                                                                 <h4 class="mobile-display-heading">Pick 5 or more Number</h4>
 
@@ -1136,7 +1136,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
 
-                                                                            <tbody class="systembonustable7">
+                                                                            <tbody class="systembonustable3">
                                                                                 
                                                                         
 
@@ -1215,7 +1215,7 @@
 
                                                                         <table class="table">
 
-                                                                            <tbody class="systembonustable8">
+                                                                            <tbody class="systembonustable4">
                                                                               
                                                                             </tbody>
 
