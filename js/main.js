@@ -71,8 +71,6 @@ $(document).ready(function () {
 
     // bonus table end here
 
-
-
     // Generate System and Group Play section Numbers 
 
         for (var k = 1; k <= 2; k++) {
@@ -206,50 +204,87 @@ $(document).ready(function () {
            
             return function (){
 
-                if(box[i].length <= 5){
-                    
-                    for(var k=1; k<=5; k++) {
-                        var data=(Math.floor(Math.random() * 69) + 1);
-                        box[i].push({data})
-                        $("a#add"+i).filter("[data-index="+data+"]").toggleClass("background_color");
-                        console.table(box[i]);
-                    }
-                    
-                }   
+                for (var f = 0; f < box[i].length; f++){
+                    var fbMenu = box[i][f];
+                    $("a#add"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
                 
-                else{
-        
-                    for (var f = 0; f < box[i].length; f++){
-                        var fbMenu = box[i][f];
-                        $("a#add"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
-                        
-                    }
+                }
+                for (var f = 0; f < bonusbox[i].length; f++){
+                    var fbMenu1 = bonusbox[i][f];
+                    $("a#btadd"+i).filter("[data-index="+fbMenu1.data+"]").toggleClass("background_color");
+                
+                }
 
-                    console.table(box[i]);
-                    while(box[i].length > 0){
-                        box[i].pop();
+                while(box[i].length > 0){
+                    box[i].pop();
+                }
+                while(bonusbox[i].length > 0){
+                    bonusbox[i].pop();
+                }
+               
+
+                for(var k=1; k<=5; k++) {
+                    var data=(Math.floor(Math.random() * 69) + 1);       
+                    function findbydata(i) {
+                        return i.data == data;
                     }
-                                                
+                    var task = box[i].find(findbydata);
+                    if (task) {
+                        var index = box[i].indexOf(task);
+                        box[i].splice(index, 1);
+                        $("a#add"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+                        var ddata=(Math.floor(Math.random() * 69) + 1);
+                        box[i].push({ data });
+                        $("a#add"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+                    }
+                    else {
+                        box[i].push({ data });
+                        $("a#add"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+                    }
                     
-                }   
-                        
                     
-                
+                    
+                }
+                    console.table(box[i]);
+                    
+                    var data = (Math.floor(Math.random() * 26) + 1);
+                    bonusbox[i].push({data});
+                    $("a#btadd"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+           
+                    console.table(bonusbox[i]);
+           
             }
         }
-    
+        
+
 
         function deleteclick(i){
 
             return function (){
                 for (var f = 0; f < box[i].length; f++){
                         var fbMenu = box[i][f];
-                        $("a#add"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
-                        
-                    }
-                    while(box[i].length > 0){
-                        box[i].pop();
-                    }
+                        $("a#add"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");  
+                          
+                }
+                
+                for (var f = 0; f < bonusbox[i].length; f++){
+                        var fbMenu1 = bonusbox[i][f];
+                        $("a#btadd"+i).filter("[data-index="+fbMenu1.data+"]").toggleClass("background_color");  
+                        console.log(fbMenu1.data);                    
+                }
+
+                while(box[i].length > 0){
+                    box[i].pop();
+                }
+
+                while(bonusbox[i].length > 0){
+                    bonusbox[i].pop();
+                }
+
+               
             }
         }
 
@@ -259,9 +294,9 @@ $(document).ready(function () {
     // Bonus Selection game boxes
 
         var bonusbox = [];
-        for (var j = 1; j <= 20; j++)
+        for (var j = 1; j <= 10; j++)
             bonusbox[j] = [];
-        for (var k = 1; k <= 20; k++) 
+        for (var k = 1; k <= 10; k++) 
             $("a#btadd" + k).click(createCallback1(k))
 
         function createCallback1(k) {
@@ -363,33 +398,44 @@ $(document).ready(function () {
            
             return function (){
 
-                if(sysbox[i].length <= 5){
-                    
-                    for(var i=1; i<=5; i++) {
-                        var data=(Math.floor(Math.random() * 69) + 1);
-                        sysbox[i].push({data})
-                        $("a#sysaddbtn"+i).filter("[data-index="+data+"]").toggleClass("background_color");
-                        console.table(sysbox[i]);
-                    }
-                    
-                }   
+                for (var f = 0; f<sysbox[i].length; f++){
+                    var fbMenu = sysbox[i][f];
+                    $("a#sysaddbtn"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
                 
-                else{
-        
-                    for (var f = 0; f < sysbox[i].length; f++){
-                        var fbMenu = sysbox[i][f];
-                        $("a#sysaddbtn"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
-                        
-                    }
+                }
 
-                    console.table(sysbox[i]);
-                    while(sysbox[i].length > 0){
-                        sysbox[i].pop();
+                sysbox[i]=[];
+                while(sysbox[i].length > 0){
+                    sysbox[i].pop();
+                }
+                   
+
+                for(var k=1; k<=5; k++) {
+                    var data=(Math.floor(Math.random() * 69) + 1);       
+                    function findbydata(i) {
+                        return i.data == data;
                     }
-                                                
+                    var task = sysbox[i].find(findbydata);
+                    if (task) {
+                        var index = sysbox[i].indexOf(task);
+                        sysbox[i].splice(index, 1);
+                        $("a#sysaddbtn"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+                        var ddata=(Math.floor(Math.random() * 69) + 1);
+                        sysbox[i].push({ ddata });
+                        $("a#sysaddbtn"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+                    }
+                    else {
+                        sysbox[i].push({ data });
+                        $("a#sysaddbtn"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+                    }
                     
-                }   
-                        
+                    
+                    
+                }
+
+                console.table(sysbox[i]);           
                     
                 
             }
