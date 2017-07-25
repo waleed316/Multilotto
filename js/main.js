@@ -513,3 +513,27 @@ $(document).ready(function () {
 });
 
 
+
+
+
+$(window).on("load resize",function(e){
+             topInViewport();
+});
+
+function topInViewport(){
+ 
+        var doc_width = $(document).width();
+
+        var win_width = $(window).width();
+
+        
+
+        if(doc_width <= 769 || win_width <=769){
+            $('tbody#mobileview').addClass("bonustable1");
+            console.log(doc_width +'+'+win_width);
+            
+        }
+
+
+
+};

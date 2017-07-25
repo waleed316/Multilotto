@@ -2506,9 +2506,18 @@ and (max-device-width : 1023px)
         display:            none;
     }
 
+.mobile-display {
+    display: block!important;
+    background-color: white!important;
+    color: #5191c4!important;
+    margin-right: 30%!important;
+}
 
-
-
+.mobile-display1 {
+    display: block!important;
+    background-color: white!important;
+    color: #5191c4!important;
+}
 
 
 
