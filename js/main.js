@@ -378,9 +378,10 @@ $(document).ready(function () {
             var random_lenght =[] ;
             for (var i = 1; i <= 8; i++)
                     random_lenght[i] = $(':button.random-btna'+i).data("index");
+            
             for (var j = 1; j <= 8; j++){
-                for(var i=1; i<=2; i++) 
-                $(":button.random-btna"+j).click(randomclicka11(i,j))
+                for(var i=1; i<=2; i++)
+                $(".random-btna"+j).click(randomclicka11(i,j))
                 console.log(random_lenght[j]);
             }
         // End here
@@ -581,8 +582,22 @@ $(document).ready(function () {
     // system Selection bonus game boxes
 
       
-        for (var k = 1; k <= 4; k++) 
+        for (var k = 1; k <= 4; k++){
             $("a#systembtnadd" + k).click(createCallback3(k))
+        }
+
+        var bonus_random_lenght =[] ;
+        for (var i = 1; i <= 2; i++)
+                bonus_random_lenght[i] = $(':button.random-btnb'+i).data("index");
+        
+        for (var j = 1; j <= 2; j++){
+            for(var i=1; i<=2; i++)
+            $(".random-btnb"+j).click(randomclickb11(i,j))
+            console.log(bonus_random_lenght[j]);
+        }
+
+
+
 
         function createCallback3(k) {
             return function () {
@@ -623,6 +638,57 @@ $(document).ready(function () {
             }
         }
 
+
+        function randomclickb11(i,j){
+        
+            return function (){
+
+                for (var f = 0; f<sysbonusbox[i].length; f++){
+                    var fbMenu = sysbonusbox[i][f];
+                    $("a#systembtnadd"+i).filter("[data-index="+fbMenu.data+"]").toggleClass("background_color");
+                
+                }
+
+                sysbonusbox[i]=[];
+                while(sysbonusbox[i].length > 0){
+                    sysbonusbox[i].pop();
+                }
+                
+
+                for(var k=1; k<=bonus_random_lenght[j]; k++) {
+                    var data=(Math.floor(Math.random() * 26) + 1);       
+                    function findbydata(i) {
+                        return i.data == data;
+                    }
+                    var task = sysbonusbox[i].find(findbydata);
+                    if (task) {
+                        var index = sysbonusbox[i].indexOf(task);
+                        sysbonusbox[i].splice(index, 1);
+                        $("a#systembtnadd"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+                  
+                            // var ddata=(Math.floor(Math.random() * 26) + 1);
+                            // sysbonusbox[i].push({"data":ddata});
+                            // $("a#systembtnadd2").filter("[data-index="+ddata+"]").toggleClass("background_color");
+                    
+                    }
+                    else {
+                        sysbonusbox[i].push({ data });
+                        $("a#systembtnadd"+i).filter("[data-index="+data+"]").toggleClass("background_color");
+
+                    }
+                    
+                    
+                    
+                }
+
+                console.table(sysbonusbox[i]);           
+                    
+                
+            }
+        }
+    
+            
+            
 
 
     // single box end here

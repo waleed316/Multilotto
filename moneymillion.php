@@ -946,8 +946,8 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb1" data-index="1">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb2" data-index="2">RANDOM</button></li>
 
                                                             </ul>
 
@@ -1173,7 +1173,7 @@
                                                                         </table>
 
 
-                                                                            <a class="fa fa-trash fa-trash1 table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trasha2 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -1265,8 +1265,8 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb1" data-index="1">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb2" data-index="2">RANDOM</button></li>
 
                                                             </ul>
 
