@@ -370,7 +370,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" value="1 draw"><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -396,7 +400,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" value="4 draw" checked><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -422,7 +430,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" value="1 month" checked><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -448,7 +460,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" value="12 month" checked><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     

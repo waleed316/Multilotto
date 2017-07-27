@@ -7,7 +7,7 @@ $(document).ready(function () {
             var list1 = [];
             for (var i = 1; i <= 69; i++) {
 
-                list1.push({i});
+                // list1.push({i});
 
                 if (!flag) {
                     $("tbody.add" + j).append("<tr class=\"upper-border\">")
@@ -33,23 +33,24 @@ $(document).ready(function () {
             
             
         }
-        console.table(list1);
+ 
     // end of money millions list
 
     // bonus section boxes
+
         for (var h = 1; h <=10; h++) {
             flag = false;
             var list3 = [];
             for (var i = 1; i <= 26; i++) {
 
-                list3.push({ 'value': i, 'checked': false });
+                // list3.push({ 'value': i, 'checked': false });
 
                 if (!flag) {
                     $("tbody.bonustable" + h).append("<tr class=\"upper-border\">")
                     flag = true;
 
                 }
-
+                
                 $('tbody.bonustable' + h + ' tr.upper-border:last').append('<td><a id=btadd' + h + ' data-index=' + i + '>' + i + '</a></td>');
 
                 if (i % 5 == 0) {
@@ -62,7 +63,8 @@ $(document).ready(function () {
                 if (i > 9) {
                     $("td:gt(8) a").addClass("extra-padding");
                 }
-
+                
+               
             }
 
 
@@ -78,7 +80,7 @@ $(document).ready(function () {
             var list2 = [];
             for (var i = 1; i <= 69; i++) {
 
-                list2.push({ 'value': i, 'checked': false });
+                // list2.push({ 'value': i, 'checked': false });
 
                 if (!flag) {
                     $("tbody.system-add-table" + k).append("<tr class=\"upper-border\">")
@@ -112,7 +114,7 @@ $(document).ready(function () {
             var list4 = [];
             for (var j = 1; j <= 26; j++) {
 
-                list4.push({ j });
+                // list4.push({ j });
 
                 if (!flag) {
                     $("tbody.systembonustable" + i).append("<tr class=\"upper-border\">")
@@ -143,14 +145,11 @@ $(document).ready(function () {
 
 
 
-
-
-
 $(document).ready(function () {
    
     // single player game boxes
         var bonusbox = [];
-        for (var j = 1; j <= 10; j++){
+        for (var j = 1; j <= 5; j++){
             bonusbox[j] = [];
         }     
 
@@ -698,25 +697,40 @@ $(document).ready(function () {
 
 
 
+       
+    
+$(".radio-inline input[name='optradio']").click(function(){
+    
+    var x ,y,z;
+    var x = document.getElementById("draw-no");
+    var z = document.getElementById("total_amount");
+    
+    if (document.getElementById("v1").checked){
+        y = document.getElementById("v1").value;
+        var amount = $('.draw-1').html();
+        x.innerHTML = y;
+        z.innerHTML = amount;
 
-$(window).on("load resize",function(e){
-             topInViewport();
+    }
+    else if(document.getElementById("v2").checked){
+        y = document.getElementById("v2").value;
+        var amount = $('.draw-2').html();
+        x.innerHTML = y;
+        z.innerHTML = amount;
+    }
+    else if (document.getElementById("v3").checked){
+        y = document.getElementById("v3").value;
+        var amount = $('.draw-3').html();
+        x.innerHTML = y;
+        z.innerHTML = amount;
+    }
+    else if (document.getElementById("v4").checked){
+        y = document.getElementById("v4").value;
+        var amount = $('.draw-4').html();
+        x.innerHTML = y;
+        z.innerHTML = amount;
+    }
+    else
+    y = "kuch nhi;"
+    x.innerHTML = y;
 });
-
-function topInViewport(){
- 
-        var doc_width = $(document).width();
-
-        var win_width = $(window).width();
-
-        
-
-        if(doc_width <= 769 || win_width <=769){
-            $('tbody#mobileview').addClass("bonustable1");
-            console.log(doc_width +'+'+win_width);
-            
-        }
-
-
-
-};

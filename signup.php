@@ -347,51 +347,6 @@
         <script src="js/bootstrap-formhelpers.min.js"></script>
         <script>
 
-            // var array-1 = [{
-            //     'value':1,
-            //     'checked':false
-            // },
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // {
-            //     'value':1,
-            //     'checked':false
-            // }
-            // ]
-
-            // var container = $('.upper-border'); 
-            
-            // counter =0;
-            // flag = false;
-            // for(var i = 1; i <= num; i++) {
-            //     if(!flag){
-            //         container.append('<tr id="id'+i+'" data-index='+i+'>);    
-            //         flag = true;
-            //     }
-            //     container.append('<a id="id'+i+'" data-index='+i+'>'+i+'</a>');
-            //     if((i % 5) == 0){
-            //         container.append('</tr>');
-            //         flag = false;
-            //     }
-            // }
 
                 $(document).ready(function(){
                      

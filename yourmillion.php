@@ -158,7 +158,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn1 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -174,7 +174,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn1">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -189,7 +189,7 @@
                                                                         </table>
 
 
-                                                                            <a class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash1 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -202,7 +202,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn2 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -219,7 +219,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn2">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -233,7 +233,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash2 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -247,7 +247,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn3 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -264,7 +264,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn3">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -277,7 +277,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash3 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -291,7 +291,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn4 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -306,7 +306,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn4">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -319,7 +319,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash4 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -333,7 +333,7 @@
                                                         <div class="col-md-2 margin-increase">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1<a href="" class="fa fa-times close-icon pull-right"></a> <a href="" class="btn btn-primary random-btn mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1<a class="fa fa-times close-icon pull-right"></a> <a class="btn btn-primary random-btn random-btn5 mobile-display">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -351,7 +351,7 @@
                                                                         </table>
 
                                                                     
-                                                                        <a href="" class="btn btn-primary random-btn">RANDOM</a>
+                                                                        <a class="btn btn-primary random-btn random-btn5">RANDOM</a>
 
                                                                         <h4 class="mobile-display-heading">Pick 1 bonus number</h4>
 
@@ -365,7 +365,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trash5 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -580,7 +580,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" id="v1" value="1 draw"><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -606,7 +610,10 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" id="v2" value="4 draw"><img/>                                                                          </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -632,7 +639,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" id="v3" value="1 month" checked="checked"><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -658,7 +669,11 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" type="checkbox" class="sev_check">
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" name="optradio" id="v4" value="12 month"><img/>
+                                                                            </label>
+                                                                        </div>
                                                                     
                                                                     </div>
                                                                     
@@ -800,7 +815,7 @@
                                                         <div class="col-md-3 margin-increase2">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1 <a class="btn btn-primary random-btn random-btna1 mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -830,7 +845,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trasha1 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -845,14 +860,14 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btna1" data-index="5">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary random-btna2" data-index="6">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary random-btna3" data-index="7">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary random-btna4" data-index="8">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary random-btna5" data-index="9">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary random-btna6" data-index="10">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary random-btna7" data-index="11">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary random-btna8" data-index="12">RANDOM</button></li>
                                                             
                                                         
                                                             </ul>
@@ -921,8 +936,8 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb1" data-index="1">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb2" data-index="2">RANDOM</button></li>
 
                                                             </ul>
 
@@ -1112,7 +1127,7 @@
                                                         <div class="col-md-3 margin-increase2">
 
                                                             <div class="panel panel-default no-border">
-                                                                <div class="panel-heading checkbox-head">Line 1 <a href="" class="btn btn-primary random-btn mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
+                                                                <div class="panel-heading checkbox-head">Line 1 <a class="btn btn-primary random-btn random-btna2 mobile-display1">RANDOM</a> <span class="pull-right mobile-hide">&euro;3.50</span></div>
                                                                 <div class="panel-body checkbox-body">
 
                                                                     <div class="table-responsive table-borderless">
@@ -1145,7 +1160,7 @@
                                                                         </table>
 
 
-                                                                            <a href="" class="fa fa-trash table-lower-icon"></a>
+                                                                            <a class="fa fa-trash fa-trasha2 table-lower-icon"></a>
 
 
                                                                     </div>
@@ -1160,14 +1175,14 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>5 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btna1" data-index="5" >RANDOM</button></li>
+                                                                <li class="clearfix"><h5>6 numbers</h5><h6>&nbsp; =&nbsp; 6 COMBINATION </h6><button type="button" class="btn btn-primary random-btna2" data-index="6">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>7 numbers</h5><h6>&nbsp; =&nbsp; 21 COMBINATION </h6><button type="button" class="btn btn-primary random-btna3" data-index="7">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>8 numbers</h5><h6>&nbsp; =&nbsp; 56 COMBINATION </h6><button type="button" class="btn btn-primary random-btna4" data-index="8">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>9 numbers</h5><h6>&nbsp; =&nbsp; 126 COMBINATION </h6><button type="button" class="btn btn-primary random-btna5" data-index="9">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>10 numbers</h5><h6>=&nbsp; 252 COMBINATION </h6><button type="button" class="btn btn-primary random-btna6" data-index="10">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>11 numbers</h5><h6>=&nbsp; 462 COMBINATION </h6><button type="button" class="btn btn-primary random-btna7" data-index="11">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>12 numbers</h5><h6>=&nbsp; 792 COMBINATION </h6><button type="button" class="btn btn-primary random-btna8" data-index="12">RANDOM</button></li>
                                                             
                                                         
                                                             </ul>
@@ -1235,8 +1250,8 @@
 
                                                             <ul class="system-game-random">
 
-                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
-                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>1 numbers</h5><h6>&nbsp; =&nbsp; 1 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb1" data-index="1">RANDOM</button></li>
+                                                                <li class="clearfix"><h5>2 numbers</h5><h6>&nbsp; =&nbsp; 2 COMBINATION </h6><button type="button" class="btn btn-primary random-btnb2" data-index="2">RANDOM</button></li>
 
                                                             </ul>
 

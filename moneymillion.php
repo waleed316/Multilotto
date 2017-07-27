@@ -185,7 +185,7 @@
 
                                                                         <table class="table" id="bonus-display-in-mobile">
                                                                          
-                                                                            <tbody id="mobileiew" class="">
+                                                                            <tbody id="mobileiew" class="bonustable1">
                                                                                 
                                                                                 
 
@@ -403,6 +403,8 @@
 
                                                 </div>
 
+                                                
+                                                
 
 
                                                 <!-- Bonus Section -->
@@ -600,9 +602,13 @@
 
                                                                     <li class="clearfix">
                                                                         <div class="col-md-1 col-xs-2 checkbox-padding">
-                                                                            
-                                                                            <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
-                                                                        
+
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v1" name="optradio" value="1 draw"><img/>
+                                                                                </label>
+                                                                            </div>
+
                                                                         </div>
                                                                         
                                                                         <div class="col-md-2 col-xs-4" style="padding-left:0">
@@ -613,7 +619,7 @@
                                                                         
                                                                         <div class="col-md-9 col-xs-6">
 
-                                                                            <h5 class="draw-head2">€3.50</h5>
+                                                                            <h5 class="draw-head2 draw-1">€3.50</h5>
 
                                                                         </div>
 
@@ -627,7 +633,14 @@
                                                                     <li class="clearfix">
                                                                         <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                             
-                                                                            <input id="s_fac" type="checkbox" class="sev_check">
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v2" name="optradio" value="4 draw"><img/>
+                                                                                </label>
+                                                                            </div>
+
+
+                                                                          
                                                                         
                                                                         </div>
                                                                         
@@ -639,7 +652,7 @@
                                                                         
                                                                         <div class="col-md-9 col-xs-6">
 
-                                                                            <h5 class="draw-head2">€3.50</h5>
+                                                                            <h5 class="draw-head2 draw-2">€3.50</h5>
 
                                                                         </div>
 
@@ -653,7 +666,11 @@
                                                                     <li class="clearfix">
                                                                         <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                             
-                                                                            <input id="s_fac" type="checkbox" class="sev_check">
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v3" name="optradio" value="1 month" checked><img/>
+                                                                                </label>
+                                                                            </div>
                                                                         
                                                                         </div>
                                                                         
@@ -665,7 +682,7 @@
                                                                         
                                                                         <div class="col-md-9 col-xs-6">
 
-                                                                            <h5 class="draw-head2">€28.00/month</h5>
+                                                                            <h5 class="draw-head2 draw-3">€28.00/month</h5>
 
                                                                         </div>
 
@@ -679,7 +696,11 @@
                                                                     <li class="clearfix">
                                                                         <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                             
-                                                                            <input id="s_fac" type="checkbox" class="sev_check">
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v4" name="optradio" value="12 month"><img/>
+                                                                                </label>
+                                                                            </div>
                                                                         
                                                                         </div>
                                                                         
@@ -691,7 +712,7 @@
                                                                         
                                                                         <div class="col-md-9 col-xs-6">
 
-                                                                            <h5 class="draw-head2"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
+                                                                            <h5 class="draw-head2 draw-4"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
 
                                                                         </div>
 
@@ -705,7 +726,7 @@
 
                                                                 <hr style="border-color:#6dc731;">
                                                                 
-                                                                <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                                <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right" id="total_amount"></span></h3>
 
                                                             </div>
 
@@ -988,7 +1009,7 @@
                                                                 <li class="clearfix">
                                                                     <div class="col-md-1 col-xs-2 checkbox-padding">
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
+                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw" checked>
                                                                     
                                                                     </div>
                                                                     
