@@ -165,7 +165,7 @@
 
                                             <div class="col-md-4 col-xs-4 col-sm-4">
 
-                                                <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
+                                                <a href="moneymillion.php" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
                                             </div>
 
@@ -206,7 +206,7 @@
 
                                             <div class="col-md-4 col-xs-4 col-sm-4">
 
-                                                <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
+                                                <a href="yourmillion.php" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
                                             </div>
 
@@ -247,7 +247,7 @@
 
                                             <div class="col-md-4 col-xs-4 col-sm-4">
 
-                                                <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
+                                                <a href="moneyjackpot.php" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
                                             </div>
 
@@ -288,7 +288,7 @@
 
                                             <div class="col-md-4 col-xs-4 col-sm-4">
 
-                                                <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
+                                                <a href="winahouse.php" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
                                             </div>
 
@@ -329,7 +329,7 @@
 
                                             <div class="col-md-4 col-xs-4 col-sm-4">
 
-                                                <a href="" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
+                                                <a href="winayacht.php" class="btn btn-primary play-btn">PLAY <span class="hide-btn">NOW ( <span>&euro;</span>2.50 )</span></a>
 
                                             </div>
 
