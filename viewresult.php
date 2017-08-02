@@ -337,17 +337,17 @@
                                         <h4>&euro;189 500 000</h4>
                                         <h5>Time left:</h5>
                                         <h5>1 day 11 hours 47 minutes</h5>
-                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+                                        <a href="megamillion.php" class="btn btn-primary three-boxes-btn">PLAY NOW ></a>
 
                                     </div>
 
 
                                     <div class="col-md-4 col-sm-4 col-xs-12 text-center three-boxes">
                                         <img src="images/usa-powerball.png" class="img-responsive two-img" style="display:inline">
-                                        <h4 class="two-img">&euro;150 200 000</h4>
+                                        <h4 class="two-img">&euro;177 000 000 </h4>
                                         <h5>Time left:</h5>
                                         <h5>2 days 11 hours 42 minutes</h5>
-                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+                                        <a href="powerball.php" class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></a>
 
                                     </div>
 
@@ -357,7 +357,7 @@
                                         <h4 class="two-img">&euro;69 700 000</h4>
                                         <h5>Time left:</h5>
                                         <h5>0 days 2 hours 13 minutes</h5>
-                                        <button class="btn btn-primary three-boxes-btn" type="">PLAY NOW ></button>
+                                        <a href="superlotto.php" class="btn btn-primary three-boxes-btn">PLAY NOW ></a>
 
                                     </div>
 
