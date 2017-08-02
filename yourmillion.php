@@ -567,145 +567,149 @@
 
                                                 <!-- Summary Section Start here -->
 
-                                                <section class="summary-section">
+                                                    <section class="summary-section">
 
-                                                    <div class="row clearfix">
+                                                        <div class="row clearfix">
 
-                                                        <div class="col-md-12">
+                                                            <div class="col-md-12">
 
-                                                            <h4 class="draw-heading">Choose draws</h4>
+                                                                <h4 class="draw-heading">Choose draws</h4>
 
-                                                            <ul class="draw-order-list">
+                                                                <ul class="draw-order-list">
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
-                                                                        
-                                                                        <div class="options">
-                                                                            <label class="radio-inline">
-                                                                                <input type="radio" name="optradio" id="v1" value="1 draw"><img/>
-                                                                            </label>
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v1" name="optradio" value="1 draw"><img/>
+                                                                                </label>
+                                                                            </div>
+
                                                                         </div>
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
-
-                                                                        <h5 class="draw-head2">1 draw</h5>
-
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€3.50</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
-                                                                    </div>   
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
+                                                                            <h5 class="draw-head2">1 draw</h5>
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        </div>  
                                                                         
-                                                                        <div class="options">
-                                                                            <label class="radio-inline">
-                                                                                <input type="radio" name="optradio" id="v2" value="4 draw"><img/>                                                                          </label>
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-1">€3.50</h5>
+
                                                                         </div>
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                                        <h5 class="draw-head2">4 draws</h5>
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
 
-                                                                        <h5 class="draw-head2">€3.50</h5>
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v2" name="optradio" value="4 draw"><img/>
+                                                                                </label>
+                                                                            </div>
 
-                                                                    </div>
 
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 4 draws. Remember to play again in 2 weeks.</h6>      
-                                                                    </div>   
+                                                                          
                                                                         
-                                                                </li>
-
-
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
-                                                                        
-                                                                        <div class="options">
-                                                                            <label class="radio-inline">
-                                                                                <input type="radio" name="optradio" id="v3" value="1 month" checked="checked"><img/>
-                                                                            </label>
                                                                         </div>
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
-
-                                                                        <h5 class="draw-head2">1 month</h5>
-
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€28.00/month</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 1 month of binding period.</h6>      
-                                                                    </div>   
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
+                                                                            <h5 class="draw-head2">4 draws</h5>
 
-                                                                <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        </div>  
                                                                         
-                                                                        <div class="options">
-                                                                            <label class="radio-inline">
-                                                                                <input type="radio" name="optradio" id="v4" value="12 month"><img/>
-                                                                            </label>
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-2">€3.50</h5>
+
                                                                         </div>
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                                        <h5 class="draw-head2">12 months</h5>
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 4 draws. Remember to play again in 2 weeks.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
 
-                                                                        <h5 class="draw-head2"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 12 months of binding period.</h6>      
-                                                                    </div>   
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v3" name="optradio" value="1 month" checked><img/>
+                                                                                </label>
+                                                                            </div>
                                                                         
-                                                                </li>
+                                                                        </div>
+                                                                        
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                            </ul>
+                                                                            <h5 class="draw-head2">1 month</h5>
 
-                                                            <hr style="border-color:#6dc731;">
-                                                            
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                                        </div>  
+                                                                        
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-3">€28.00/month</h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 1 month of binding period.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
+
+
+                                                                    <li class="clearfix">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                            
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v4" name="optradio" value="12 month"><img/>
+                                                                                </label>
+                                                                            </div>
+                                                                        
+                                                                        </div>
+                                                                        
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
+
+                                                                            <h5 class="draw-head2">12 months</h5>
+
+                                                                        </div>  
+                                                                        
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-4"><span style="text-decoration:line-through">€28.00/month</span>  <span style="color:red">€25.20/month (10% off)</span></h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3"><span class="yellow">Credit card only</span> A recurring subscription with 12 months of binding period.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
+
+                                                                </ul>
+
+                                                                <hr style="border-color:#6dc731;">
+                                                                
+                                                                <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right" id="total_amount"></span></h3>
+
+                                                            </div>
 
                                                         </div>
 
-                                                    </div>
-
-                                                </section>
+                                                    </section>
 
                                                 <!-- Summary section end here -->
 
@@ -963,7 +967,7 @@
 
                                                 </section>
 
-                                                <!-- Summary Section Start here -->
+                                                 <!-- Summary Section Start here -->
 
                                                 <section class="summary-section">
 
@@ -976,36 +980,40 @@
                                                             <ul class="draw-order-list">
 
                                                                 <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v5" name="optradio" value="1 draw" checked><img/>
+                                                                                </label>
+                                                                            </div>
+
+                                                                        </div>
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                                        <h5 class="draw-head2">1 draw</h5>
+                                                                            <h5 class="draw-head2">1 draw</h5>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€3.50</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
-                                                                    </div>   
+                                                                        </div>  
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-5">€3.50</h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
 
                                                             </ul>
 
                                                             <hr style="border-color:#6dc731;">
                                                             
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no2"></span> =<span> <span class="pull-right" id="total_amount2"></span></h3>
 
                                                         </div>
 
@@ -1290,10 +1298,15 @@
                                                             <ul class="draw-order-list">
 
                                                                 <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
-                                                                        
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
                                                                     
+                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" id="v6" name="optradio" value="1 draw" checked><img/>
+                                                                            </label>
+                                                                        </div>
+
                                                                     </div>
                                                                     
                                                                     <div class="col-md-2 col-xs-4" style="padding-left:0">
@@ -1304,22 +1317,21 @@
                                                                     
                                                                     <div class="col-md-9 col-xs-6">
 
-                                                                        <h5 class="draw-head2">€3.50</h5>
+                                                                        <h5 class="draw-head2 draw-6">€2.50</h5>
 
                                                                     </div>
 
                                                                     <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
                                                                         <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
                                                                     </div>   
-                                                                        
+                                                                            
                                                                 </li>
-
 
                                                             </ul>
 
                                                             <hr style="border-color:#6dc731;">
                                                             
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no3"></span> =<span> <span class="pull-right" id="total_amount3"></span></h3>
 
                                                         </div>
 
@@ -1342,6 +1354,102 @@
 
                                                 </section>    
 
+                                                
+
+                                                <!-- pay and good luck section -->
+                                                <section class="pay-section" style="margin-bottom:0">
+
+                                                    <div class="row clearfix">
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-12">
+
+                                                            <h3 class="draw-heading1">Choose amount of players/shares</h3>
+                                                               
+                                                        </div>
+
+                                                        <div class="col-md-3 col-sm-3 col-xs-6">
+
+                                                            <h3>
+
+                                                                <form id='myform' method='POST' action='#'>
+
+                                                                    <div class="col-sm-2 col-xs-2">
+                                                                        <input type="button" value="-" class="qtyminus" field="quantity" >
+                                                                    </div>
+                                                                    
+                                                                    <div class="col-sm-6 col-xs-6">
+                                                                        <input type="text" name="quantity" value="2" class="qty form-control">
+                                                                    </div>
+                                                                    
+                                                                     <div class="col-sm-2 col-xs-2" style="padding:0"> 
+                                                                        <input type="button" value="+" class="qtyplus" field="quantity">
+                                                                     </div> 
+                                                                </form>
+
+                                                            </h3>
+
+                                                        </div>
+
+                                                        <div class="col-md-3 col-sm-3 col-xs-6">
+                                                            
+                                                            <h3 style="color:#6dc731"><span class="pull-right" id="total_amount4"></span><br>per player/share</h3>
+
+                                                        </div>  
+
+                                                    </div>
+
+                                                </section>
+
+
+                                                <section class="line-btn-background">
+
+                                                    <div class="row">
+
+                                                        <div class="col-md-12 text-right">
+
+                                                        </div>    
+                                                
+                                                    </div>
+
+                                                </section>    
+
+                                                
+
+                                                <!-- pay and good luck section -->
+                                                <section class="pay-section" style="margin-bottom:0">
+
+                                                    <div class="row clearfix">
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+
+                                                            <h3 class="draw-heading1">Choose a name for your game</h3>
+                                                        
+                                                        </div>
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+
+                                                            <h3 class="draw-heading1"><input type="text" style="width:50%" class="pull-right form-control"></h3>
+                                                        
+                                                        </div>
+
+                                                    </div>
+
+                                                </section>
+
+
+                                                <section class="line-btn-background">
+
+                                                    <div class="row">
+
+                                                        <div class="col-md-12 text-right">
+
+                                                        </div>    
+                                                
+                                                    </div>
+
+                                                </section>    
+
+                                                
 
                                                 <!-- pay and good luck section -->
                                                 <section class="pay-section">

@@ -1007,36 +1007,40 @@
                                                             <ul class="draw-order-list">
 
                                                                 <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+                                                                        <div class="col-md-1 col-xs-2 checkbox-padding">
+
+                                                                            <div class="options">
+                                                                                <label class="radio-inline">
+                                                                                    <input type="radio" id="v5" name="optradio" value="1 draw" checked><img/>
+                                                                                </label>
+                                                                            </div>
+
+                                                                        </div>
                                                                         
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw" checked>
-                                                                    
-                                                                    </div>
-                                                                    
-                                                                    <div class="col-md-2 col-xs-4" style="padding-left:0">
+                                                                        <div class="col-md-2 col-xs-4" style="padding-left:0">
 
-                                                                        <h5 class="draw-head2">1 draw</h5>
+                                                                            <h5 class="draw-head2">1 draw</h5>
 
-                                                                    </div>  
-                                                                    
-                                                                    <div class="col-md-9 col-xs-6">
-
-                                                                        <h5 class="draw-head2">€3.50</h5>
-
-                                                                    </div>
-
-                                                                    <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
-                                                                        <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
-                                                                    </div>   
+                                                                        </div>  
                                                                         
-                                                                </li>
+                                                                        <div class="col-md-9 col-xs-6">
+
+                                                                            <h5 class="draw-head2 draw-5">€3.50</h5>
+
+                                                                        </div>
+
+                                                                        <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
+                                                                            <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
+                                                                        </div>   
+                                                                            
+                                                                    </li>
 
 
                                                             </ul>
 
                                                             <hr style="border-color:#6dc731;">
                                                             
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no2"></span> =<span> <span class="pull-right" id="total_amount2"></span></h3>
 
                                                         </div>
 
@@ -1326,10 +1330,15 @@
                                                             <ul class="draw-order-list">
 
                                                                 <li class="clearfix">
-                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
-                                                                        
-                                                                        <input id="s_fac" name="draw" type="checkbox" class="sev_check" value="1 draw">
                                                                     
+                                                                    <div class="col-md-1 col-xs-2 checkbox-padding">
+
+                                                                        <div class="options">
+                                                                            <label class="radio-inline">
+                                                                                <input type="radio" id="v6" name="optradio" value="1 draw" checked><img/>
+                                                                            </label>
+                                                                        </div>
+
                                                                     </div>
                                                                     
                                                                     <div class="col-md-2 col-xs-4" style="padding-left:0">
@@ -1340,22 +1349,21 @@
                                                                     
                                                                     <div class="col-md-9 col-xs-6">
 
-                                                                        <h5 class="draw-head2">€3.50</h5>
+                                                                        <h5 class="draw-head2 draw-6">€2.50</h5>
 
                                                                     </div>
 
                                                                     <div class="col-offset-xs-1 col-xs-9" style="padding-left:0">
                                                                         <h6 class="draw-head3">Just 1 draw. Remember to play again next draw.</h6>      
                                                                     </div>   
-                                                                        
+                                                                            
                                                                 </li>
-
 
                                                             </ul>
 
                                                             <hr style="border-color:#6dc731;">
                                                             
-                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no"></span> =<span> <span class="pull-right">dsa</span></h3>
+                                                            <h3 class="total">Total price:<span style="color:#6dc731"> 1 Line x <span id="draw-no3"></span> =<span> <span class="pull-right" id="total_amount3"></span></h3>
 
                                                         </div>
 
@@ -1378,6 +1386,102 @@
 
                                                 </section>    
 
+                                                
+
+                                                <!-- pay and good luck section -->
+                                                <section class="pay-section" style="margin-bottom:0">
+
+                                                    <div class="row clearfix">
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-12">
+
+                                                            <h3 class="draw-heading1">Choose amount of players/shares</h3>
+                                                               
+                                                        </div>
+
+                                                        <div class="col-md-3 col-sm-3 col-xs-6">
+
+                                                            <h3>
+
+                                                                <form id='myform' method='POST' action='#'>
+
+                                                                    <div class="col-sm-2 col-xs-2">
+                                                                        <input type="button" value="-" class="qtyminus" field="quantity" >
+                                                                    </div>
+                                                                    
+                                                                    <div class="col-sm-6 col-xs-6">
+                                                                        <input type="text" name="quantity" value="2" class="qty form-control">
+                                                                    </div>
+                                                                    
+                                                                     <div class="col-sm-2 col-xs-2" style="padding:0"> 
+                                                                        <input type="button" value="+" class="qtyplus" field="quantity">
+                                                                     </div> 
+                                                                </form>
+
+                                                            </h3>
+
+                                                        </div>
+
+                                                        <div class="col-md-3 col-sm-3 col-xs-6">
+                                                            
+                                                            <h3 style="color:#6dc731"><span class="pull-right" id="total_amount4"></span><br>per player/share</h3>
+
+                                                        </div>  
+
+                                                    </div>
+
+                                                </section>
+
+
+                                                <section class="line-btn-background">
+
+                                                    <div class="row">
+
+                                                        <div class="col-md-12 text-right">
+
+                                                        </div>    
+                                                
+                                                    </div>
+
+                                                </section>    
+
+                                                
+
+                                                <!-- pay and good luck section -->
+                                                <section class="pay-section" style="margin-bottom:0">
+
+                                                    <div class="row clearfix">
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+
+                                                            <h3 class="draw-heading1">Choose a name for your game</h3>
+                                                        
+                                                        </div>
+
+                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+
+                                                            <h3 class="draw-heading1"><input type="text" style="width:50%" class="pull-right form-control"></h3>
+                                                        
+                                                        </div>
+
+                                                    </div>
+
+                                                </section>
+
+
+                                                <section class="line-btn-background">
+
+                                                    <div class="row">
+
+                                                        <div class="col-md-12 text-right">
+
+                                                        </div>    
+                                                
+                                                    </div>
+
+                                                </section>    
+
+                                                
 
                                                 <!-- pay and good luck section -->
                                                 <section class="pay-section">

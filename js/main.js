@@ -695,15 +695,56 @@ $(document).ready(function () {
 });
 
 
+jQuery(document).ready(function(){
+    // This button will increment the value
+    $('.qtyplus').click(function(e){
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If is not undefined
+        if (!isNaN(currentVal)) {
+            // Increment
+            $('input[name='+fieldName+']').val(currentVal + 1);
+        } else {
+            // Otherwise put a 0 there
+            $('input[name='+fieldName+']').val(0);
+        }
+    });
+    // This button will decrement the value till 0
+    $(".qtyminus").click(function(e) {
+        // Stop acting like a button
+        e.preventDefault();
+        // Get the field name
+        fieldName = $(this).attr('field');
+        // Get its current value
+        var currentVal = parseInt($('input[name='+fieldName+']').val());
+        // If it isn't undefined or its greater than 0
+        if (!isNaN(currentVal) && currentVal > 0) {
+            // Decrement one
+            $('input[name='+fieldName+']').val(currentVal - 1);
+        } else {
+            // Otherwise put a 0 there
+            $('input[name='+fieldName+']').val(0);
+        }
+    });
+});
 
 
        
     
 $(".radio-inline input[name='optradio']").click(function(){
     
-    var x ,y,z;
+    var x,y,z,a,b,c,d;
     var x = document.getElementById("draw-no");
+    var a = document.getElementById("draw-no2");
+    var c = document.getElementById("draw-no3");
     var z = document.getElementById("total_amount");
+    var b = document.getElementById("total_amount2");
+    var d = document.getElementById("total_amount3");
+    
     
     if (document.getElementById("v1").checked){
         y = document.getElementById("v1").value;
@@ -730,7 +771,20 @@ $(".radio-inline input[name='optradio']").click(function(){
         x.innerHTML = y;
         z.innerHTML = amount;
     }
+    else if (document.getElementById("v5").checked){
+        y = document.getElementById("v5").value;
+        var amount = $('.draw-5').html();
+        a.innerHTML = y;
+        b.innerHTML = amount;
+    }
+    else if (document.getElementById("v6").checked){
+        y = document.getElementById("v6").value;
+        var amount = $('.draw-6').html();
+        c.innerHTML = y;
+        d.innerHTML = amount;
+    }
+
     else
-    y = "kuch nhi;"
+    y = "NOTHING FOUND;"
     x.innerHTML = y;
 });

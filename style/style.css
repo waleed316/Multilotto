@@ -1568,8 +1568,17 @@
     }
 
 
-
-
+ 
+input.qtyminus,input.qtyplus{
+    width: 34px!important;
+    height: 34px!important;
+    border-radius: 17px!important;
+    background-color: white!important;
+    box-shadow: none!important;
+    border-color: #6dc731!important;
+    padding: 0px!important;
+    float: right;
+} 
 
 
 header { width: 100%; }
