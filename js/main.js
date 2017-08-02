@@ -149,7 +149,7 @@ $(document).ready(function () {
    
     // single player game boxes
         var bonusbox = [];
-        for (var j = 1; j <= 5; j++){
+        for (var j = 1; j <= 10; j++){
             bonusbox[j] = [];
         }     
 
